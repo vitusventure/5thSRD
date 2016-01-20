@@ -109,17 +109,17 @@ At 3rd level, you choose an archetype that you strive to emulate: Hunter or Beas
 
 ### Primeval Awareness
 - - -
-Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn’t reveal the creatures’ location or number. 
+Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number. 
 
 ### Ability Score Improvement 
 - - -
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. 
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. 
 
 ### Extra Attack 
 - - -
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. 
 
-### Land’s Stride
+### Land's Stride
 - - -
 Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.    
 In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell. 
@@ -131,12 +131,12 @@ Once you are camouflaged in this way, you can try to hide by pressing yourself u
 
 ### Vanish
 - - -
-Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can’t be tracked by nonmagical means, unless you choose to leave a trail. 
+Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail. 
 
 ### Feral Senses 
 - - -
-At 18th level, you gain preternatural senses that help you fight creatures you can’t see. When you attack a creature you can’t see, your inability to see it doesn’t impose disadvantage on your attack rolls against it.    
-You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn’t hidden from you and you aren’t blinded or deafened. 
+At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.    
+You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened. 
 
 ### Foe Slayer
 - - -
@@ -148,12 +148,12 @@ The ideal of the ranger has two classic expressions: the Hunter and the Beast Ma
 
 ### Hunter
 - - -
-Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons. 
+Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons. 
 
-#### Hunter’s Prey 
+#### Hunter's Prey 
 At 3rd level, you gain one of the following features of your choice.
 
-**Colossus Slayer.** Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.    
+**Colossus Slayer.** Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.    
 **Giant Killer.** When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.     
 **Horde Breaker.** Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon. 
 
@@ -167,12 +167,12 @@ At 7th level, you gain one of the following features of your choice.
 #### Multiattack 
 At 11th level, you gain one of the following features of your choice. 
 
-**Volley.** You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.    
+**Volley.** You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.    
 **Whirlwind Attack.** You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target. 
 
-#### Superior Hunter’s Defense 
+#### Superior Hunter's Defense 
 At 15th level, you gain one of the following features of your choice. 
 
-**Evasion.** When you are subjected to an effect, such as a red dragon’s fiery breath or a lightning bolt spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.    
+**Evasion.** When you are subjected to an effect, such as a red dragon's fiery breath or a lightning bolt spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.    
 **Stand Against the Tide.** When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.    
-**Uncanny Dodge.** When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
+**Uncanny Dodge.** When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
