@@ -4,7 +4,7 @@ These brief summaries of the nine alignments describe the typical behavior of a 
 
 **Lawful good (LG)** creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good.    
 **Neutral good (NG)** folk do the best they can to help others according to their needs. Many celestials, some cloud giants, and most gnomes are neutral good.    
-**Chaotic good (CG)** creatures act as their conscience directs, with little regard for what others expect. Copper dragons, many elves, and unicorns are chaotic good.
+**Chaotic good (CG)** creatures act as their conscience directs, with little regard for what others expect. Copper dragons, many elves, and unicorns are chaotic good.   
 **Lawful neutral (LN)** individuals act in accordance with law, tradition, or personal codes. Many monks and some wizards are lawful neutral.    
 **Neutral (N)** is the alignment of those who prefer to steer clear of moral questions and don't take sides, doing what seems best at the time. Lizardfolk, most druids, and many humans are neutral.    
 **Chaotic neutral (CN)** creatures follow their whims, holding their personal freedom above all else. Many barbarians and rogues, and some bards, are chaotic neutral.    
