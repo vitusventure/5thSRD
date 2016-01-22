@@ -2,3 +2,4 @@ site_name: 5th Edition SRD
 repo_url: https://github.com/vitusventure/5thSRD
 copyright: Provided by Wizards of the Coast under the OGL 1.0a
 google_analytics: ["UA-72655850-1", '5thsrd.org']
+theme: yeti
