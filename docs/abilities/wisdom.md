@@ -9,6 +9,7 @@ A Wisdom check might reflect an effort to read body language, understand someone
 **Perception.** Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses. For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear monsters moving stealthily in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.   
 **Survival.** The GM might ask you to make a Wisdom (Survival) check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.    
 **Other Wisdom Checks.** The GM might call for a Wisdom check when you try to accomplish tasks like the following:
+
 * Get a gut feeling about what course of action to follow 
 * Discern whether a seemingly dead or living creature is undead 
 

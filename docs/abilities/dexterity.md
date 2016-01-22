@@ -7,6 +7,7 @@ A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or 
 **Sleight of Hand.** Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The GM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket.    
 **Stealth.** Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.    
 **Other Dexterity Checks.** The GM might call for a Dexterity check when you try to accomplish tasks like the following:
+
 * Control a heavily laden cart on a steep descent 
 * Steer a chariot around a tight turn
 * Pick a lock 

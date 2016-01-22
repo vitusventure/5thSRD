@@ -7,8 +7,9 @@ An Intelligence check comes into play when you need to draw on logic, education,
 **History.** Your Intelligence (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.    
 **Investigation.** When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an Intelligence (Investigation) check.    
 **Nature.** Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.    
-**Religion.** Your Intelligence (Religion) check measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.    
+**Religion.** Your Intelligence (Religion) check measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.   
 **Other Intelligence Checks.** The GM might call for an Intelligence check when you try to accomplish tasks like the following: 
+
 * Communicate with a creature without using words
 * Estimate the value of a precious item
 * Pull together a disguise to pass as a city guard
