@@ -1,0 +1,15 @@
+@media (min-width: 768px) {
+div.navbar.navbar-default.navbar-fixed-top div.container {
+    width: 1300px;
+}
+}
+@media (min-width: 992px) {
+div.navbar.navbar-default.navbar-fixed-top div.container {
+    width: 1300px;
+}
+}
+@media (min-width: 1200px) {
+div.navbar.navbar-default.navbar-fixed-top div.container {
+    width: 1300px;
+}
+}
