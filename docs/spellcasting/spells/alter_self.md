@@ -1,3 +1,7 @@
+name: Alter Self
+level: 2
+school: transmutation
+
 # Alter Self 
 _2nd-level transmutation_ 
 

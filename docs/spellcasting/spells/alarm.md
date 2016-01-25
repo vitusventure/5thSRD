@@ -1,3 +1,7 @@
+name: Alarm
+level: 1
+school: abjuration
+
 # Alarm 
 _1st‐level abjuration (ritual)_ 
 

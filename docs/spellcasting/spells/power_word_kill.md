@@ -1,3 +1,7 @@
+name: Power Word Kill
+level: 9
+school: enchantment
+
 # Power Word Kill 
 _9th-level enchantment_ 
 

@@ -1,3 +1,7 @@
+name: Acid Splash
+level: 0
+school: conjuration
+
 # Acid Splash 
 _Conjuration cantrip_
 
