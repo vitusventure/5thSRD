@@ -3,6 +3,9 @@
 # Get the latest changes
 git pull
 
+# Generate spell lists
+python generate_linked_spell_lists.py
+
 # Build the site
 mkdocs build --clean
 

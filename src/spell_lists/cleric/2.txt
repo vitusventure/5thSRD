@@ -1,0 +1,17 @@
+Aid
+Augury 
+Blindness/Deafness 
+Calm Emotions 
+Continual Flame 
+Enhance Ability 
+Find Traps 
+Gentle Repose 
+Hold Person 
+Lesser Restoration 
+Locate Object 
+Prayer of Healing 
+Protection from Poison 
+Silence 
+Spiritual Weapon 
+Warding Bond 
+Zone of Truth 
