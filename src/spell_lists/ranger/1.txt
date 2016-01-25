@@ -1,0 +1,8 @@
+Alarm 
+Cure Wounds 
+Detect Magic 
+Detect Poison and Disease 
+Fog Cloud 
+Jump 
+Longstrider 
+Speak with Animals 

@@ -1,0 +1,11 @@
+Bless 
+Command 
+Cure Wounds 
+Detect Evil and Good 
+Detect Magic 
+Detect Poison and Disease 
+Divine Favor 
+Heroism 
+Protection from Evil and Good 
+Purify Food and Drink 
+Shield of Faith 
