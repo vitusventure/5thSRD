@@ -1,0 +1,20 @@
+Bane   
+Charm   
+Person   
+Comprehend   
+Languages   
+Cure Wounds   
+Detect Magic   
+Disguise Self   
+Faerie Fire   
+Feather Fall   
+Healing Word   
+Heroism   
+Hideous Laughter   
+Identify   
+Illusory Script   
+Longstrider   
+Silent Image   
+Sleep Speak with Animals   
+Thunderwave   
+Unseen Servant  

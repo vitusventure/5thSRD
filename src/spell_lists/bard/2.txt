@@ -1,0 +1,19 @@
+Animal Messenger   
+Blindness/Deafness   
+Calm Emotions   
+Detect Thoughts   
+Enhance Ability   
+Enthrall   
+Heat Metal   
+Hold Person   
+Invisibility   
+Knock   
+Lesser Restoration   
+Locate Animals or Plants   
+Locate Object   
+Magic Mouth   
+See Invisibility   
+Shatter   
+Silence   
+Suggestion   
+Zone of Truth   
