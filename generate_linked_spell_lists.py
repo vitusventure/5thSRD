@@ -18,6 +18,13 @@ def convert_filename_to_title(filename):
     else:
         return "## %sth level" % list_level
 
+def convert_to_linkable_spell_name(spell):
+    spell.replace(" ", "_")
+    spell.replace("'", "")
+    spell.replace("/", "")
+    spell.lower()
+    return spell
+
 def save_md(md, class_name):
     with open("%s/%s_spells.md" % (output_directory, class_name), "w") as f:
         for line in md:
@@ -36,7 +43,7 @@ def generate_md_for_class(class_name, class_files_path):
             # Loop over each line, should be one spell name per line
             for line in f.readlines():
                 spell_name = line.strip()
-                spell_name_link = spell_name.replace(" ", "_").lower()
+                spell_name_link = convert_to_linkable_spell_name(spell_name)
                 formatted_line = "[%s](%s/%s)   " % (spell_name, spells_relative_link, spell_name_link)
                 md.append(formatted_line)
             md.append(" ")

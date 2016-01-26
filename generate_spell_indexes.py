@@ -21,6 +21,13 @@ def generate_formatted_title(title):
     else:
         return "## %s" % title.capitalize()
 
+def convert_to_linkable_spell_name(spell):
+    spell.replace(" ", "_")
+    spell.replace("'", "")
+    spell.replace("/", "")
+    spell.lower()
+    return spell
+
 def output_file(sorted_spells, filename, page_title):
     output = []
     output.append(page_title)
@@ -28,7 +35,7 @@ def output_file(sorted_spells, filename, page_title):
         # Insert the header
         output.append(generate_formatted_title(category))
         for spell in sorted_spells[category]:
-            spell_link_name = spell.replace(" ", "_").replace("'", "").lower()
+            spell_link_name = convert_to_linkable_spell_name(spell)
             output.append("[%s](%s/%s)   " % (spell, spells_relative_link, spell_link_name))
         output.append(" ")
     with open("%s/%s" % (output_directory, filename), "w") as f:
