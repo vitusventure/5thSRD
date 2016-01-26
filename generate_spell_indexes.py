@@ -22,11 +22,7 @@ def generate_formatted_title(title):
         return "## %s" % title.capitalize()
 
 def convert_to_linkable_spell_name(spell):
-    spell.replace(" ", "_")
-    spell.replace("'", "")
-    spell.replace("/", "")
-    spell.lower()
-    return spell
+    return spell.replace(" ", "_").replace("'", "").replace("/", "").lower()
 
 def output_file(sorted_spells, filename, page_title):
     output = []

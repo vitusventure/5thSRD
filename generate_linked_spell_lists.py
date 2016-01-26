@@ -19,11 +19,7 @@ def convert_filename_to_title(filename):
         return "## %sth level" % list_level
 
 def convert_to_linkable_spell_name(spell):
-    spell.replace(" ", "_")
-    spell.replace("'", "")
-    spell.replace("/", "")
-    spell.lower()
-    return spell
+    return spell.replace(" ", "_").replace("'", "").replace("/", "").lower()
 
 def save_md(md, class_name):
     with open("%s/%s_spells.md" % (output_directory, class_name), "w") as f:
