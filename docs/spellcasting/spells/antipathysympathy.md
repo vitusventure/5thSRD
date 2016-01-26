@@ -2,7 +2,7 @@ name: Antipathy/Sympathy
 level: 8
 school: enchantment
 
-## Antipathy/Sympathy 
+# Antipathy/Sympathy 
 _8th-level enchantment_ 
 
 **Casting Time:** 1 hour    
