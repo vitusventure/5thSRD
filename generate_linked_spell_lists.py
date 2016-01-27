@@ -5,6 +5,10 @@ src_directory = "./src"
 output_directory = "./docs/spellcasting/spell_lists"
 spells_relative_link = "/spellcasting/spells"
 
+def create_output_directory():
+    if not os.path.exists(output_directory):
+        os.makedirs(output_directory)
+
 def convert_filename_to_title(filename):
     list_level = filename.split(".")[0]
     if list_level == "0":
@@ -46,6 +50,7 @@ def generate_md_for_class(class_name, class_files_path):
     return md
 
 if __name__ == "__main__":
+    create_output_directory()
     for root, directories, files in os.walk(src_directory):
         if not directories:
             class_name = root.split("/")[-1]
