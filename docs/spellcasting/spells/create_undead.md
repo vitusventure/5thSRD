@@ -3,7 +3,7 @@ level: 6
 school: necromancy
 
 # Create Undead 
-### _6th-level necromancy_ 
+_6th-level necromancy_ 
 
 **Casting Time:** 1 minute    
 **Range:** 10 feet    

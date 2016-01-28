@@ -3,7 +3,7 @@ level: 6
 school: necromancy
 
 # Eyebite 
-### _6th-level necromancy_ 
+_6th-level necromancy_ 
 
 **Casting Time:** 1 action    
 **Range:** Self    

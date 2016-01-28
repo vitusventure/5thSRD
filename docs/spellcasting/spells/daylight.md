@@ -3,7 +3,7 @@ level: 3
 school: evocation
 
 # Daylight 
-### _3rd-level evocation_ 
+_3rd-level evocation_ 
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    

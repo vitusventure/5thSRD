@@ -3,7 +3,7 @@ level: 4
 school: abjuration
 
 # Death Ward 
-### _4th-level abjuration_ 
+_4th-level abjuration_ 
 
 **Casting Time:** 1 action    
 **Range:** Touch    

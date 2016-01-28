@@ -3,7 +3,7 @@ level: 1
 school: transmutation
 
 # Create or Destroy Water 
-### _1st-level transmutation_    
+_1st-level transmutation_    
 
 **Casting Time:** 1 action    
 **Range:** 30 feet    

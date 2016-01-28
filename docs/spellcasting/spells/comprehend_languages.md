@@ -3,7 +3,7 @@ level: 1
 school: divination
 
 # Comprehend Languages 
-### _1st-level divination (ritual)_ 
+_1st-level divination (ritual)_ 
 
 **Casting Time:** 1 action    
 **Range:** Self    

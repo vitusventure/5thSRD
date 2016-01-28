@@ -3,7 +3,7 @@ level: 1
 school: conjuration
 
 # Entangle 
-### _1st-level conjuration_ 
+_1st-level conjuration_ 
 
 **Casting Time:** 1 action    
 **Range:** 90 feet    

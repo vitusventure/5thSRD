@@ -3,7 +3,7 @@ level: 3
 school: abjuration
 
 # Dispel Magic 
-### _3rd-level abjuration_ 
+_3rd-level abjuration_ 
 
 **Casting Time:** 1 action    
 **Range:** 120 feet    

@@ -3,7 +3,7 @@ level: 2
 school: evocation
 
 # Continual Flame 
-### _2nd-level evocation_ 
+_2nd-level evocation_ 
 
 **Casting Time:** 1 action    
 **Range:** Touch    

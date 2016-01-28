@@ -3,7 +3,7 @@ level: 6
 school: conjuration
 
 # Conjure Fey 
-### _6th-level conjuration_ 
+_6th-level conjuration_ 
 
 **Casting Time:** 1 minute    
 **Range:** 90 feet    

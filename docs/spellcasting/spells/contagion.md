@@ -3,7 +3,7 @@ level: 5
 school: necromancy
 
 # Contagion 
-### _5th-level necromancy_ 
+_5th-level necromancy_ 
 
 **Casting Time:** 1 action    
 **Range:** Touch   

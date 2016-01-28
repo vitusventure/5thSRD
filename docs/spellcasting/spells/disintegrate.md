@@ -3,7 +3,7 @@ level: 6
 school: transmutation
 
 # Disintegrate 
-### _6th-level transmutation_ 
+_6th-level transmutation_ 
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    

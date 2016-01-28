@@ -3,7 +3,7 @@ level: 1
 school: illusion
 
 # Disguise Self 
-### 1st-level illusion 
+_1st-level illusion_ 
 
 **Casting Time:** 1 action    
 **Range:** Self    

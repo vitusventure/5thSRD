@@ -3,7 +3,7 @@ level: 2
 school: enchantment
 
 # Enthrall 
-### _2nd-level enchantment_ 
+_2nd-level enchantment_ 
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    

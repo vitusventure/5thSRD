@@ -3,7 +3,7 @@ level: 4
 school: divination
 
 # Divination 
-### _4th-level divination (ritual)_ 
+_4th-level divination (ritual)_ 
 
 **Casting Time:** 1 action    
 **Range:** Self    

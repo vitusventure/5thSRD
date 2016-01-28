@@ -3,7 +3,7 @@ level: 5
 school: conjuration
 
 # Conjure Elemental 
-### _5th-level conjuration_ 
+_5th-level conjuration_ 
 
 **Casting Time:** 1 minute    
 **Range:** 90 feet    

@@ -3,7 +3,7 @@ level: 4
 school: conjuration
 
 # Conjure Minor Elementals 
-### _4th-level conjuration_ 
+_4th-level conjuration_ 
 
 **Casting Time:** 1 minute    
 **Range:** 90 feet    

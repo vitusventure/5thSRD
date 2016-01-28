@@ -3,7 +3,7 @@ level: 4
 school: enchantment
 
 # Confusion 
-### _4th-level enchantment_ 
+_4th-level enchantment_ 
 
 **Casting Time:** 1 action    
 **Range:** 90 feet    

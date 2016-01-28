@@ -3,7 +3,7 @@ level: 5
 school: enchantment
 
 # Dominate Person 
-### _5th-level enchantment_ 
+_5th-level enchantment_ 
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    

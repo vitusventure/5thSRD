@@ -3,7 +3,7 @@ level: 4
 school: transmutation
 
 # Control Water 
-### _4th-level transmutation_ 
+_4th-level transmutation_ 
 
 **Casting Time:** 1 action    
 **Range:** 300 feet    

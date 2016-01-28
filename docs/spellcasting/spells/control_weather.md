@@ -3,7 +3,7 @@ level: 8
 school: transmutation
 
 # Control Weather 
-### _8th-level transmutation_    
+_8th-level transmutation_    
 
 **Casting Time:** 10 minutes    
 **Range:** Self (5-mile radius)    

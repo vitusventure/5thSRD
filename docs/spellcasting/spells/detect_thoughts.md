@@ -3,8 +3,7 @@ level: 2
 school: divination
 
 # Detect Thoughts 
-
-### _2nd-level divination_ 
+_2nd-level divination_ 
 
 **Casting Time:** 1 action    
 **Range:** Self    

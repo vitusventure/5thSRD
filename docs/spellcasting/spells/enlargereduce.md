@@ -3,7 +3,7 @@ level: 2
 school: transmutation
 
 # Enlarge/Reduce 
-### _2nd-level transmutation_ 
+_2nd-level transmutation_ 
 
 **Casting Time:** 1 action    
 **Range:** 30 feet    

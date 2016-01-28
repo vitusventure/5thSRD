@@ -2,8 +2,7 @@ name: Cone of Cold
 level: 5
 school: evocation
 
-# Cone of Cold 
-### _5th-level evocation_ 
+_5th-level evocation_ 
 
 **Casting Time:** 1 action    
 **Range:** Self (60-foot cone)    

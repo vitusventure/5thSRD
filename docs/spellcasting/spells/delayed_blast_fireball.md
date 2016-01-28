@@ -3,7 +3,7 @@ level: 7
 school: evocation
 
 # Delayed Blast Fireball 
-### _7th-level evocation_ 
+_7th-level evocation_ 
 
 **Casting Time:** 1 action    
 **Range:** 150 feet    

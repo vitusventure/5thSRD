@@ -3,7 +3,7 @@ level: 1
 school: evocation
 
 # Divine Favor 
-### _1st-level evocation_ 
+_1st-level evocation_ 
 
 **Casting Time:** 1 bonus action    
 **Range:** Self    

@@ -3,7 +3,7 @@ level: 8
 school: enchantment
 
 # Dominate Monster 
-### _8th-level enchantment_ 
+_8th-level enchantment_ 
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    

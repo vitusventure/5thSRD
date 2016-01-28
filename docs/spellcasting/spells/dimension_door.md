@@ -3,7 +3,7 @@ level: 4
 school: conjuration
 
 # Dimension Door 
-### _4th-level conjuration_ 
+_4th-level conjuration_ 
 
 **Casting Time:** 1 action    
 **Range:** 500 feet    

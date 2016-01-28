@@ -3,8 +3,7 @@ level: 6
 school: evocation
 
 # Contingency 
-
-### _6th-level evocation_ 
+_6th-level evocation_ 
 
 **Casting Time:** 10 minutes    
 **Range:** Self    

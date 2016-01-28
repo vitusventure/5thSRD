@@ -3,7 +3,7 @@ level: 7
 school: evocation
 
 # Divine Word 
-### _7th-level evocation_ 
+_7th-level evocation_ 
 
 **Casting Time:** 1 bonus action    
 **Range:** 30 feet    

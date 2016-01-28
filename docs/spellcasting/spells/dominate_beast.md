@@ -3,7 +3,7 @@ level: 4
 school: enchantment
 
 # Dominate Beast 
-### _4th-level enchantment_ 
+_4th-level enchantment_ 
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    

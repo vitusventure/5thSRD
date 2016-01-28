@@ -3,7 +3,7 @@ level: 1
 school: transmutation
 
 # Expeditious Retreat 
-### _1st-level transmutation_ 
+_1st-level transmutation_ 
 
 **Casting Time:** 1 bonus action    
 **Range:** Self    

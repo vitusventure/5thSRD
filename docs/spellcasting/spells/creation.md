@@ -3,7 +3,7 @@ level: 5
 school: illusion
 
 # Creation 
-### _5th-level illusion_ 
+_5th-level illusion_ 
 
 **Casting Time:** 1 minute    
 **Range:** 30 feet    

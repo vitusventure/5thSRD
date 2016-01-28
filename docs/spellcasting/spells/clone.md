@@ -1,4 +1,4 @@
-name: clone
+name: Clone
 level: 8
 school: necromancy
 

@@ -3,7 +3,7 @@ level: 7
 school: conjuration
 
 # Conjure Celestial 
-### _7th-level conjuration_ 
+_7th-level conjuration_ 
 
 **Casting Time:** 1 minute    
 **Range:** 90 feet    

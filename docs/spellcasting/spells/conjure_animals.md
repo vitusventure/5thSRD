@@ -3,7 +3,7 @@ level: 3
 school: conjuration
 
 # Conjure Animals 
-### _3rd-level conjuration_ 
+_3rd-level conjuration_ 
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    

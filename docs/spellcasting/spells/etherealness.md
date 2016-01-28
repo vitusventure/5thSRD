@@ -3,7 +3,7 @@ level: 7
 school: transmutation
 
 # Etherealness 
-### _7th-level transmutation_ 
+_7th-level transmutation_ 
 
 **Casting Time:** 1 action    
 **Range:** Self    

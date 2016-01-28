@@ -3,7 +3,7 @@ level: 5
 school: abjuration
 
 # Dispel Evil and Good 
-### _5th-level abjuration_ 
+_5th-level abjuration_ 
 
 **Casting Time:** 1 action    
 **Range:** Self    

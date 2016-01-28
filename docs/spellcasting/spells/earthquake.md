@@ -3,7 +3,7 @@ level: 8
 school: evocation
 
 # Earthquake 
-### _8th-level evocation_ 
+_8th-level evocation_ 
 
 **Casting Time:** 1 action    
 **Range:** 500 feet    

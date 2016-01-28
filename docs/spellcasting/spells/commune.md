@@ -3,7 +3,7 @@ level: 5
 school: divination
 
 # Commune 
-### _5th-level divination (ritual)_ 
+_5th-level divination (ritual)_ 
 
 **Casting Time:** 1 minute    
 **Range:** Self    

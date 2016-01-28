@@ -3,7 +3,7 @@ level: 1
 school: divination
 
 # Detect Evil and Good 
-### _1st-level divination_ 
+_1st-level divination_ 
 
 **Casting Time:** 1 action    
 **Range:** Self    

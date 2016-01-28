@@ -3,7 +3,7 @@ level: 1
 school: evocation
 
 # Cure Wounds 
-### _1st-level evocation_ 
+_1st-level evocation_ 
 
 **Casting Time:** 1 action    
 **Range:** Touch    
