@@ -49,6 +49,7 @@ if __name__ == "__main__":
     spells_by_school = {}
     spells_by_name = {}
     for filename in spell_files:
+        print filename
         md = markdown.Markdown(extensions = ['markdown.extensions.meta'])
         input_file = codecs.open("%s/%s" % (spells_directory, filename), mode="r",
                                  encoding="utf-8")

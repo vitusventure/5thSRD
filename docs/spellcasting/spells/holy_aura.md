@@ -1,6 +1,6 @@
 name: Holy Aura
 level: 8
-school abjuration
+school: abjuration
 
 # Holy Aura 
 _8th-level abjuration_ 
