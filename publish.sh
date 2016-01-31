@@ -11,4 +11,7 @@ python generate_spell_indexes.py
 mkdocs build --clean
 
 # Sync to S3
-s3cmd sync site/ s3://5thsrd.org/
+aws s3 sync ./site/ s3://5thsrd.org/ --region="us-east-1"
+
+# Invalidate Cloudfront cache
+aws cloudfront create-invalidation --distribution-id E21QCV3S5T8Z34 --paths "/*"
