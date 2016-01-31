@@ -1,4 +1,6 @@
 site_name: 5th Edition SRD
 repo_url: https://github.com/vitusventure/5thSRD
-copyright: Provided by Wizards of the Coast under the OGL 1.0a
+copyright: Provided by Wizards of the Coast under the OGL 1.0a.
+site_description: A web-based version of the 5th Edition Dungeons and Dragons SRD (System Reference Document)
 google_analytics: ["UA-72655850-1", '5thsrd.org']
+theme_dir: "5thsrd_theme"
