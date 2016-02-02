@@ -1,5 +1,5 @@
 name: Prismatic Spray
-level; 7
+level: 7
 school: evocation
 
 # Prismatic Spray 
