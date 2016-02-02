@@ -32,11 +32,11 @@ As a barbarian, you gain the following class features.
 **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st  
 
 ### Proficiencies
-**Armor:** Light armor, medium armor, shields
-**Weapons:** Simple weapons, martial weapons
-**Tools:** None
-**Saving Throws:** Strength, Constitution
-**Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
+**Armor:** Light armor, medium armor, shields   
+**Weapons:** Simple weapons, martial weapons   
+**Tools:** None   
+**Saving Throws:** Strength, Constitution   
+**Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival   
 
 ### Equipment 
 You start with the following equipment, in addition to the equipment granted by your background:
