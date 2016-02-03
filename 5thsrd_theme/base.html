@@ -56,7 +56,8 @@
             {% if copyright %}
                 <p>{{ copyright }}</p>
             {% endif %}
-            <p>Check out the <a href="{{ repo_url }}">GitHub</a> repo.  Website built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+            <p>{% if repo_url %}Check out the <a href="{{ repo_url }}">GitHub</a> repo.  {% endif %}Website built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+            <p>Download the offline version of this site <a href="{{ base_url }}/5thsrd_offline.zip">here.</a></p>
         </footer>
 
         <script src="{{ base_url }}/js/jquery-1.10.2.min.js"></script>

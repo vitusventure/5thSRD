@@ -1,6 +1,7 @@
 import os
 import markdown
 import codecs
+import argparse
 
 spells_directory = "./docs/spellcasting/spells"
 output_directory = "./docs/spellcasting/spell_indexes"
@@ -36,13 +37,21 @@ def output_file(sorted_spells, filename, page_title):
         output.append(generate_formatted_title(category))
         for spell in sorted_spells[category]:
             spell_link_name = convert_to_linkable_spell_name(spell)
-            output.append("[%s](%s/%s)   " % (spell, spells_relative_link, spell_link_name))
+            if args.offline:
+                output.append("[%s](%s/%s/index.html)   " % (spell, spells_relative_link, spell_link_name))
+            else:
+                output.append("[%s](%s/%s)   " % (spell, spells_relative_link, spell_link_name))
         output.append(" ")
     with open("%s/%s" % (output_directory, filename), "w") as f:
         for line in output:
             f.write(line + "\n")
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--offline", action="store_true", default=False)
+    args = parser.parse_args()
+    if args.offline:
+        print "Generating in offline mode..."
     create_output_directory()
     spell_files = os.listdir(spells_directory)
     spells_by_level = {}

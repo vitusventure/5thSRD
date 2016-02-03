@@ -1,5 +1,6 @@
 import os
 import glob
+import argparse
 
 src_directory = "./src"
 output_directory = "./docs/spellcasting/spell_lists"
@@ -44,12 +45,20 @@ def generate_md_for_class(class_name, class_files_path):
             for line in f.readlines():
                 spell_name = line.strip()
                 spell_name_link = convert_to_linkable_spell_name(spell_name)
-                formatted_line = "[%s](%s/%s)   " % (spell_name, spells_relative_link, spell_name_link)
+                if args.offline:
+                    formatted_line = "[%s](%s/%s/index.html)   " % (spell_name, spells_relative_link, spell_name_link)
+                else:
+                    formatted_line = "[%s](%s/%s)   " % (spell_name, spells_relative_link, spell_name_link)
                 md.append(formatted_line)
             md.append(" ")
     return md
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--offline", action="store_true", default=False)
+    args = parser.parse_args()
+    if args.offline:
+        print "Generating in offline mode..."
     create_output_directory()
     for root, directories, files in os.walk(src_directory):
         if not directories:
