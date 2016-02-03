@@ -2,7 +2,7 @@
 
 This is a website containing all of the rules provided by Wizards of the Coast in the SRD5.0, released under the OGL1.0a.
 
-If you notice any errors, please create a pull request with the correction in the GitHub repo (upper right).
+If you notice any errors, please create a pull request with the correction in the GitHub repo (see footer).
 
 This is still a work in progress, so not all rules may be present!
 
@@ -45,7 +45,7 @@ This is still a work in progress, so not all rules may be present!
 | [Making an Attack](/combat/making_an_attack)     | [Underwater Combat](/combat/underwater_combat)         |
 
 ### Rules
-| Rules                                                           | Rules - Abilities                                 | Rules - Diseases                                           |
+| Rules                                                           | Rules - Abilities                                 | Rules - GM Rules                                           |
 |-----------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------|
 | [Advantage and Disadvantage](/rules/advantage_and_disadvantage) | [Ability Checks](/rules/abilities/ability_checks) | [Diseases](/rules/GM_rules/diseases)                       |
 | [Conditions](/rules/conditions)                                 | [Ability Scores](/rules/abilities/ability_scores) | [Legendary Creatures](/rules/GM_rules/legendary_creatures) |
