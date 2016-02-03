@@ -25,7 +25,8 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 **Force.** Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including **_magic missile_** and **_spiritual weapon_**.   
 **Lightning.** A **_lightning bolt_** spell and a blue dragon's breath deal lightning damage.   
 **Necrotic.** Necrotic damage, dealt by certain undead and a spell such as **_chill touch_**, withers matter and even the soul.   
-**Piercing.** Puncturing and impaling attacks, including spears and monsters' bites, deal piercing damage. Poison. Venomous stings and the toxic gas of a green dragon's breath deal poison damage.    
+**Piercing.** Puncturing and impaling attacks, including spears and monsters' bites, deal piercing damage.    
+**Poison.** Venomous stings and the toxic gas of a green dragon's breath deal poison damage.    
 **Psychic.** Mental abilities such as a mind flayer's psionic blast deal psychic damage.   
 **Radiant.** Radiant damage, dealt by a cleric's **_flame strike_** spell or an angel's smiting weapon, sears the flesh like fire and overloads the spirit with power.   
 **Slashing.** Swords, axes, and monsters' claws deal slashing damage.   
@@ -64,7 +65,11 @@ You can use your action to administer first aid to an unconscious creature and a
 A **stable** creature doesn't make death saving throws, even though it has 0 hit points, but it does remain unconscious. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after 1d4 hours. 
 
 ### Monsters and Death 
-Most GMs have a monster die the instant it drops to 0 hit points, rather than having it fall unconscious and make death saving throws. Mighty villains and special nonplayer characters are common exceptions; the GM might have them fall unconscious and follow the same rules as player characters. Knocking a Creature Out Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker reduces a creature to 0 hit points with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls unconscious and is stable. 
+Most GMs have a monster die the instant it drops to 0 hit points, rather than having it fall unconscious and make death saving throws.    
+Mighty villains and special nonplayer characters are common exceptions; the GM might have them fall unconscious and follow the same rules as player characters. 
+
+## Knocking a Creature Out 
+Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker reduces a creature to 0 hit points with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls unconscious and is stable. 
 
 ## Temporary Hit Points 
 Some spells and special abilities confer temporary hit points to a creature. Temporary hit points aren't actual hit points; they are a buffer against damage, a pool of hit points that protect you from injury.    
