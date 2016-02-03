@@ -1,6 +1,5 @@
 Arcane Sword
-Delayed Blast
-Fireball
+Delayed Blast Fireball
 Etherealness
 Finger of Death
 Forcecage
