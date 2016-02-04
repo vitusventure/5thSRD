@@ -35,7 +35,7 @@ def output_file(sorted_spells, filename, page_title):
     for category in sorted(sorted_spells):
         # Insert the header
         output.append(generate_formatted_title(category))
-        for spell in sorted_spells[category]:
+        for spell in sorted(sorted_spells[category]):
             spell_link_name = convert_to_linkable_spell_name(spell)
             if args.offline:
                 output.append("[%s](%s/%s/index.html)   " % (spell, spells_relative_link, spell_link_name))

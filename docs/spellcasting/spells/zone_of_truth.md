@@ -1,3 +1,7 @@
+name: Zone of Truth
+level: 2
+school: enchantment
+
 # Zone of Truth 
 _2nd-level enchantment_ 
 
