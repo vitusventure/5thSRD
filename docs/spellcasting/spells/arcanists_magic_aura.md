@@ -1,6 +1,6 @@
 name: Arcanist's Magic Aura
 level: 2
-school: illustion
+school: illusion
 
 # Arcanist's Magic Aura 
 _2nd-level illusion_ 

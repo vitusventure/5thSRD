@@ -4,7 +4,7 @@ This is a website containing all of the rules provided by Wizards of the Coast i
 
 If you notice any errors, please create a pull request with the correction in the GitHub repo (see footer).
 
-This is still a work in progress, so not all rules may be present!
+All rules and spells have been entered, we are currently working to complete Magic Items and Monsters.  If a spell doesn't appear on this site, it is not licensed under the OGL, and you must buy a book from Wizards of the Coast.
 
 ### Adventuring
 

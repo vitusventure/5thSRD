@@ -1,6 +1,6 @@
 name: Planar Binding
 level: 5
-school: aburation
+school: abjuration
 
 # Planar Binding 
 _5th-level abjuration_ 
