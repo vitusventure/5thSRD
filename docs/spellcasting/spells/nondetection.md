@@ -1,4 +1,4 @@
-name: Nondection
+name: Nondetection 
 level: 3
 school: abjuration
 

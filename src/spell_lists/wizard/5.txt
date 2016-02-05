@@ -15,7 +15,8 @@ Modify Memory
 Passwall
 Planar Binding
 Scrying
-Seeming Telekinesis
+Seeming 
+Telekinesis
 Telepathic Bond
 Teleportation Circle
 Wall of Force

@@ -9,8 +9,7 @@ Dimension Door
 Fabricate
 Faithful Hound
 Fire Shield
-Greater
-Invisibility
+Greater Invisibility
 Hallucinatory Terrain
 Ice Storm
 Locate Creature

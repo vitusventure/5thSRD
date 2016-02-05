@@ -1,7 +1,7 @@
 Antimagic Field
 Antipathy/Sympathy
-Clone Control
-Weather
+Clone 
+Control Weather
 Demiplane
 Dominate Monster
 Feeblemind
