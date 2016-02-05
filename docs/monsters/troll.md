@@ -1,3 +1,6 @@
+name: troll
+challenge: 5
+
 # Troll
 _Large giant, chaotic evil_
 
