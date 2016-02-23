@@ -1,5 +1,5 @@
-name: treant
-challenge: 9
+name: Treant
+cr: 9
 
 # Treant
 _Huge plant, chaotic good_

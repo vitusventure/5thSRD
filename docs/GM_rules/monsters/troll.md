@@ -1,5 +1,5 @@
-name: troll
-challenge: 5
+name: Troll
+cr: 5
 
 # Troll
 _Large giant, chaotic evil_

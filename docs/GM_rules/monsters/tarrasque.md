@@ -1,5 +1,5 @@
-name: tarrasque
-challenge: 30
+name: Tarrasque
+cr: 30
 
 # Tarrasque
 _Gargantuan monstrosity (titan), unaligned_
