@@ -4,18 +4,18 @@ import markdown
 import codecs
 
 spell_list_src = os.path.join(".", "src")
-spells_md_src = os.path.join(".", "docs", "spellcasting", "spells")
+spells_md_src = os.path.join(".", "docs", "Spellcasting", "spells")
 class_spell_lists_output = os.path.join(".", "docs", "spellcasting", "spell_lists")
 spell_indexes_output = os.path.join(".", "docs", "spellcasting", "spell_indexes")
 spells_relative_link_prefix = "/Spellcasting/spells"
 
-items_md_src = os.path.join(".", "docs", "GM_rules", "magic_items")
-item_indexes_output = os.path.join(".", "docs", "GM_rules", "magic_item_indexes")
-items_relative_link_prefix = "/GM_rules/magic_items"
+items_md_src = os.path.join(".", "docs", "GM_Rules", "magic_items")
+item_indexes_output = os.path.join(".", "docs", "GM_Rules", "magic_item_indexes")
+items_relative_link_prefix = "/GM_Rules/magic_items"
 
-monsters_md_src = os.path.join(".", "docs", "GM_rules", "monsters")
-monster_indexes_output = os.path.join(".", "docs", "GM_rules", "monster_indexes")
-monsters_relative_link_prefix = "/GM_rules/monsters"
+monsters_md_src = os.path.join(".", "docs", "GM_Rules", "monsters")
+monster_indexes_output = os.path.join(".", "docs", "GM_Rules", "monster_indexes")
+monsters_relative_link_prefix = "/GM_Rules/monsters"
 
 def create_output_directories():
     directories = [class_spell_lists_output, spell_indexes_output, item_indexes_output, monster_indexes_output]

@@ -59,15 +59,15 @@ All Rules and spells have been entered, we are currently working to complete Mag
 
 
 ### GM Rules
-| GM Rules                                                   | GM Rules - Magic Item Indexes                               | GM Rules - Monster Indexes
-|------------------------------------------------------------|-------------------------------------------------------------|
-| [Diseases](/Rules/GM_Rules/diseases)                       | [Items by Name](/GM_Rules/magic_item_indexes/items_by_name) | [Monsters by Name](/GM_Rules/monster_indexes/Monsters_by_Name)
-| [Legendary Creatures](/Rules/GM_Rules/legendary_creatures) | [Items by Type](/GM_Rules/magic_item_indexes/items_by_type) | [Monsters by CR](/GM_Rules/monster_indexes/Monsters_by_CR)
-| [Madness](/Rules/GM_Rules/madness)                         |                                                             |
-| [Monsters](/Rules/GM_Rules/monsters)                       |                                                             |
-| [Objects](/Rules/GM_Rules/objects)                         |                                                             |
-| [Poisons](/Rules/GM_Rules/poisons)                         |                                                             |
-| [Traps](/Rules/GM_Rules/traps)                             |                                                             |
+| GM Rules                                             | GM Rules - Magic Item Indexes                               | GM Rules - Monster Indexes                                     |
+|------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------|
+| [Diseases](/GM_Rules/diseases)                       | [Items by Name](/GM_Rules/magic_item_indexes/items_by_name) | [Monsters by Name](/GM_Rules/monster_indexes/Monsters_by_Name) |
+| [Legendary Creatures](/GM_Rules/legendary_creatures) | [Items by Type](/GM_Rules/magic_item_indexes/items_by_type) | [Monsters by CR](/GM_Rules/monster_indexes/Monsters_by_CR)     |
+| [Madness](/GM_Rules/madness)                         |                                                             |                                                                |
+| [Monsters](/GM_Rules/monsters)                       |                                                             |                                                                |
+| [Objects](/GM_Rules/objects)                         |                                                             |                                                                |
+| [Poisons](/GM_Rules/poisons)                         |                                                             |                                                                |
+| [Traps](/GM_Rules/traps)                             |                                                             |                                                                |
 
 ### Spellcasting
 | Spellcasting                                      | Spellcasting - Spell Indexes                                     | Spellcasting - Spell Lists                            |
