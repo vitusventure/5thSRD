@@ -1,6 +1,7 @@
 .idea/
 site/
 5thsrd_offline/
-docs/spellcasting/spell_lists
-docs/spellcasting/spell_indexes
-docs/GM_rules/magic__item_indexes
+docs/Spellcasting/spell_lists
+docs/Spellcasting/spell_indexes
+docs/GM_Rules/magic_item_indexes
+docs/GM_Rules/monster_indexes

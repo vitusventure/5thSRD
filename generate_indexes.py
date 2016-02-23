@@ -5,8 +5,8 @@ import codecs
 
 spell_list_src = os.path.join(".", "src")
 spells_md_src = os.path.join(".", "docs", "Spellcasting", "spells")
-class_spell_lists_output = os.path.join(".", "docs", "spellcasting", "spell_lists")
-spell_indexes_output = os.path.join(".", "docs", "spellcasting", "spell_indexes")
+class_spell_lists_output = os.path.join(".", "docs", "Spellcasting", "spell_lists")
+spell_indexes_output = os.path.join(".", "docs", "Spellcasting", "spell_indexes")
 spells_relative_link_prefix = "/Spellcasting/spells"
 
 items_md_src = os.path.join(".", "docs", "GM_Rules", "magic_items")
