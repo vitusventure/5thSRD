@@ -23,7 +23,7 @@ All Rules and spells have been entered, we are currently working to complete Mag
 ### Character
 | Basic Character Rules                                                   | Character - Classes                       | Character - Races                         |
 |-------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------|
-| [Alignment](/Character/alignment)                                       | [Barbarian](/Character/classes/barbarian) | [Dragonborm](/Character/races/dragonborn) |
+| [Alignment](/Character/alignment)                                       | [Barbarian](/Character/classes/barbarian) | [Dragonborn](/Character/races/dragonborn) |
 | [Backgrounds](/Character/backgrounds)                                   | [Bard](/Character/classes/bard)           | [Dwarf](/Character/races/dwarf)           |
 | [Fantasy-Historical Pantheons](/Character/fantasy-historical_pantheons) | [Cleric](/Character/classes/cleric)       | [Elf](/Character/races/elf)               |
 | [Languages](/Character/languages)                                       | [Druid](/Character/classes/druid)         | [Gnome](/Character/races/gnome)           |
