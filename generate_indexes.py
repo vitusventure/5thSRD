@@ -11,7 +11,7 @@ spells_relative_link_prefix = "/spellcasting/spells"
 
 items_md_src = os.path.join(".", "docs", "gamemaster_rules", "magic_items")
 item_indexes_output = os.path.join(".", "docs", "gamemaster_rules", "magic_item_indexes")
-items_relative_link_prefix = "//magic_items"
+items_relative_link_prefix = "/gamemaster_rules/magic_items"
 
 monsters_md_src = os.path.join(".", "docs", "gamemaster_rules", "monsters")
 monster_indexes_output = os.path.join(".", "docs", "gamemaster_rules", "monster_indexes")
@@ -142,7 +142,7 @@ def generate_spells_by_level(spell_map):
         else:
             spells_by_level[spell_level] = [spell]
     md_output = convert_map_by_to_markdown(spells_by_level, "# Spells by Level", spells_relative_link_prefix)
-    write_md_to_file(md_output, os.path.join(spell_indexes_output, "Spells_by_Level.md"))
+    write_md_to_file(md_output, os.path.join(spell_indexes_output, "spells_by_level.md"))
 
 
 def generate_spells_by_name(spell_map):
@@ -155,7 +155,7 @@ def generate_spells_by_name(spell_map):
         else:
             spells_by_name[spell_category] = [spell]
     md_output = convert_map_by_to_markdown(spells_by_name, "# Spells by Name", spells_relative_link_prefix)
-    write_md_to_file(md_output, os.path.join(spell_indexes_output, "Spells_by_Name.md"))
+    write_md_to_file(md_output, os.path.join(spell_indexes_output, "spells_by_name.md"))
 
 def generate_spells_by_school(spell_map):
     print "Generating spells by school..."
@@ -167,7 +167,7 @@ def generate_spells_by_school(spell_map):
         else:
             spells_by_school[spell_school] = [spell]
     md_output = convert_map_by_to_markdown(spells_by_school, "# Spells by School", spells_relative_link_prefix)
-    write_md_to_file(md_output, os.path.join(spell_indexes_output, "Spells_by_School.md"))
+    write_md_to_file(md_output, os.path.join(spell_indexes_output, "spells_by_school.md"))
 
 def generate_items_by_name(item_map):
     print "Generating items by name..."
@@ -179,7 +179,7 @@ def generate_items_by_name(item_map):
         else:
             items_by_name[item_category] = [item]
     md_output = convert_map_by_to_markdown(items_by_name, "# Items by Name", items_relative_link_prefix)
-    write_md_to_file(md_output, os.path.join(item_indexes_output, "Items_by_Name.md"))
+    write_md_to_file(md_output, os.path.join(item_indexes_output, "items_by_name.md"))
 
 def generate_items_by_type(item_map):
     print "Generating items by type..."
@@ -191,7 +191,7 @@ def generate_items_by_type(item_map):
         else:
             items_by_type[item_category] = [item]
     md_output = convert_map_by_to_markdown(items_by_type, "# Items by Type", items_relative_link_prefix)
-    write_md_to_file(md_output, os.path.join(item_indexes_output, "Items_by_Type.md"))
+    write_md_to_file(md_output, os.path.join(item_indexes_output, "items_by_type.md"))
 
 def generate_monsters_by_name(monster_map):
     print "Generating monsters by name..."
@@ -203,7 +203,7 @@ def generate_monsters_by_name(monster_map):
         else:
             monsters_by_name[monster_category] = [monster]
     md_output = convert_map_by_to_markdown(monsters_by_name, "# Monsters by Name", monsters_relative_link_prefix)
-    write_md_to_file(md_output, os.path.join(monster_indexes_output, "Monsters_by_Name.md"))
+    write_md_to_file(md_output, os.path.join(monster_indexes_output, "monsters_by_name.md"))
 
 def generate_monsters_by_cr(monster_map):
     print "Generating monsters by cr..."
@@ -215,7 +215,7 @@ def generate_monsters_by_cr(monster_map):
         else:
             monsters_by_cr[monster_category] = [monster]
     md_output = convert_map_by_to_markdown(monsters_by_cr, "# Monsters by CR", monsters_relative_link_prefix, spells=False)
-    write_md_to_file(md_output, os.path.join(monster_indexes_output, "Monsters_by_CR.md"))
+    write_md_to_file(md_output, os.path.join(monster_indexes_output, "monsters_by_cr.md"))
 
 def generate_md_spell_list(class_name, class_files_path):
     md = []

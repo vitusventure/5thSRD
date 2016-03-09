@@ -4,79 +4,79 @@ This is a website containing all of the Rules provided by Wizards of the Coast i
 
 If you notice any errors, please create a pull request with the correction in the GitHub repo (see footer).
 
-All Rules and spells have been entered, we are currently working to complete Magic Items and Monsters.  If a spell doesn't appear on this site, it is not licensed under the OGL, and you must buy a book from Wizards of the Coast.
+All rules, spells, and items have been entered.  We are currently working on adding Monsters.  If a spell doesn't appear on this site, it is not licensed under the OGL, and you must buy a book from Wizards of the Coast.
 
 ### Adventuring
 
 | General Adventuring                                     | Adventuring - Equipment                                           |
 |---------------------------------------------------------|-------------------------------------------------------------------|
-| [Between Adventures](/Adventuring/between_adventures)   | [Adventuring Gear](/Adventuring/equipment/adventuring_gear)       |
-| [Movement](/Adventuring/movement)                       | [Armor](/Adventuring/equipment/armor)                             |
-| [Planes of Existence](/Adventuring/planes_of_existence) | [Coins](/Adventuring/equipment/coins)                             |
-| [Resting](/Adventuring/resting)                         | [Equipment Packs](/Adventuring/equipment/equipment_packs)         |
-| [The Environment](/Adventuring/the_environment)         | [Mounts and Vehicles](/Adventuring/equipment/mounts_and_vehicles) |
-| [Time](/Adventuring/time)                               | [Tools](/Adventuring/equipment/tools)                             |
-|                                                         | [Trade Goods](/Adventuring/equipment/trade_goods)                 |
-|                                                         | [Weapons](/Adventuring/equipment/weapons)                         |
+| [Between Adventures](/adventuring/between_adventures)   | [Adventuring Gear](/adventuring/equipment/adventuring_gear)       |
+| [Movement](/adventuring/movement)                       | [Armor](/adventuring/equipment/armor)                             |
+| [Planes of Existence](/adventuring/planes_of_existence) | [Coins](/adventuring/equipment/coins)                             |
+| [Resting](/adventuring/resting)                         | [Equipment Packs](/adventuring/equipment/equipment_packs)         |
+| [The Environment](/adventuring/the_environment)         | [Mounts and Vehicles](/adventuring/equipment/mounts_and_vehicles) |
+| [Time](/adventuring/time)                               | [Tools](/adventuring/equipment/tools)                             |
+|                                                         | [Trade Goods](/adventuring/equipment/trade_goods)                 |
+|                                                         | [Weapons](/adventuring/equipment/weapons)                         |
 
 
 ### Character
 | Basic Character Rules                                                   | Character - Classes                       | Character - Races                         |
 |-------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------|
-| [Alignment](/Character/alignment)                                       | [Barbarian](/Character/classes/barbarian) | [Dragonborn](/Character/races/dragonborn) |
-| [Backgrounds](/Character/backgrounds)                                   | [Bard](/Character/classes/bard)           | [Dwarf](/Character/races/dwarf)           |
-| [Fantasy-Historical Pantheons](/Character/fantasy-historical_pantheons) | [Cleric](/Character/classes/cleric)       | [Elf](/Character/races/elf)               |
-| [Languages](/Character/languages)                                       | [Druid](/Character/classes/druid)         | [Gnome](/Character/races/gnome)           |
-|                                                                         | [Fighter](/Character/classes/fighter)     | [Half-Elf](/Character/races/half-elf)     |
-|                                                                         | [Monk](/Character/classes/monk)           | [Half-Orc](/Character/races/half-orc)     |
-|                                                                         | [Paladin](/Character/classes/paladin)     | [Halfling](/Character/races/halfling)     |
-|                                                                         | [Ranger](/Character/classes/ranger)       | [Human](/Character/races/human)           |
-|                                                                         | [Rogue](/Character/classes/rogue)         | [Tiefling](/Character/races/tiefling)     |
-|                                                                         | [Sorcerer](/Character/classes/sorcerer)   |                                           |
-|                                                                         | [Warlock](/Character/classes/warlock)     |                                           |
-|                                                                         | [Wizard](/Character/classes/wizard)       |                                           |
+| [Alignment](/character/alignment)                                       | [Barbarian](/character/classes/barbarian) | [Dragonborn](/character/races/dragonborn) |
+| [Backgrounds](/character/backgrounds)                                   | [Bard](/character/classes/bard)           | [Dwarf](/character/races/dwarf)           |
+| [Fantasy-Historical Pantheons](/character/fantasy-historical_pantheons) | [Cleric](/character/classes/cleric)       | [Elf](/character/races/elf)               |
+| [Languages](/character/languages)                                       | [Druid](/character/classes/druid)         | [Gnome](/character/races/gnome)           |
+|                                                                         | [Fighter](/character/classes/fighter)     | [Half-Elf](/character/races/half-elf)     |
+|                                                                         | [Monk](/character/classes/monk)           | [Half-Orc](/character/races/half-orc)     |
+|                                                                         | [Paladin](/character/classes/paladin)     | [Halfling](/character/races/halfling)     |
+|                                                                         | [Ranger](/character/classes/ranger)       | [Human](/character/races/human)           |
+|                                                                         | [Rogue](/character/classes/rogue)         | [Tiefling](/character/races/tiefling)     |
+|                                                                         | [Sorcerer](/character/classes/sorcerer)   |                                           |
+|                                                                         | [Warlock](/character/classes/warlock)     |                                           |
+|                                                                         | [Wizard](/character/classes/wizard)       |                                           |
 
 ### Combat
 | Combat                                           |                                                        |
 |--------------------------------------------------|--------------------------------------------------------|
-| [Actions in Combat](/Combat/actions_in_Combat)   | [Mounted Combat](/Combat/mounted_Combat)               |
-| [Cover](/Combat/cover)                           | [Movement and Position](/Combat/movement_and_position) |
-| [Damage and Healing](/Combat/damage_and_healing) | [Order of Combat](/Combat/order_of_Combat)             |
-| [Making an Attack](/Combat/making_an_attack)     | [Underwater Combat](/Combat/underwater_Combat)         |
+| [Actions in Combat](/combat/actions_in_combat)   | [Mounted Combat](/combat/mounted_combat)               |
+| [Cover](/combat/cover)                           | [Movement and Position](/combat/movement_and_position) |
+| [Damage and Healing](/combat/damage_and_healing) | [Order of Combat](/combat/order_of_combat)             |
+| [Making an Attack](/combat/making_an_attack)     | [Underwater Combat](/combat/underwater_combat)         |
 
 ### Rules
 | Rules                                                           | Rules - Abilities                                 |
 |-----------------------------------------------------------------|---------------------------------------------------|
-| [Advantage and Disadvantage](/Rules/advantage_and_disadvantage) | [Ability Checks](/Rules/abilities/ability_checks) |
-| [Conditions](/Rules/conditions)                                 | [Ability Scores](/Rules/abilities/ability_scores) |
-| [Expenses](/Rules/expenses)                                     | [Saving Throws](/Rules/abilities/saving_throws)   |
-| [Feats](/Rules/feats)                                           | [Charisma](/Rules/abilities/charisma)             |
-| [Inspiration](/Rules/inspiration)                               | [Constitution](/Rules/abilities/constitution)     |
-| [Leveling Up](/Rules/leveling_up)                               | [Dexterity](/Rules/abilities/dexterity)           |
-| [Multiclassing](/Rules/multiclassing)                           | [Intelligence](/Rules/abilities/intelligence)     |
-| [Proficiency Bonus](/Rules/proficiency_bonus)                   | [Strength](/Rules/abilities/strength)             |
-|                                                                 | [Wisdom](/Rules/abilities/wisdom)                 |
+| [Advantage and Disadvantage](/rules/advantage_and_disadvantage) | [Ability Checks](/rules/abilities/ability_checks) |
+| [Conditions](/rules/conditions)                                 | [Ability Scores](/rules/abilities/ability_scores) |
+| [Expenses](/rules/expenses)                                     | [Saving Throws](/rules/abilities/saving_throws)   |
+| [Feats](/rules/feats)                                           | [Charisma](/rules/abilities/charisma)             |
+| [Inspiration](/rules/inspiration)                               | [Constitution](/rules/abilities/constitution)     |
+| [Leveling Up](/rules/leveling_up)                               | [Dexterity](/rules/abilities/dexterity)           |
+| [Multiclassing](/rules/multiclassing)                           | [Intelligence](/rules/abilities/intelligence)     |
+| [Proficiency Bonus](/rules/proficiency_bonus)                   | [Strength](/rules/abilities/strength)             |
+|                                                                 | [Wisdom](/rules/abilities/wisdom)                 |
 
 
 ### GM Rules
-| GM Rules                                             | GM Rules - Magic Item Indexes                               | GM Rules - Monster Indexes                                     |
-|------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------|
-| [Diseases](/GM_Rules/diseases)                       | [Items by Name](/GM_Rules/magic_item_indexes/items_by_name) | [Monsters by Name](/GM_Rules/monster_indexes/Monsters_by_Name) |
-| [Legendary Creatures](/GM_Rules/legendary_creatures) | [Items by Type](/GM_Rules/magic_item_indexes/items_by_type) | [Monsters by CR](/GM_Rules/monster_indexes/Monsters_by_CR)     |
-| [Madness](/GM_Rules/madness)                         |                                                             |                                                                |
-| [Monsters](/GM_Rules/monsters)                       |                                                             |                                                                |
-| [Objects](/GM_Rules/objects)                         |                                                             |                                                                |
-| [Poisons](/GM_Rules/poisons)                         |                                                             |                                                                |
-| [Traps](/GM_Rules/traps)                             |                                                             |                                                                |
+| GM Rules                                                     | GM Rules - Magic Item Indexes                                       | GM Rules - Monster Indexes                                             |
+|--------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------|
+| [Diseases](/gamemaster_rules/diseases)                       | [Items by Name](/gamemaster_rules/magic_item_indexes/items_by_name) | [Monsters by Name](/gamemaster_rules/monster_indexes/monsters_by_name) |
+| [Legendary Creatures](/gamemaster_rules/legendary_creatures) | [Items by Type](/gamemaster_rules/magic_item_indexes/items_by_type) | [Monsters by CR](/gamemaster_rules/monster_indexes/monsters_by_cr)     |
+| [Madness](/gamemaster_rules/madness)                         |                                                                     |                                                                        |
+| [Monsters](/gamemaster_rules/monsters)                       |                                                                     |                                                                        |
+| [Objects](/gamemaster_rules/objects)                         |                                                                     |                                                                        |
+| [Poisons](/gamemaster_rules/poisons)                         |                                                                     |                                                                        |
+| [Traps](/gamemaster_rules/traps)                             |                                                                     |                                                                        |
 
 ### Spellcasting
 | Spellcasting                                      | Spellcasting - Spell Indexes                                     | Spellcasting - Spell Lists                            |
 |---------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------|
-| [Casting a Spell](/Spellcasting/casting_a_spell)  | [Spells by Level](/Spellcasting/spell_indexes/spells_by_level)   | [Bard](/Spellcasting/spell_lists/bard_spells)         |
-| [What is a Spell?](/Spellcasting/what_is_a_spell) | [Spells by Name](/Spellcasting/spell_indexes/spells_by_name)     | [Cleric](/Spellcasting/spell_lists/cleric_spells)     |
-|                                                   | [Spells by School](/Spellcasting/spell_indexes/spells_by_school) | [Druid](/Spellcasting/spell_lists/druid_spells)       |
-|                                                   |                                                                  | [Paladin](/Spellcasting/spell_lists/paladin_spells)   |
-|                                                   |                                                                  | [Ranger](/Spellcasting/spell_lists/ranger_spells)     |
-|                                                   |                                                                  | [Sorcerer](/Spellcasting/spell_lists/sorcerer_spells) |
-|                                                   |                                                                  | [Warlock](/Spellcasting/spell_lists/warlock_spells)   |
-|                                                   |                                                                  | [Wizard](/Spellcasting/spell_lists/wizard_spells)     |
+| [Casting a Spell](/spellcasting/casting_a_spell)  | [Spells by Level](/spellcasting/spell_indexes/spells_by_level)   | [Bard](/spellcasting/spell_lists/bard_spells)         |
+| [What is a Spell?](/spellcasting/what_is_a_spell) | [Spells by Name](/spellcasting/spell_indexes/spells_by_name)     | [Cleric](/spellcasting/spell_lists/cleric_spells)     |
+|                                                   | [Spells by School](/spellcasting/spell_indexes/spells_by_school) | [Druid](/spellcasting/spell_lists/druid_spells)       |
+|                                                   |                                                                  | [Paladin](/spellcasting/spell_lists/paladin_spells)   |
+|                                                   |                                                                  | [Ranger](/spellcasting/spell_lists/ranger_spells)     |
+|                                                   |                                                                  | [Sorcerer](/spellcasting/spell_lists/sorcerer_spells) |
+|                                                   |                                                                  | [Warlock](/spellcasting/spell_lists/warlock_spells)   |
+|                                                   |                                                                  | [Wizard](/spellcasting/spell_lists/wizard_spells)     |
