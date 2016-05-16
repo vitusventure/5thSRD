@@ -31,5 +31,5 @@ At will: **_detect evil and good_**, **_invisibility_** (self only)
 
 ### Actions 
 **Multiattack.** The planetar makes two melee attacks.    
-**Greatsword.** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.   
+**Greatsword.** _Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.   
 **Healing Touch** (4/Day). The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.
