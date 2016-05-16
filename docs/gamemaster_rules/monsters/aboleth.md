@@ -14,12 +14,12 @@ _Large aberration, lawful evil_
 |----------|---------|----------|---------|---------|---------|
 | 21 (+5)  | 9 (-1)  | 15 (+2)  | 18 (+4) | 15 (+2) | 18 (+4) |
 
-
 **Saving Throws** Con +6, Int +8, Wis +6    
 **Skills** History +12, Perception +10    
 **Senses** darkvision 120 ft., passive Perception 20    
 **Languages** Deep Speech, telepathy 120 ft.    
-**Challenge** 10 (5,900 XP)    
+**Challenge** 10 (5,900 XP)
+
 **Amphibious.** The aboleth can breathe air and water.    
 **Mucous Cloud.** While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 feet of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater.    
 **Probing Telepathy.** If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature. 
