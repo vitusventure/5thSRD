@@ -40,6 +40,6 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 
 The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tarrasque regains spent legendary actions at the start of its turn.
 
-**Attack.** The tarrasque makes one claw attack or tail attack. 
-**Move.** The tarrasque moves up to half its speed. 
+**Attack.** The tarrasque makes one claw attack or tail attack.    
+**Move.** The tarrasque moves up to half its speed.    
 **Chomp (Costs 2 Actions).** The tarrasque makes one bite attack or uses its Swallow. 
