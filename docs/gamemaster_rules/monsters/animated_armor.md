@@ -24,4 +24,4 @@ _Medium construct, unaligned_
 
 ### Actions 
 **Multiattack.** The armor makes two melee attacks.    
-**Slam.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+**Slam.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage.
