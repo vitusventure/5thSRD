@@ -26,7 +26,7 @@ _Large celestial, lawful good_
 **Innate Spellcasting.** The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:    
 At will: **_detect evil and good_**, **_invisibility_** (self only)    
 3/day each: **_blade barrier_**, **_dispel evil and good_**, **_flame strike_**, **_raise dead_**    
-1/day each: **_commune_**, *_control weather_**, **_insect plague_**    
+1/day each: **_commune_**, **_control weather_**, **_insect plague_**    
 **Magic Resistance.** The planetar has advantage on saving throws against spells and other magical effects. 
 
 ### Actions 
