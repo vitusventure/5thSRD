@@ -5,8 +5,8 @@ cr: 30
 # Tarrasque
 _Gargantuan monstrosity (titan), unaligned_
 
-**Armor Class** 25 (natural armor)
-**Hit Points** 676 (33d20 + 330)
+**Armor Class** 25 (natural armor)   
+**Hit Points** 676 (33d20 + 330)   
 **Speed** 40ft
 
 | STR      | DEX     | CON      | INT     | WIS     | CHA     |
