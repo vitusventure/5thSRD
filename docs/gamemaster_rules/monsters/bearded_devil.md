@@ -1,8 +1,10 @@
 name: Bearded Devil
 type: fiend (devil)
-cr
+cr: 3
 
-Bearded Devil Medium fiend (devil), lawful evil 
+# Bearded Devil 
+_Medium fiend (devil), lawful evil_
+
 **Armor Class** 13 (natural armor)    
 **Hit Points** 52 (8d8 + 16)    
 **Speed** 30 ft. 
