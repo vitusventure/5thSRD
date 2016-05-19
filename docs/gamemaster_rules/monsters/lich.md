@@ -25,7 +25,7 @@ _Medium undead, any evil alignment_
 **Legendary Resistance (3/Day).** If the lich fails a saving throw, it can choose to succeed instead.    
 **Rejuvenation.** If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.    
 **Spellcasting.** The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:    
-Cantrips (at will): mage hand, prestidigitation, ray of frost_**    
+Cantrips (at will): **_mage hand, prestidigitation, ray of frost_**    
 1st level (4 slots): **_detect magic, magic missile, shield, thunderwave_**    
 2nd level (3 slots): **_acid arrow, detect thoughts, invisibility, mirror image_**    
 3rd level (3 slots): **_animate dead, counterspell, dispel magic, fireball_**    
