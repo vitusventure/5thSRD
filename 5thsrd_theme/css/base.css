@@ -275,3 +275,16 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
     -moz-border-radius: 6px 0 6px 6px;
     border-radius: 6px 0 6px 6px;
 }
+@media(min-width: 768px) and (max-width:991px) {
+    body {
+        margin-top: 150px;
+    }
+}
+@media(min-width: 992px) and (max-width:1199px) {
+    body {
+        margin-top: 40px;
+    }
+    .bs-sidebar.affix {
+        position: fixed;
+        top: 120px;
+}
