@@ -1,4 +1,4 @@
-name: aboleth
+name: Aboleth
 cr: 10
 type: abberation
 

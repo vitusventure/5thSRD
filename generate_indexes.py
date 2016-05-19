@@ -212,6 +212,18 @@ def generate_monsters_by_name(monster_map):
     md_output = convert_map_by_to_markdown(monsters_by_name, "# Monsters by Name", monsters_relative_link_prefix)
     write_md_to_file(md_output, os.path.join(monster_indexes_output, "monsters_by_name.md"))
 
+def generate_monsters_by_type(monster_map):
+    print "Generating monsters by type..."
+    monsters_by_type = {}
+    for monster in monster_map:
+        monster_category = monster_map[monster]["type"]
+        if monster_category in monsters_by_type:
+            monsters_by_type[monster_category].append(monster)
+        else:
+            monsters_by_type[monster_category] = [monster]
+    md_output = convert_map_by_to_markdown(monsters_by_type, "# Monsters by type", monsters_relative_link_prefix)
+    write_md_to_file(md_output, os.path.join(monster_indexes_output, "monsters_by_type.md"))
+
 def generate_monsters_by_cr(monster_map):
     print "Generating monsters by cr..."
     monsters_by_cr = {}
@@ -276,4 +288,5 @@ if __name__ == "__main__":
     generate_items_by_type(items_map)
 
     generate_monsters_by_name(monsters_map)
+    generate_monsters_by_type(monsters_map)
     generate_monsters_by_cr(monsters_map)
