@@ -1,6 +1,6 @@
 name: Elf, Drow
 type: humanoid (elf)
-cr: 1/4
+cr: .25
 
 # Elf, Drow 
 _Medium humanoid (elf), neutral evil_

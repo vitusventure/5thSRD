@@ -35,6 +35,8 @@ def write_md_to_file(md, path):
 def generate_formatted_title(title, spells=True):
     if type(title) == int:
         title = str(title)
+    if type(title) == float:
+        title = str(title)
     if len(title) == 1 and title.isdigit() and spells:
         if title == "0":
             return "## Cantrips (0 level)"
@@ -98,12 +100,13 @@ def construct_monsters_map():
         try:
             name = md.Meta["name"][0]
             cr = md.Meta["cr"][0]
+            type = md.Meta["type"][0]
             name_category = md.Meta["name"][0][0].capitalize()
         except KeyError as e:
             print "Error in %s" % filename
             print "Unable to find meta variables: %s" % e.message
             exit(1)
-        output[name] = {"name_category": name_category, "cr": int(cr)}
+        output[name] = {"name_category": name_category, "cr": str(cr), "type": type}
     return output
 
 
@@ -111,9 +114,13 @@ def convert_to_linkable_name(spell):
     return spell.replace(" ", "_").replace("'", "").replace("/", "").replace(",", "").replace("+", "").lower()
 
 
-def convert_map_by_to_markdown(map_by, page_title, link_prefix, spells=True):
+def convert_map_by_to_markdown(map_by, page_title, link_prefix, spells=True, floats=False):
     output = [page_title]
-    for category in sorted(map_by):
+    if floats:
+        sorted_map = sorted(map_by, key=float)
+    else:
+        sorted_map = sorted(map_by)
+    for category in sorted_map:
         output.append(generate_formatted_title(category, spells))
         for item in sorted(map_by[category]):
             item_link_name = convert_to_linkable_name(item)
@@ -214,7 +221,7 @@ def generate_monsters_by_cr(monster_map):
             monsters_by_cr[monster_category].append(monster)
         else:
             monsters_by_cr[monster_category] = [monster]
-    md_output = convert_map_by_to_markdown(monsters_by_cr, "# Monsters by CR", monsters_relative_link_prefix, spells=False)
+    md_output = convert_map_by_to_markdown(monsters_by_cr, "# Monsters by CR", monsters_relative_link_prefix, spells=False, floats=True)
     write_md_to_file(md_output, os.path.join(monster_indexes_output, "monsters_by_cr.md"))
 
 def generate_md_spell_list(class_name, class_files_path):

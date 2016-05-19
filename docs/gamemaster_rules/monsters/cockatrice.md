@@ -1,6 +1,6 @@
 name: Cockatrice
 type: monstrosity
-cr: 1/2
+cr: .5
 
 # Cockatrice 
 _Small monstrosity, unaligned_

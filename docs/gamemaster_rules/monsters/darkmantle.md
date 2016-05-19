@@ -1,6 +1,6 @@
 name: Darkmantle
 type: monstrosity
-cr: 1/2
+cr: .5
 
 # Darkmantle 
 _Small monstrosity, unaligned_

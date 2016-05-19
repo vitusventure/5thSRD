@@ -1,6 +1,6 @@
 name: White Dragon Wyrmling
 type: dragon
-cf: 2
+cr: 2
 
 # White Dragon Wyrmling 
 _Medium dragon, chaotic evil_

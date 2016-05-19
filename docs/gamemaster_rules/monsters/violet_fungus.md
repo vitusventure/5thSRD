@@ -1,6 +1,6 @@
 name: Violet Fungus
 type: plant
-cr: 1/4
+cr: .25
 
 # Violet Fungus 
 _Medium plant, unaligned_

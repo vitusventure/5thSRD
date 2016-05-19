@@ -1,6 +1,6 @@
 name: Flying Sword
 type: construct
-cr: 1/4
+cr: .25
 
 # Flying Sword 
 _Small construct, unaligned_

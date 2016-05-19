@@ -1,6 +1,6 @@
 name: Dretch
 type: fiend (demon)
-cr: 1/4
+cr: .25
 
 # Dretch 
 _Small fiend (demon), chaotic evil_
