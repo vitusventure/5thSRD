@@ -43,6 +43,6 @@ Cantrips (at will): **_mage hand, prestidigitation, ray of frost_**
 ### Legendary Actions 
 The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.    
 **Cantrip.** The lich casts a cantrip.    
-**Paralyzing Touch.**(Costs 2 Actions). The lich uses its Paralyzing Touch.    
+**Paralyzing Touch (Costs 2 Actions).** The lich uses its Paralyzing Touch.    
 **Frightening Gaze (Costs 2 Actions).** The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lich's gaze for the next 24 hours.    
 **Disrupt Life (Costs 3 Actions).** Each living creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
