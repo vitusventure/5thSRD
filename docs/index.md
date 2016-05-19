@@ -62,8 +62,8 @@ All rules, spells, and items have been entered.  We are currently working on add
 | GM Rules                                                     | GM Rules - Magic Item Indexes                                       | GM Rules - Monster Indexes                                             |
 |--------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------|
 | [Diseases](/gamemaster_rules/diseases)                       | [Items by Name](/gamemaster_rules/magic_item_indexes/items_by_name) | [Monsters by Name](/gamemaster_rules/monster_indexes/monsters_by_name) |
-| [Legendary Creatures](/gamemaster_rules/legendary_creatures) | [Items by Type](/gamemaster_rules/magic_item_indexes/items_by_type) | [Monsters by CR](/gamemaster_rules/monster_indexes/monsters_by_cr)     |
-| [Madness](/gamemaster_rules/madness)                         |                                                                     |                                                                        |
+| [Legendary Creatures](/gamemaster_rules/legendary_creatures) | [Items by Type](/gamemaster_rules/magic_item_indexes/items_by_type) | [Monsters by Type](/gamemaster_rules/monster_indexes/monsters_by_type) |
+| [Madness](/gamemaster_rules/madness)                         |                                                                     | [Monsters by CR](/gamemaster_rules/monster_indexes/monsters_by_cr)     |
 | [Monsters](/gamemaster_rules/monsters)                       |                                                                     |                                                                        |
 | [Objects](/gamemaster_rules/objects)                         |                                                                     |                                                                        |
 | [Poisons](/gamemaster_rules/poisons)                         |                                                                     |                                                                        |
