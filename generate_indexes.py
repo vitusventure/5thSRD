@@ -111,7 +111,7 @@ def construct_monsters_map():
 
 
 def convert_to_linkable_name(spell):
-    return spell.replace(" ", "_").replace("'", "").replace("/", "").replace(",", "").replace("+", "").lower()
+    return spell.replace(" ", "_").replace("'", "").replace("/", "").replace(",", "").replace("+", "").replace("-", "_").lower()
 
 
 def convert_map_by_to_markdown(map_by, page_title, link_prefix, spells=True, floats=False):
