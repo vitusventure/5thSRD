@@ -1,8 +1,11 @@
 Alarm 
+Animal Friendship
 Cure Wounds 
 Detect Magic 
 Detect Poison and Disease 
 Fog Cloud 
+Goodberry
+Hunter's Mark
 Jump 
 Longstrider 
 Speak with Animals 
