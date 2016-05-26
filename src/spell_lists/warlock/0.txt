@@ -1,5 +1,7 @@
 Chill Touch
+Eldritch Blast
 Mage Hand
 Minor Illusion
+Poison Spray
 Prestidigitation
 True Strike
