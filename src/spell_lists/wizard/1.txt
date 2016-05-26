@@ -8,6 +8,7 @@ Disguise Self
 Expeditious Retreat
 False Life
 Feather Fall
+Find Familiar
 Floating Disk
 Fog Cloud
 Grease
