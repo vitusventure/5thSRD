@@ -1,3 +1,4 @@
+Counterspell
 Dispel Magic
 Fear
 Fly
