@@ -3,4 +3,5 @@ Light
 Mending
 Resistance
 Sacred Flame
+Spare the Dying
 Thaumaturgy
