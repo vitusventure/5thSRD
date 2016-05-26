@@ -1,11 +1,13 @@
 Acid Splash
 Chill Touch
 Dancing Lights
+Fire Bolt
 Light
 Mage Hand
 Mending
 Message
 Minor Illusion
+Poison Spray
 Prestidigitation
 Ray of Frost
 Shocking Grasp
