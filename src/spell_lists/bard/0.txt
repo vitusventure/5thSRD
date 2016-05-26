@@ -6,3 +6,4 @@ Message
 Minor Illusion   
 Prestidigitation   
 True Strike 
+Vicious Mockery
