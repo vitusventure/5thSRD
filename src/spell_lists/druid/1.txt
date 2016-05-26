@@ -1,3 +1,4 @@
+Animal Friendship
 Charm Person 
 Create or Destroy Water 
 Cure Wounds 
@@ -7,6 +8,8 @@ Entangle
 Faerie Fire 
 Fog Cloud 
 Healing Word 
+Goodberry
+Healing Word
 Jump 
 Longstrider 
 Purify Food and Drink 
