@@ -61,15 +61,18 @@ Questions or comments can be directed to <john@5thsrd.org>
 
 
 ### GM Rules
-| GM Rules                                                     | GM Rules - Magic Item Indexes                                       | GM Rules - Monster Indexes                                             |
-|--------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------|
-| [Diseases](/gamemaster_rules/diseases)                       | [Items by Name](/gamemaster_rules/magic_item_indexes/items_by_name) | [Monsters by Name](/gamemaster_rules/monster_indexes/monsters_by_name) |
-| [Legendary Creatures](/gamemaster_rules/legendary_creatures) | [Items by Type](/gamemaster_rules/magic_item_indexes/items_by_type) | [Monsters by Type](/gamemaster_rules/monster_indexes/monsters_by_type) |
-| [Madness](/gamemaster_rules/madness)                         |                                                                     | [Monsters by CR](/gamemaster_rules/monster_indexes/monsters_by_cr)     |
-| [Monsters](/gamemaster_rules/monsters)                       |                                                                     |                                                                        |
-| [Objects](/gamemaster_rules/objects)                         |                                                                     |                                                                        |
-| [Poisons](/gamemaster_rules/poisons)                         |                                                                     |                                                                        |
-| [Traps](/gamemaster_rules/traps)                             |                                                                     |                                                                        |
+| GM Rules                                                          | GM Rules - Magic Item Indexes                                       | GM Rules - Monster Indexes                                             |
+|-------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------|
+| [Diseases](/gamemaster_rules/diseases)                            | [Items by Name](/gamemaster_rules/magic_item_indexes/items_by_name) | [Monsters by Name](/gamemaster_rules/monster_indexes/monsters_by_name) |
+| [Legendary Creatures](/gamemaster_rules/legendary_creatures)      | [Items by Type](/gamemaster_rules/magic_item_indexes/items_by_type) | [Monsters by Type](/gamemaster_rules/monster_indexes/monsters_by_type) |
+| [Madness](/gamemaster_rules/madness)                              |                                                                     | [Monsters by CR](/gamemaster_rules/monster_indexes/monsters_by_cr)     |
+| [Magic Items](/gamemaster_rules/magic_items)                      |                                                                     |                                                                        |
+| [Monsters](/gamemaster_rules/monsters)                            |                                                                     |                                                                        |
+| [Nonplayer Characters](/gamemaster_rules/nonplayer_characters)    |                                                                     |                                                                        |
+| [Objects](/gamemaster_rules/objects)                              |                                                                     |                                                                        |
+| [Poisons](/gamemaster_rules/poisons)                              |                                                                     |                                                                        |
+| [Sentient Magical Items](/gamemaster_rules/sentient_magical_items)|                                                                     |                                                                        |
+| [Traps](/gamemaster_rules/traps)                                  |                                                                     |                                                                        |
 
 ### Spellcasting
 | Spellcasting                                      | Spellcasting - Spell Indexes                                     | Spellcasting - Spell Lists                            |
