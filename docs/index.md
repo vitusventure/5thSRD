@@ -1,10 +1,12 @@
 ## Welcome to the 5e Dungeons and Dragons SRD!
 
-This is a website containing all of the Rules provided by Wizards of the Coast in the SRD5.0, released under the OGL1.0a.
+This is a website containing all of the Rules provided by Wizards of the Coast in the SRD5.1, released under the OGL1.0a.
 
 If you notice any errors, please create a pull request with the correction in the GitHub repo (see footer).
 
-All rules, spells, and items have been entered.  We are currently working on adding Monsters.  If a spell doesn't appear on this site, it is not licensed under the OGL, and you must buy a book from Wizards of the Coast.
+All items in the SRD are on this site.  The SRD contains a subset of the content in the official books.
+
+Questions or comments can be directed to <john@5thsrd.org>
 
 ### Adventuring
 
