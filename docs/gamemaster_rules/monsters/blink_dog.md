@@ -25,4 +25,4 @@ _Medium fey, lawful good_
 **Teleport (Recharge 4–6).** The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack. 
 
 ### Description
-A blink dog takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long- standing hatred for displacer beasts and attack them on sight. 
+A blink dog takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm.

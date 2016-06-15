@@ -27,7 +27,7 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 **Necrotic.** Necrotic damage, dealt by certain undead and a spell such as **_chill touch_**, withers matter and even the soul.   
 **Piercing.** Puncturing and impaling attacks, including spears and monsters' bites, deal piercing damage.    
 **Poison.** Venomous stings and the toxic gas of a green dragon's breath deal poison damage.    
-**Psychic.** Mental abilities such as a mind flayer's psionic blast deal psychic damage.   
+**Psychic.** Mental abilities such as a psionic blast deal psychic damage.   
 **Radiant.** Radiant damage, dealt by a cleric's **_flame strike_** spell or an angel's smiting weapon, sears the flesh like fire and overloads the spirit with power.   
 **Slashing.** Swords, axes, and monsters' claws deal slashing damage.   
 **Thunder.** A concussive burst of sound, such as the effect of the **_thunderwave spell_**, deals thunder damage. 
