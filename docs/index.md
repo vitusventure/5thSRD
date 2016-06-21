@@ -1,6 +1,6 @@
 ## Welcome to the 5e Dungeons and Dragons SRD!
 
-This is a website containing all of the Rules provided by Wizards of the Coast in the SRD5.1, released under the OGL1.0a.
+This is a website containing all of the Rules provided by Wizards of the Coast in the SRD5.1, released under the [OGL1.0a](/license).
 
 If you notice any errors, please create a pull request with the correction in the GitHub repo (see footer).
 
