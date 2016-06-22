@@ -1,4 +1,4 @@
-name: Wearbear
+name: Werebear
 type: humanoid (human, shapechanger)
 cr: 5
 

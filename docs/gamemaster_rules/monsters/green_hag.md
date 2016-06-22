@@ -1,4 +1,4 @@
-name: Green Hat
+name: Green Hag
 type: fey
 cr: 3
 
