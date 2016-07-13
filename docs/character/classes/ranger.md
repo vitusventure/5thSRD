@@ -36,7 +36,7 @@ As a ranger, you gain the following class features.
 **Weapons:** Simple weapons, martial weapons   
 **Tools:** None     
 **Saving Throws:** Strength, Dexterity   
-**Skills:** Choose two from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival       
+**Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival       
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
