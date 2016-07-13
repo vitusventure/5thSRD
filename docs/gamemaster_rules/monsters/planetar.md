@@ -1,5 +1,5 @@
 name: Planetar
-cr: 15
+cr: 16
 type: celestial
 
 # Planetar 
