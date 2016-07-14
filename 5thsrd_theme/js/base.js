@@ -26,11 +26,10 @@ $(document).ready(function() {
         $search_modal.find('#mkdocs-search-query').focus();
     });
 
-    // Highlight.js
-    hljs.initHighlightingOnLoad();
-    $('table').addClass('table table-striped table-hover');
 });
 
+
+$('table').addClass("table table-striped table-hover");
 
 $('body').scrollspy({
     target: '.bs-sidebar',
