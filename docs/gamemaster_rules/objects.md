@@ -23,7 +23,7 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 | Tiny (bottle, lock)                   | 2 (1d4)  | 5 (2d4)   |
 | Small (chest, lute)                   | 3 (1d6)  | 10 (3d6)  |
 | Medium (barrel, chandelier)           | 4 (1d8)  | 18 (4d8)  |
-| Large (Card, 10-ft.-by-10-ft. window) | 5 (1d10) | 27 (5d10) |
+| Large (Cart, 10-ft.-by-10-ft. window) | 5 (1d10) | 27 (5d10) |
 
 **Huge and Gargantuan Objects.** Normal weapons are of little use against many Huge and Gargantuan objects, such as a colossal statue, towering column of stone, or massive boulder. That said, one torch can burn a Huge tapestry, and an **_earthquake spell_** can reduce a colossus to rubble. You can track a Huge or Gargantuan object's hit points if you like, or you can simply decide how long the object can withstand whatever weapon or force is acting against it. If you track hit points for the object, divide it into Large or smaller sections, and track each section's hit points separately. Destroying one of those sections could ruin the entire object. For example, a Gargantuan statue of a human might topple over when one of its Large legs is reduced to 0 hit points.    
 **Objects and Damage Types.** Objects are immune to poison and psychic damage. You might decide that some damage types are more effective against a particular object or substance than others. For example, bludgeoning damage works well for smashing things but not for cutting through rope or leather. Paper or cloth objects might be vulnerable to fire and lightning damage. A pick can chip away stone but can't effectively cut down a tree. As always, use your best judgment.    
