@@ -21,7 +21,7 @@ _Medium humanoid (any race), any alignment_
 ***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:    
 Cantrips (at will): **_druidcraft, produce flame, shillelagh_**    
 1st level (4 slots): **_entangle, longstrider, speak with animals, thunderwave_**    
-nd level (3 slots): **_animal messenger, barkskin_** 
+2nd level (3 slots): **_animal messenger, barkskin_** 
 
 ### Actions 
 **Quarterstaff.** _Melee Weapon Attack:_ +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. _Hit:_ 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh. 
