@@ -1,7 +1,7 @@
 Acid Splash
 Chill Touch
 Dancing Lights
-Firebolt
+Fire Bolt
 Light
 Mage Hand
 Mending
