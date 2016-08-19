@@ -1,5 +1,5 @@
 name: Holy Avenger
-type: item
+type: weapon
 
 # Holy Avenger 
 _Weapon (any sword), legendary (requires attunement by a paladin)_ 
