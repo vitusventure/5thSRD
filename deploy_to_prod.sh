@@ -4,13 +4,13 @@
 git pull
 
 # Generate Offline spell lists
-python generate_indexes.py --offline
+python2 generate_indexes.py --offline
 
 # Build the offline site
 mkdocs build --clean --config-file offline_build_config.yml
 
 # Generate spell lists
-python generate_indexes.py
+python2 generate_indexes.py
 
 # Build the site
 mkdocs build --clean
