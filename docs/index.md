@@ -6,7 +6,7 @@ If you notice any errors, please create a pull request with the correction in th
 
 All items in the SRD are on this site.  The SRD contains a subset of the content in the official books.
 
-Questions or comments can be directed to <john@5thsrd.org>
+Questions or comments can be directed to <john@5thsrd.org>.  Theme provided by [Bloodcinder](https://github.com/Bloodcinder)
 
 ### Adventuring
 
