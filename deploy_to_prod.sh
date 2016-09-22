@@ -24,7 +24,7 @@ mv /tmp/5thsrd_offline.zip ./site/
 aws s3 sync ./site/ s3://5thsrd.org/ --region="us-east-1"
 
 # Set Cache-Control on static resources
-/usr/local/bin/s3cmd modify --recursive s3://5thsrd.org/css/ --add-header=Cache-Control:max-age=604800 -v
-/usr/local/bin/s3cmd modify --recursive s3://5thsrd.org/js/ --add-header=Cache-Control:max-age=604800 -v
-/usr/local/bin/s3cmd modify --recursive s3://5thsrd.org/img/ --add-header=Cache-Control:max-age=604800 -v
-/usr/local/bin/s3cmd modify --recursive s3://5thsrd.org/fonts/ --add-header=Cache-Control:max-age=604800 -v
+s3cmd modify --recursive s3://5thsrd.org/css/ --add-header=Cache-Control:max-age=604800 -v
+s3cmd modify --recursive s3://5thsrd.org/js/ --add-header=Cache-Control:max-age=604800 -v
+s3cmd modify --recursive s3://5thsrd.org/img/ --add-header=Cache-Control:max-age=604800 -v
+s3cmd modify --recursive s3://5thsrd.org/fonts/ --add-header=Cache-Control:max-age=604800 -v
