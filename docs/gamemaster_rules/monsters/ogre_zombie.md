@@ -1,5 +1,5 @@
 name: Ogre Zombie
-type: zombie
+type: undead
 cr: 2
 
 # Ogre Zombie 
