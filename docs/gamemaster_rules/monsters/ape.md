@@ -11,7 +11,7 @@ _Medium beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 14 (+2) | 14 (+2) | 6 (−2)  | 12 (+1) | 7 (−2)  |
+| 16 (+3) | 14 (+2) | 14 (+2) | 6 (2)  | 12 (+1) | 7 (2)  |
 
 **Skills** Athletics +5, Perception +3    
 **Senses** passive Perception 13    

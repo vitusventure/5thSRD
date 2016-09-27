@@ -19,10 +19,10 @@ Your halfling character has a number of traits in common with all other halfling
 
 **Halfling Nimbleness.** You can move through the space of any creature that is of a size larger than yours. 
 
-**Languages.** You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling. 
+**Languages.** You can speak, read, and write Common and Halfling. The Halfling language isnt secret, but halflings are loath to share it with others. They write very little, so they dont have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling. 
 
 ## Lightfoot 
-As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You’re inclined to be affable and get along well with others. Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life. 
+As a lightfoot halfling, you can easily hide from notice, even using other people as cover. Youre inclined to be affable and get along well with others. Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life. 
 
 **Ability Score Increase.** Your Charisma score increases by 1. 
 

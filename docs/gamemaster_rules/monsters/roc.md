@@ -11,7 +11,7 @@ _Gargantuan monstrosity, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 28 (+9) | 10 (+0) | 20 (+5) | 3 (−4)  | 10 (+0) | 9 (−1)  |
+| 28 (+9) | 10 (+0) | 20 (+5) | 3 (4)  | 10 (+0) | 9 (1)  |
 
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +3    
 **Skills** Perception +4    

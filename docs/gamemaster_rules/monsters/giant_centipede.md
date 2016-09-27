@@ -11,7 +11,7 @@ _Small beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 5 (−3)  | 14 (+2) | 12 (+1) | 1 (−5)  | 7 (−2)  | 3 (−4)  |  
+| 5 (3)  | 14 (+2) | 12 (+1) | 1 (5)  | 7 (2)  | 3 (4)  |  
 
 **Senses** blindsight 30 ft., passive Perception 8    
 **Languages** --    

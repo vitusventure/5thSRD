@@ -11,7 +11,7 @@ _Medium beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 12 (+1) | 16 (+3) | 13 (+1) | 3 (−4)  | 12 (+1) | 4 (−3)  |  
+| 12 (+1) | 16 (+3) | 13 (+1) | 3 (4)  | 12 (+1) | 4 (3)  |  
 
 **Skills** Perception +3, Stealth +7    
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13    

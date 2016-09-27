@@ -11,7 +11,7 @@ _Huge plant, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 6 (−2)  | 15 (+2) | 10 (+0) | 10 (+0) | 7 (−2)  |
+| 19 (+4) | 6 (2)  | 15 (+2) | 10 (+0) | 10 (+0) | 7 (2)  |
 
 **Damage Vulnerabilities.** fire    
 **Damage Resistances** bludgeoning, piercing    

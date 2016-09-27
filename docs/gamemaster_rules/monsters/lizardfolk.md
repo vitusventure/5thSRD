@@ -11,7 +11,7 @@ _Medium humanoid (lizardfolk), neutral_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 10 (+0) | 13 (+1) | 7 (−2)  | 12 (+1) | 7 (−2)  |
+| 15 (+2) | 10 (+0) | 13 (+1) | 7 (2)  | 12 (+1) | 7 (2)  |
 
 **Skills** Perception +3, Stealth +4, Survival +5    
 **Senses** passive Perception 13    

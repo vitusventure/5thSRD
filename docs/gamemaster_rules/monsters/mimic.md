@@ -11,7 +11,7 @@ _Medium monstrosity (shapechanger), neutral_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 12 (+1) | 15 (+2) | 5 (−3)  | 13 (+1) | 8 (−1)  |
+| 17 (+3) | 12 (+1) | 15 (+2) | 5 (3)  | 13 (+1) | 8 (1)  |
 
 **Skills** Stealth +5    
 **Damage Immunities** acid    

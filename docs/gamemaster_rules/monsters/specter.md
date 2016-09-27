@@ -11,7 +11,7 @@ _Medium undead, chaotic evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 1 (−5)  | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) | 
+| 1 (5)  | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) | 
 
 **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks    
 **Damage Immunities** necrotic, poison    

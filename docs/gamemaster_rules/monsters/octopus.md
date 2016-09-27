@@ -11,7 +11,7 @@ _Small beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 4 (−3)  | 15 (+2) | 11 (+0) | 3 (−4)  | 10 (+0) | 4 (−3)  |  
+| 4 (3)  | 15 (+2) | 11 (+0) | 3 (4)  | 10 (+0) | 4 (3)  |  
 
 **Skills** Perception +2, Stealth +4    
 **Senses** darkvision 30 ft., passive Perception 12    

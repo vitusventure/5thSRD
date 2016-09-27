@@ -42,7 +42,7 @@ As a bard, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 * (a) a rapier, (b) a longsword, or (c) any simple weapon
-* (a) a diplomat’s pack or (b) an entertainer’s pack
+* (a) a diplomats pack or (b) an entertainers pack
 * (a) a lute or (b) any other musical instrument
 * Leather armor and a dagger
 
@@ -54,7 +54,7 @@ You have learned to untangle and reshape the fabric of reality in harmony with y
 You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table. 
 
 #### Spell Slots 
-The Bard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.  
+The Bard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spells level or higher. You regain all expended spell slots when you finish a long rest.  
 For example, if you know the 1st-level spell cure wounds and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot. 
 
 #### Spells Known of 1st Level and Higher
@@ -84,7 +84,7 @@ Your Bardic Inspiration die changes when you reach certain levels in this class.
 
 ### Jack of All Trades 
 - - -
-Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn’t already include your proficiency bonus. 
+Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesnt already include your proficiency bonus. 
 
 ### Song of Rest 
 - - -
@@ -101,7 +101,7 @@ At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is 
 
 ### Ability Score Improvement
 - - -
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. 
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you cant increase an ability score above 20 using this feature. 
 
 ### Font of Inspiration
 - - -

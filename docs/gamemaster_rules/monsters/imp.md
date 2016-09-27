@@ -11,7 +11,7 @@ _Tiny fiend (devil, shapechanger), lawful evil_
 
 | STR      | DEX     | CON      | INT     | WIS     | CHA     |
 |----------|---------|----------|---------|---------|---------|
-| 6 (−2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
+| 6 (2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
    
 **Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5    
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    

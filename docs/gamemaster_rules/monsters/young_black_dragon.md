@@ -26,4 +26,4 @@ _Large dragon, chaotic evil_
 **Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
 **Bite.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage plus 4 (1d8) acid damage.    
 **Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.    
-**Acid Breath (Recharge 5–6).** The dragon exhales acid in a 30­‐foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
+**Acid Breath (Recharge 56).** The dragon exhales acid in a 30foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.

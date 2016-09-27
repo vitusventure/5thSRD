@@ -49,7 +49,7 @@ A monster that wears armor or carries a shield has an Armor Class (AC) that take
 
 ## Hit Points 
 A monster usually dies or is destroyed when it drops to 0 hit points.    
-A monster's hit points are presented both as a die expression and as an average number. For example, a monster with 2d8 hit points has 9 hit points on average (2 × 4½).    
+A monster's hit points are presented both as a die expression and as an average number. For example, a monster with 2d8 hit points has 9 hit points on average (2  4).    
 A monster's size determines the die used to calculate its hit points, as shown in the Hit Dice by Size table.
 
 ### Hit Dice by Size
@@ -245,8 +245,8 @@ If a monster can do something special with its reaction, that information is con
 ## Limited Usage 
 Some special abilities have restrictions on the number of times they can be used.    
 **X/Day.** The notation "X/Day" means a special ability can be used X number of times and that a monster must finish a long rest to regain expended uses. For example, "1/Day" means a special ability can be used once and that the monster must finish a long rest to use it again.    
-**Recharge X–Y.** The notation "Recharge X–Y" means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster's turns, roll a d6. If the roll is one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short or long rest.   
-For example, "Recharge 5–6" means a monster can use the special ability once. Then, at the start of the monster's turn, it regains the use of that ability if it rolls a 5 or 6 on a d6.    
+**Recharge XY.** The notation "Recharge XY" means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster's turns, roll a d6. If the roll is one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short or long rest.   
+For example, "Recharge 56" means a monster can use the special ability once. Then, at the start of the monster's turn, it regains the use of that ability if it rolls a 5 or 6 on a d6.    
 **Recharge after a Short or Long Rest.** This notation means that a monster can use a special ability once and then must finish a short or long rest to use it again. 
 
 ## Grapple Rules for Monsters 

@@ -11,7 +11,7 @@ _Large ooze, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 6 (−2)  | 14 (+2) | 2 (−4)  | 6 (−2)  | 1 (−5)  |
+| 15 (+2) | 6 (2)  | 14 (+2) | 2 (4)  | 6 (2)  | 1 (5)  |
 
 **Damage Resistances** acid    
 **Damage Immunities** lightning, slashing    

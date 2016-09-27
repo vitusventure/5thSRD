@@ -11,7 +11,7 @@ _Medium monstrosity, chaotic evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 12 (+1) | 13 (+1) | 12 (+1) | 7 (−2)  | 10 (+0) | 13 (+1) |
+| 12 (+1) | 13 (+1) | 12 (+1) | 7 (2)  | 10 (+0) | 13 (+1) |
 
 **Senses** passive Perception 10    
 **Languages** Common    

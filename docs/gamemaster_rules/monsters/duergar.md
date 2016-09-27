@@ -11,7 +11,7 @@ _Medium humanoid (dwarf), lawful evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 11 (+0) | 14 (+2) | 11 (+0) | 10 (+0) | 9 (−1)  |
+| 14 (+2) | 11 (+0) | 14 (+2) | 11 (+0) | 10 (+0) | 9 (1)  |
 
 **Damage Resistances** poison    
 **Senses** darkvision 120 ft., passive Perception 10    

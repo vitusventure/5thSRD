@@ -11,7 +11,7 @@ _Tiny beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 4 (−3)  | 16 (+3) | 11 (+0) | 2 (−4)  | 8 (−1)  | 6 (−2)  |
+| 4 (3)  | 16 (+3) | 11 (+0) | 2 (4)  | 8 (1)  | 6 (2)  |
 
 **Senses** darkvision 60 ft., passive Perception 9    
 **Languages** --    

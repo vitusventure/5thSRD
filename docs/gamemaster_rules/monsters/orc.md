@@ -11,7 +11,7 @@ _Medium humanoid (orc), chaotic evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 12 (+1) | 16 (+3) | 7 (−2)  | 11 (+0) | 10 (+0) |
+| 16 (+3) | 12 (+1) | 16 (+3) | 7 (2)  | 11 (+0) | 10 (+0) |
 
 **Skills** Intimidation +2    
 **Senses** darkvision 60 ft., passive Perception 10    

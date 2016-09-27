@@ -11,7 +11,7 @@ _Medium humanoid (gnoll), chaotic evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 12 (+1) | 11 (+0) | 6 (−2)  | 10 (+0) | 7 (−2)  |
+| 14 (+2) | 12 (+1) | 11 (+0) | 6 (2)  | 10 (+0) | 7 (2)  |
 
 **Senses** darkvision 60 ft., passive Perception 10    
 **Languages** Gnoll    

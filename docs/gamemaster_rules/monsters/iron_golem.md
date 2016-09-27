@@ -11,7 +11,7 @@ _Large construct, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 24 (+7) | 9 (−1)  | 20 (+5) | 3 (−4)  | 11 (+0) | 1 (−5)  |
+| 24 (+7) | 9 (1)  | 20 (+5) | 3 (4)  | 11 (+0) | 1 (5)  |
 
 **Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine    
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned    

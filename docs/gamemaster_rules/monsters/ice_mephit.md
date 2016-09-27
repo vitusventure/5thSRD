@@ -11,7 +11,7 @@ _Small elemental, neutral evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 7 (−2)  | 13 (+1) | 10 (+0) | 9 (−1)  | 11 (+0) | 12 (+1) |
+| 7 (2)  | 13 (+1) | 10 (+0) | 9 (1)  | 11 (+0) | 12 (+1) |
 
 **Skills** Perception +2, Stealth +3    
 **Damage Vulnerabilities.**bludgeoning, fire    

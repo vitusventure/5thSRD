@@ -11,7 +11,7 @@ _Large monstrosity, chaotic evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 11 (+0) | 16 (+3) | 6 (−2)  | 16 (+3) | 9 (−1)  |
+| 18 (+4) | 11 (+0) | 16 (+3) | 6 (2)  | 16 (+3) | 9 (1)  |
 
 **Skills** Perception +7    
 **Senses** darkvision 60 ft., passive Perception 17    

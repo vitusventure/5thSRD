@@ -11,7 +11,7 @@ _Medium fiend (shapechanger), neutral evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 8 (−1)  | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 20 (+5) |
+| 8 (1)  | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 20 (+5) |
 
 **Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7    
 **Damage Resistances** cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks    

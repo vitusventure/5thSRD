@@ -11,7 +11,7 @@ _Medium undead, neutral evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 6 (−2)  | 16 (+3) | 3 (−4)  | 6 (−2)  | 5 (−3)  |
+| 13 (+1) | 6 (2)  | 16 (+3) | 3 (4)  | 6 (2)  | 5 (3)  |
 
 **Saving Throws** Wis +0    
 **Damage Immunities** poison    

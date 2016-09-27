@@ -11,7 +11,7 @@ _Medium humanoid (grimlock), neutral evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 12 (+1) | 12 (+1) | 9 (−1)  | 8 (−1)  | 6 (−2)  |
+| 16 (+3) | 12 (+1) | 12 (+1) | 9 (1)  | 8 (1)  | 6 (2)  |
 
 **Skills** Athletics +5, Perception +3, Stealth +3    
 **Condition Immunities** blinded    

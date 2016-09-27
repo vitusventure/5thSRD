@@ -11,7 +11,7 @@ _Large beast, neutral_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 15 (+2) | 12 (+1) | 8 (−1)  | 13 (+1) | 10 (+0) |   
+| 13 (+1) | 15 (+2) | 12 (+1) | 8 (1)  | 13 (+1) | 10 (+0) |   
 
 **Skills** Perception +5, Stealth +4    
 **Senses** darkvision 120 ft., passive Perception 15    

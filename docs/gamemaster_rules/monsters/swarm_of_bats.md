@@ -11,7 +11,7 @@ _Medium swarm of Tiny beasts, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 5 (−3)  | 15 (+2) | 10 (+0) | 2 (−4)  | 12 (+1) | 4 (−3)  |  
+| 5 (3)  | 15 (+2) | 10 (+0) | 2 (4)  | 12 (+1) | 4 (3)  |  
 
 **Damage Resistances** bludgeoning, piercing, slashing    
 **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned    

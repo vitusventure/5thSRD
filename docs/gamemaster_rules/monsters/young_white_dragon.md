@@ -11,7 +11,7 @@ _Large dragon, chaotic evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 10 (+0) | 18 (+4) | 6 (−2)  | 11 (+0) | 12 (+1) |
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (2)  | 11 (+0) | 12 (+1) |
 
 **Saving Throws** Dex +3, Con +7, Wis +3, Cha +4    
 **Skills** Perception +6, Stealth +3    
@@ -26,4 +26,4 @@ _Large dragon, chaotic evil_
 **Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
 **Bite.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage.    
 **Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.    
-**Cold Breath (Recharge 5–6).** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+**Cold Breath (Recharge 56).** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.

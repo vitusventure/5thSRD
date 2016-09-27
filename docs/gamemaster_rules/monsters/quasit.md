@@ -11,7 +11,7 @@ _Tiny fiend (demon, shapechanger), chaotic evil_
 
 | STR      | DEX     | CON      | INT     | WIS     | CHA     |
 |----------|---------|----------|---------|---------|---------|
-| 5 (−3) | 17 (+3) | 10 (+0) | 7 (−2) | 10 (+0) | 10 (+0) |
+| 5 (3) | 17 (+3) | 10 (+0) | 7 (2) | 10 (+0) | 10 (+0) |
 
 **Skills** Stealth +5    
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks    

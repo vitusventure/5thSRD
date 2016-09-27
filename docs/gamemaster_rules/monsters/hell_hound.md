@@ -11,7 +11,7 @@ _Medium fiend, lawful evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 12 (+1) | 14 (+2) | 6 (−2)  | 13 (+1) | 6 (−2)  |
+| 17 (+3) | 12 (+1) | 14 (+2) | 6 (2)  | 13 (+1) | 6 (2)  |
 
 **Skills** Perception +5    
 **Damage Immunities** fire    
@@ -24,4 +24,4 @@ _Medium fiend, lawful evil_
 
 ### Actions    
 **Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.    
-**Fire Breath (Recharge 5–6).** The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
+**Fire Breath (Recharge 56).** The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.

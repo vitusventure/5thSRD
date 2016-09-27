@@ -11,7 +11,7 @@ _Medium beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 13 (+1) | 13 (+1) | 1 (−5)  | 10 (+0) | 4 (−3)  |  
+| 14 (+2) | 13 (+1) | 13 (+1) | 1 (5)  | 10 (+0) | 4 (3)  |  
 
 **Skills** Perception +2    
 **Senses** blindsight 30 ft., passive Perception 12    

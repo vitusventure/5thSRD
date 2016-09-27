@@ -7,12 +7,12 @@ cr: 0
 _Tiny beast, unaligned_
 
 **Armor Class** 11 (natural armor)    
-**Hit Points** 1 (1d4 − 1)    
+**Hit Points** 1 (1d4  1)    
 **Speed** 10 ft. 
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 2 (−4)  | 11 (+0) | 8 (−1)  | 1 (−5)  | 8 (−1)  | 2 (−4)  |  
+| 2 (4)  | 11 (+0) | 8 (1)  | 1 (5)  | 8 (1)  | 2 (4)  |  
 
 **Senses** blindsight 10 ft., passive Perception 9    
 **Languages** --    

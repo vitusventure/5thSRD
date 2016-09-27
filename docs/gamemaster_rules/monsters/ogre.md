@@ -11,7 +11,7 @@ _Large giant, chaotic evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 8 (−1)  | 16 (+3) | 5 (−3)  | 7 (−2)  | 7 (−2)  |
+| 19 (+4) | 8 (1)  | 16 (+3) | 5 (3)  | 7 (2)  | 7 (2)  |
 
 **Senses** darkvision 60 ft., passive Perception 8    
 **Languages** Common, Giant    

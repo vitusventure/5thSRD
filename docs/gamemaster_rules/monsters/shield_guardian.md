@@ -11,7 +11,7 @@ _Large construct, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 8 (−1)  | 18 (+4) | 7 (−2)  | 10 (+0) | 3 (−4)  |
+| 18 (+4) | 8 (1)  | 18 (+4) | 7 (2)  | 10 (+0) | 3 (4)  |
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10    
 **Damage Immunities** poison    

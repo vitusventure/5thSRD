@@ -28,7 +28,7 @@ _Gargantuan dragon, chaotic evil_
 **Claw.** _Melee Weapon Attack:_ +17 to hit, reach 10 ft., one target. _Hit:_ 17 (2d6 + 10) slashing damage.    
 **Tail.** _Melee Weapon Attack:_ +17 to hit, reach 20 ft., one target. _Hit:_ 19 (2d8 + 10) bludgeoning damage.    
 **Frightful Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.    
-**Fire Breath (Recharge 5–6).** The dragon exhales fire in a 90‐foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one. 
+**Fire Breath (Recharge 56).** The dragon exhales fire in a 90foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one. 
 
 ### Legendary Actions 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.    

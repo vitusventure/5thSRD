@@ -11,7 +11,7 @@ _Tiny dragon, neutral good_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 6 (−2)  | 15 (+2) | 13 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
+| 6 (2)  | 15 (+2) | 13 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
 
 **Skills** Perception +3, Stealth +4    
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13    

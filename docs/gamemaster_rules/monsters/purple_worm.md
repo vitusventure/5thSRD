@@ -11,7 +11,7 @@ _Gargantuan monstrosity, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 28 (+9) | 7 (−2)  | 22 (+6) | 1 (−5)  | 8 (−1)  | 4 (−3)  |
+| 28 (+9) | 7 (2)  | 22 (+6) | 1 (5)  | 8 (1)  | 4 (3)  |
 
 **Saving Throws** Con +11, Wis +4    
 **Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 9    

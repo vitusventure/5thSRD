@@ -3,7 +3,7 @@ level: 1
 school: abjuration
 
 # Alarm 
-_1st‐level abjuration (ritual)_ 
+_1stlevel abjuration (ritual)_ 
 
 **Casting Time:** 1 minute    
 **Range:** 30 feet    

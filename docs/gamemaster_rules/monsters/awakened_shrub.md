@@ -11,7 +11,7 @@ _Small plant, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 3 (−4)  | 8 (−1)  | 11 (+0) | 10 (+0) | 0 (+0)  | 6 (−2)  |
+| 3 (4)  | 8 (1)  | 11 (+0) | 10 (+0) | 0 (+0)  | 6 (2)  |
 
 **Damage Vulnerabilities.** fire    
 **Damage Resistances** piercing    
@@ -22,6 +22,6 @@ _Small plant, unaligned_
 **False Appearance.** While the shrub remains motionless, it is indistinguishable from a normal shrub. 
 
 ### Actions 
-**Rake.** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 − 1) slashing damage. 
+**Rake.** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4  1) slashing damage. 
 
 An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or similar magic. 

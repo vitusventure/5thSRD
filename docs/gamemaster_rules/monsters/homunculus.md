@@ -11,7 +11,7 @@ _Tiny construct, neutral_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 4 (−3)  | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (−2)  |
+| 4 (3)  | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (2)  |
 
 **Damage Immunities** poison    
 **Condition Immunities** charmed, poisoned    

@@ -11,7 +11,7 @@ _Medium monstrosity, neutral evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 14 (+2) | 14 (+2) | 3 (−4)  | 13 (+1) | 6 (−2)  |  
+| 15 (+2) | 14 (+2) | 14 (+2) | 3 (4)  | 13 (+1) | 6 (2)  |  
 
 **Skills** Perception +5, Stealth +4    
 **Senses** darkvision 120 ft., passive Perception 15    

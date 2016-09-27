@@ -11,7 +11,7 @@ _Tiny beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 2 (−4)  | 16 (+3) | 11 (+0) | 1 (−5)  | 10 (+0) | 3 (−4)  |  
+| 2 (4)  | 16 (+3) | 11 (+0) | 1 (5)  | 10 (+0) | 3 (4)  |  
 
 **Senses** blindsight 10 ft., passive Perception 10    
 **Languages** --    

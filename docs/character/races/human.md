@@ -1,7 +1,7 @@
 # Human 
 ## Human Traits 
 - - -
-It’s hard to make generalizations about humans, but your human character has these traits. 
+Its hard to make generalizations about humans, but your human character has these traits. 
 
 **Ability Score Increase.** Your ability scores each increase by 1. 
 

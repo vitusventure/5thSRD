@@ -6,12 +6,12 @@ cr: .25
 _Medium swarm of Tiny beasts, unaligned_
 
 **Armor Class** 12    
-**Hit Points** 24 (7d8 − 7)    
+**Hit Points** 24 (7d8  7)    
 **Speed** 10 ft., fly 50 ft. 
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-6 (−2) 14 (+2) 8 (−1) 3 (−4) 12 (+1) 6 (−2)    
+6 (2) 14 (+2) 8 (1) 3 (4) 12 (+1) 6 (2)    
 
 **Skills** Perception +5    
 **Damage Resistances** bludgeoning, piercing, slashing    

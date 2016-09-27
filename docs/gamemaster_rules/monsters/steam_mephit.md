@@ -11,7 +11,7 @@ _Small elemental, neutral evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 5 (−3)  | 11 (+0) | 10 (+0) | 11 (+0) | 10 (+0) | 12 (+1) |
+| 5 (3)  | 11 (+0) | 10 (+0) | 11 (+0) | 10 (+0) | 12 (+1) |
 
 **Damage Immunities** fire, poison    
 **Condition Immunities** poisoned    

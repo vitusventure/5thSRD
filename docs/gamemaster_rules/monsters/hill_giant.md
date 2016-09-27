@@ -11,7 +11,7 @@ _Huge giant, chaotic evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 21 (+5) | 8 (−1) | 19 (+4) | 5 (−3) | 9 (−1) | 6 (−2) |
+| 21 (+5) | 8 (1) | 19 (+4) | 5 (3) | 9 (1) | 6 (2) |
 
 **Skills** Perception +2    
 **Senses** passive Perception 12    

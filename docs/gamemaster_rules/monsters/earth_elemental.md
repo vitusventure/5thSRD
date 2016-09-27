@@ -11,7 +11,7 @@ _Large elemental, neutral_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 20 (+5) | 8 (−1) | 20 (+5) | 5 (−3) | 10 (+0) | 5 (−3) |
+| 20 (+5) | 8 (1) | 20 (+5) | 5 (3) | 10 (+0) | 5 (3) |
 
 **Damage Vulnerabilities** thunder    
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks    

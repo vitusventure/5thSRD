@@ -11,7 +11,7 @@ _Medium elemental, chaotic evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 11 (+0) | 16 (+3) | 6 (−2) | 11 (+0) | 7 (−2) |
+| 15 (+2) | 11 (+0) | 16 (+3) | 6 (2) | 11 (+0) | 7 (2) |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine    
 **Damage Immunities** poison    

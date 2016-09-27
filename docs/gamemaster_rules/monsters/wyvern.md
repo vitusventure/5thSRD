@@ -11,7 +11,7 @@ _Large dragon, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 10 (+0) | 16 (+3) | 5 (−3)  | 12 (+1) | 6 (−2)  |
+| 19 (+4) | 10 (+0) | 16 (+3) | 5 (3)  | 12 (+1) | 6 (2)  |
 
 **Skills** Perception +4    
 **Senses** darkvision 60 ft., passive Perception 14    
