@@ -11,7 +11,7 @@ _Medium undead, chaotic evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 6 (2)  | 14 (+2) | 13 (+1) | 6 (2)  | 10 (+0) | 8 (1)  |
+| 6 (−2)  | 14 (+2) | 13 (+1) | 6 (−2)  | 10 (+0) | 8 (−1)  |
 
 **Skills** Stealth +4 (+6 in dim light or darkness)    
 **Damage Vulnerabilities.**radiant    

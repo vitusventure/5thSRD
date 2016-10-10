@@ -11,7 +11,7 @@ _Large monstrosity, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 20 (+5) | 12 (+1) | 17 (+3) | 3 (4)  | 12 (+1) | 7 (2)  |
+| 20 (+5) | 12 (+1) | 17 (+3) | 3 (−4)  | 12 (+1) | 7 (−2)  |
 
 **Skills** Perception +3    
 **Senses** darkvision 60 ft., passive Perception 13    

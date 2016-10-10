@@ -69,7 +69,7 @@ Starting at 2nd level, you can throw aside all concern for defense to attack wit
 ### Danger Sense 
 - - -
 At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. 
-You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you cant be blinded, deafened, or incapacitated. 
+You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be blinded, deafened, or incapacitated. 
 
 ### Primal Path 
 - - -
@@ -77,7 +77,7 @@ At 3rd level, you choose a path that shapes the nature of your rage. Choose the 
 
 ### Ability Score Improvement 
 - - -
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you cant increase an ability score above 20 using this feature. 
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. 
 
 ### Extra Attack 
 - - -
@@ -85,7 +85,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 ### Fast Movement 
 - - -
-Starting at 5th level, your speed increases by 10 feet while you arent wearing heavy armor. 
+Starting at 5th level, your speed increases by 10 feet while you aren’t wearing heavy armor. 
 
 ### Feral Instinct 
 - - -

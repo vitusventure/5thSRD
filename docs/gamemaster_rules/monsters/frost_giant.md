@@ -11,7 +11,7 @@ _Huge giant, neutral evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 23 (+6) | 9 (1)  | 21 (+5) | 9 (1)  | 10 (+0) | 12 (+1) |
+| 23 (+6) | 9 (−1)  | 21 (+5) | 9 (−1)  | 10 (+0) | 12 (+1) |
 
 **Saving Throws** Con +8, Wis +3, Cha +4    
 **Skills** Athletics +9, Perception +3    

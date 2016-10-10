@@ -11,7 +11,7 @@ _Large construct, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 22 (+6) | 9 (1)  | 20 (+5) | 3 (4)  | 11 (+0) | 1 (5)  |
+| 22 (+6) | 9 (−1)  | 20 (+5) | 3 (−4)  | 11 (+0) | 1 (−5)  |
 
 **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine    
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned    
@@ -26,4 +26,4 @@ _Large construct, unaligned_
 ### Actions 
 **Multiattack.** The golem makes two slam attacks.    
 **Slam.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 19 (3d8 + 6) bludgeoning damage.    
-**Slow (Recharge 56).** The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Slow (Recharge 5–6).** The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

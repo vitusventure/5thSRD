@@ -49,7 +49,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Fighting Style
 - - -
-You adopt a particular style of fighting as your specialty. Choose one of the following options. You cant take a Fighting Style option more than once, even if you later get to choose again.
+You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
 #### Archery
 You gain a +2 bonus to attack rolls you make with ranged weapons
@@ -91,7 +91,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 ### Indomitable 
 - - -
-Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you cant use this feature again until you finish a long rest. You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
+Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest. You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
 
 ## Martial Archetypes 
 Different fighters choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach. 
@@ -104,13 +104,13 @@ The archetypal Champion focuses on the development of raw physical power honed t
 Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20. 
 
 #### Remarkable Athlete 
-Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesnt already use your proficiency bonus. In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier. 
+Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn’t already use your proficiency bonus. In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier. 
 
 #### Additional Fighting Style 
 At 10th level, you can choose a second option from the Fighting Style class feature.
 
 #### Superior Critical
-Starting at 15th level, your weapon attacks score a critical hit on a roll of 1820. 
+Starting at 15th level, your weapon attacks score a critical hit on a roll of 18–20. 
 
 #### Survivor 
-At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You dont gain this benefit if you have 0 hit points.
+At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don’t gain this benefit if you have 0 hit points.

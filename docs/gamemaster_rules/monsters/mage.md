@@ -11,7 +11,7 @@ _Medium humanoid (any race), any alignment_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 9 (1)  | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0) |   
+| 9 (−1)  | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0) |   
 
 **Saving Throws** Int +6, Wis +4    
 **Skills** Arcana +6, History +6    

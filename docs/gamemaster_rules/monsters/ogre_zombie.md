@@ -11,7 +11,7 @@ _Large undead, neutral evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 6 (2)  | 18 (+4) | 3 (4)  | 6 (2)  | 5 (3)  |
+| 19 (+4) | 6 (−2)  | 18 (+4) | 3 (−4)  | 6 (−2)  | 5 (−3)  |
 
 **Saving Throws** Wis +0    
 **Damage Immunities** poison    

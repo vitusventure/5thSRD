@@ -6,12 +6,12 @@ cr: 1
 _Medium swarm of Tiny beasts, unaligned_
 
 **Armor Class** 13    
-**Hit Points** 28 (8d8  8)    
+**Hit Points** 28 (8d8 − 8)    
 **Speed** 0 ft., swim 40 ft. 
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 16 (+3) | 9 (1)  | 1 (5)  | 7 (2)  | 2 (4)  |  
+| 13 (+1) | 16 (+3) | 9 (−1)  | 1 (−5)  | 7 (−2)  | 2 (−4)  |  
 
 **Damage Resistances** bludgeoning, piercing, slashing    
 **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned    

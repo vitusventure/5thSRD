@@ -11,7 +11,7 @@ _Medium humanoid (human, shapechanger), lawful evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 10 (+0) | 8 (1)  |
+| 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 10 (+0) | 8 (−1)  |
 
 **Skills** Perception +2, Stealth +4    
 **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons    

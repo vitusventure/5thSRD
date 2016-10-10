@@ -8,7 +8,7 @@ Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving
 ## Madness Effects 
 Madness can be short-term, long-term, or indefinite. Most relatively mundane effects impose short-term madness, which lasts for just a few minutes. More horrific effects or cumulative effects can result in long-term or indefinite madness.    
 A character afflicted with **short-term madness** is subjected to an effect from the Short-Term Madness table for 1d10 minutes.    
-A character afflicted with **long-term madness** is subjected to an effect from the Long-Term Madness table for 1d10  10 hours.    
+A character afflicted with **long-term madness** is subjected to an effect from the Long-Term Madness table for 1d10 × 10 hours.    
 A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured. 
 
 ### Short-Term Madness

@@ -11,7 +11,7 @@ _Medium monstrosity, neutral_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 14 (+2) | 11 (+0) | 3 (4)  | 14 (+2) | 5 (3)  |
+| 14 (+2) | 14 (+2) | 11 (+0) | 3 (−4)  | 14 (+2) | 5 (−3)  |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks    
 **Senses** darkvision 60 ft., passive Perception 12    

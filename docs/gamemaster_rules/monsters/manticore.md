@@ -11,7 +11,7 @@ _Large monstrosity, lawful evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 16 (+3) | 17 (+3) | 7 (2)  | 12 (+1) | 8 (1)  |
+| 17 (+3) | 16 (+3) | 17 (+3) | 7 (−2)  | 12 (+1) | 8 (−1)  |
 
 **Senses** darkvision 60 ft., passive Perception 11    
 **Languages** Common    

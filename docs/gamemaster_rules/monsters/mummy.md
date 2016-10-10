@@ -11,7 +11,7 @@ _Medium undead, lawful evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 8 (1)  | 15 (+2) | 6 (2)  | 10 (+0) | 12 (+1) |
+| 16 (+3) | 8 (−1)  | 15 (+2) | 6 (−2)  | 10 (+0) | 12 (+1) |
 
 **Saving Throws** Wis +2    
 **Damage Vulnerabilities.**fire    

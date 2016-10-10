@@ -10,7 +10,7 @@ _8th-level abjuration_
 **Components:** V, S, M (a pinch of powdered iron or iron filings)    
 **Duration:** Concentration, up to 1 hour 
 
-A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells canft be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.    
+A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells canft be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.    
 Spells and other magical effects, except those created by an artifact or a deity, are suppressed in the sphere and can't protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.    
 **Targeted Effects.** Spells and other magical effects, such as **_magic missile_** and **_charm person_**, that target a creature or an object in the sphere have no effect on that target.    
 **Areas of Magic.** The area of another spell or magical effect, such as **_fireball_**, can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a **_wall of fire_** are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.    

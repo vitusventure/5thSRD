@@ -5,7 +5,7 @@ cr: 5
 Fire Elemental Large elemental, neutral 
 **Armor Class** 13    
 **Hit Points** 102 (12d10 + 36)    
-**Speed** 50 ft. STR DEX CON INT WIS CHA 10 (+0) 17 (+3) 16 (+3) 6 (2) 10 (+0) 7 (2)    
+**Speed** 50 ft. STR DEX CON INT WIS CHA 10 (+0) 17 (+3) 16 (+3) 6 (−2) 10 (+0) 7 (−2)    
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks    
 **Damage Immunities** fire, poison    
 **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious    

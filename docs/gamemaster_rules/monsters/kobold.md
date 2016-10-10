@@ -6,12 +6,12 @@ cr: .125
 _Small humanoid (kobold), lawful evil_
 
 **Armor Class** 12    
-**Hit Points** 5 (2d6  2)    
+**Hit Points** 5 (2d6 − 2)    
 **Speed** 30 ft. 
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 7 (2)  | 15 (+2) | 9 (1)  | 8 (1)  | 7 (2)  | 8 (1)  |
+| 7 (−2)  | 15 (+2) | 9 (−1)  | 8 (−1)  | 7 (−2)  | 8 (−1)  |
 
 **Senses** darkvision 60 ft., passive Perception 8    
 **Languages** Common, Draconic    

@@ -11,7 +11,7 @@ _Large beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 13 (+1) | 13 (+1) | 2 (4)  | 10 (+0) | 3 (4)  |  
+| 15 (+2) | 13 (+1) | 13 (+1) | 2 (−4)  | 10 (+0) | 3 (−4)  |  
 
 **Senses** darkvision 30 ft., passive Perception 10    
 **Languages** --    

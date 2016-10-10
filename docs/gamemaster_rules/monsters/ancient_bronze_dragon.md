@@ -29,7 +29,7 @@ _Gargantuan dragon, lawful good_
 **Claw.** _Melee Weapon Attack:_ +16 to hit, reach 10 ft., one target. _Hit:_ 16 (2d6 + 9) slashing damage.    
 **Tail.** _Melee Weapon Attack:_ +16 to hit, reach 20 ft., one target. _Hit:_ 18 (2d8 + 9) bludgeoning damage.    
 **Frightful Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.    
-**Breath Weapons (Recharge 56).** The dragon uses one of the following breath weapons.    
+**Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
 **Lightning Breath.** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.    
 **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 23 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.    
 **Change Shape.** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).    

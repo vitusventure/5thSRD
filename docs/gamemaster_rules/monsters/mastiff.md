@@ -11,7 +11,7 @@ Medium beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 14 (+2) | 12 (+1) | 3 (4)  | 12 (+1) | 7 (2)  |  
+| 13 (+1) | 14 (+2) | 12 (+1) | 3 (−4)  | 12 (+1) | 7 (−2)  |  
 
 **Skills** Perception +3    
 **Senses** passive Perception 13    

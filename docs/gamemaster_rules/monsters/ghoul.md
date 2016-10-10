@@ -11,7 +11,7 @@ _Medium undead, chaotic evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 15 (+2) | 10 (+0) | 7 (2)  | 10 (+0) | 6 (2)  |
+| 13 (+1) | 15 (+2) | 10 (+0) | 7 (−2)  | 10 (+0) | 6 (−2)  |
 
 **Damage Immunities** poison    
 **Condition Immunities** charmed, exhaustion, poisoned    

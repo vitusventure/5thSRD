@@ -11,7 +11,7 @@ _Small humanoid (gnome), neutral good_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 14 (+2) | 14 (+2) | 12 (+1) | 10 (+0) | 9 (1)  |
+| 15 (+2) | 14 (+2) | 14 (+2) | 12 (+1) | 10 (+0) | 9 (−1)  |
 
 **Skills** Investigation +3, Perception +2, Stealth +4    
 **Senses** darkvision 120 ft., passive Perception 12    

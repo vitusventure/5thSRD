@@ -27,4 +27,4 @@ _Large dragon, lawful evil_
 **Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
 **Bite.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.    
 **Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.    
-**Poison Breath (Recharge 56).** The dragon exhales poisonous gas in a 30foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+**Poison Breath (Recharge 5–6).** The dragon exhales poisonous gas in a 30‐foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.

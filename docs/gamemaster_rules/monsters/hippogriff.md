@@ -11,7 +11,7 @@ _Large monstrosity, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 13 (+1) | 13 (+1) | 2 (4)  | 12 (+1) | 8 (1)  |
+| 17 (+3) | 13 (+1) | 13 (+1) | 2 (−4)  | 12 (+1) | 8 (−1)  |
 
 **Skills** Perception +5    
 **Senses** passive Perception 15    

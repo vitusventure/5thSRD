@@ -11,7 +11,7 @@ _Small beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 6 (2)  | 15 (+2) | 10 (+0) | 2 (4)  | 14 (+2) | 7 (2)  |  
+| 6 (−2)  | 15 (+2) | 10 (+0) | 2 (−4)  | 14 (+2) | 7 (−2)  |  
 
 **Skills** Perception +4    
 **Senses** passive Perception 14    

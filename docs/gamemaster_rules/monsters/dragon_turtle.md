@@ -26,4 +26,4 @@ _Gargantuan dragon, neutral_
 **Bite.** _Melee Weapon Attack:_ +13 to hit, reach 15 ft., one target. _Hit:_ 26 (3d12 + 7) piercing damage.    
 **Claw.** _Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 16 (2d8 + 7) slashing damage.    
 **Tail.** _Melee Weapon Attack:_ +13 to hit, reach 15 ft., one target. _Hit:_ 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked prone.    
-**Steam Breath (Recharge 56).** The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
+**Steam Breath (Recharge 5–6).** The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.

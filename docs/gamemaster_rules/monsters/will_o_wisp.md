@@ -11,7 +11,7 @@ _Tiny undead, chaotic evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 1 (5)  | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
+| 1 (−5)  | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
 
 **Damage Immunities** lightning, poison    
 **Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks    

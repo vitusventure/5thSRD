@@ -11,7 +11,7 @@ _Large aberration, neutral_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 11 (+0) | 19 (+4) | 6 (2)  | 13 (+1) | 6 (2)  |
+| 16 (+3) | 11 (+0) | 19 (+4) | 6 (−2)  | 13 (+1) | 6 (−2)  |
 
 **Saving Throws** Con +7    
 **Senses** darkvision 120 ft., passive Perception 11    

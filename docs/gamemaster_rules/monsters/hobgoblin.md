@@ -11,7 +11,7 @@ _Medium humanoid (goblinoid), lawful evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (1)  |
+| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (−1)  |
 
 **Senses** darkvision 60 ft., passive Perception 10    
 **Languages** Common, Goblin    

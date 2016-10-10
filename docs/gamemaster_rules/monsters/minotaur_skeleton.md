@@ -7,7 +7,7 @@ _Skeleton Large undead, lawful evil_
 
 **Armor Class** 12 (natural armor)    
 **Hit Points** 67 (9d10 + 18)    
-**Speed** 40 ft. STR DEX CON INT WIS CHA 18 (+4) 11 (+0) 15 (+2) 6 (2) 8 (1) 5 (3)    
+**Speed** 40 ft. STR DEX CON INT WIS CHA 18 (+4) 11 (+0) 15 (+2) 6 (−2) 8 (−1) 5 (−3)    
 **Damage Vulnerabilities.**bludgeoning    
 **Damage Immunities** poison    
 **Condition Immunities** exhaustion, poisoned    

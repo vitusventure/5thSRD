@@ -11,7 +11,7 @@ _Small beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 8 (1)  | 15 (+2) | 11 (+0) | 3 (4)  | 12 (+1) | 6 (2)  |  
+| 8 (−1)  | 15 (+2) | 11 (+0) | 3 (−4)  | 12 (+1) | 6 (−2)  |  
 
 **Skills** Perception +3    
 **Senses** passive Perception 13    
@@ -22,4 +22,4 @@ _Small beast, unaligned_
 **Pack Tactics.** The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated. 
 
 ### Actions    
-**Bite.** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4  1) piercing damage. 
+**Bite.** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 – 1) piercing damage. 

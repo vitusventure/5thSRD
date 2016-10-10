@@ -82,7 +82,7 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 | Aegir, god of the sea and storms                  | NE         | Tempest                  | Rough ocean waves                     |
 | Balder, god of beauty and poetry                  | NG         | Life, Light              | Gem-encrusted silver chalice          |
 | Forseti, god of justice and law                   | N          | Light                    | Head of a bearded man                 |
-| Frey, god of fertility and the sun                | NG         | Life, Light              | Iceblue greatsword                   |
+| Frey, god of fertility and the sun                | NG         | Life, Light              | Ice‐blue greatsword                   |
 | Freya, goddess of fertility and love              | NG         | Life                     | Falcon                                |
 | Frigga, goddess of birth and fertility            | N          | Life, Light              | Cat                                   |
 | Heimdall, god of watchfulness and loyalty         | LG         | Light, War               | Curling musical horn                  |

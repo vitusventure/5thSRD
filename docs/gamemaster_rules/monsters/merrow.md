@@ -11,7 +11,7 @@ _Large monstrosity, chaotic evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 10 (+0) | 15 (+2) | 8 (1)  | 10 (+0) | 9 (1)  |
+| 18 (+4) | 10 (+0) | 15 (+2) | 8 (−1)  | 10 (+0) | 9 (−1)  |
 
 **Senses** darkvision 60 ft., passive Perception 10    
 **Languages** Abyssal, Aquan    

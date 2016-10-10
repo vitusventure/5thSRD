@@ -11,7 +11,7 @@ _Tiny beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 2 (4)  | 11 (+0) | 10 (+0) | 1 (5)  | 8 (1)  | 2 (4)  |    
+| 2 (−4)  | 11 (+0) | 10 (+0) | 1 (−5)  | 8 (−1)  | 2 (−4)  |    
 
 **Skills** Stealth +2    
 **Senses** blindsight 30 ft., passive Perception 9    

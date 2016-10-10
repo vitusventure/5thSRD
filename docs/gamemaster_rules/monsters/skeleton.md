@@ -11,7 +11,7 @@ _Medium undead, lawful evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 14 (+2) | 15 (+2) | 6 (2)  | 8 (1)  | 5 (3)  |
+| 10 (+0) | 14 (+2) | 15 (+2) | 6 (−2)  | 8 (−1)  | 5 (−3)  |
 
 **Damage Vulnerabilities.**bludgeoning    
 **Damage Immunities** poison    

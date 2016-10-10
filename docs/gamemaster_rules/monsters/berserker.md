@@ -11,7 +11,7 @@ _Medium humanoid (any race), any chaotic alignment_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 12 (+1) | 17 (+3) | 9 (1)  | 11 (+0) | 9 (1)  |  
+| 16 (+3) | 12 (+1) | 17 (+3) | 9 (−1)  | 11 (+0) | 9 (−1)  |  
 
 **Senses** passive Perception 10    
 **Languages** any one language (usually Common)    

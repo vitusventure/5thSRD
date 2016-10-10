@@ -11,7 +11,7 @@ _Medium fiend (devil), lawful evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 15 (+2) | 15 (+2) | 9 (1) | 11 (+0) | 11 (+0) |
+| 16 (+3) | 15 (+2) | 15 (+2) | 9 (−1) | 11 (+0) | 11 (+0) |
     
 **Saving Throws** Str +5, Con +4, Wis +2    
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    

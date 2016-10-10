@@ -11,7 +11,7 @@ _Small humanoid (goblinoid), neutral evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 8 (1)  | 14 (+2) | 10 (+0) | 10 (+0) | 8 (1)  | 8 (1)  |
+| 8 (−1)  | 14 (+2) | 10 (+0) | 10 (+0) | 8 (−1)  | 8 (−1)  |
 
 **Skills** Stealth +6    
 **Senses** darkvision 60 ft., passive Perception 9    

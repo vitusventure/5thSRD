@@ -11,7 +11,7 @@ _Medium humanoid (sahuagin), lawful evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 11 (+0) | 12 (+1) | 12 (+1) | 13 (+1) | 9 (1)  |
+| 13 (+1) | 11 (+0) | 12 (+1) | 12 (+1) | 13 (+1) | 9 (−1)  |
 
 **Skills** Perception +5    
 **Senses** darkvision 120 ft., passive Perception 15    

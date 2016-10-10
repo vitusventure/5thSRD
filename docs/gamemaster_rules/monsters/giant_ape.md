@@ -11,7 +11,7 @@ _Huge beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 23 (+6) | 14 (+2) | 18 (+4) | 7 (2)  | 12 (+1) | 7 (2)  |  
+| 23 (+6) | 14 (+2) | 18 (+4) | 7 (−2)  | 12 (+1) | 7 (−2)  |  
 
 **Skills** Athletics +9, Perception +4    
 **Senses** passive Perception 14    

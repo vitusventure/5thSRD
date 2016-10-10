@@ -148,7 +148,7 @@ On your adventures, you can add other ritual spells to your Book of Shadows. Whe
 #### Chains of Carceri 
 **Prerequisite:** 15th level, Pact of the Chain feature
 
-You can cast **_hold monster_** at willtargeting a celestial, fiend, or elemental - without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again. 
+You can cast **_hold monster_** at will—targeting a celestial, fiend, or elemental - without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again. 
 
 #### Devil's Sight 
 You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet. 
@@ -244,7 +244,7 @@ You can cast **_speak with dead_** at will, without expending a spell slot.
 **Prerequisite:** 15th level You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight. 
 
 ## Otherworldly Patrons 
-The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existencenot gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return.   
+The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return.   
 Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals. 
 
 ### The Fiend

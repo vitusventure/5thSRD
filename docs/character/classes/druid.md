@@ -73,7 +73,7 @@ Wisdom is your spellcasting ability for your druid spells, since your magic draw
 You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared. 
 
 #### Spellcasting Focus 
-You can use a druidic focus (see chapter 5, Equip- ment) as a spellcasting focus for your druid spells. 
+You can use a druidic focus (see chapter 5, “Equip- ment”) as a spellcasting focus for your druid spells. 
 
 ### Wild Shape
 - - -
@@ -130,7 +130,7 @@ For example, when you are a 4th-level druid, you can recover up to two levels wo
 
 #### Circle Spells 
 Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land - arctic, coast, desert, forest, grassland, mountain, or swamp - and consult the associated list of spells.  
-Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesnt appear on the druid spell list, the spell is nonetheless a druid spell for you.
+Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
 #### Arctic
 | Druid Level | Circle Spells                        |
@@ -188,7 +188,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 7th         | _freedom of movement, locate creature          |
 | 9th         | _insect plague, scrying_                       |
 
-#### Lands Stride
+#### Land’s Stride
 Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.   
 In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell. 
 

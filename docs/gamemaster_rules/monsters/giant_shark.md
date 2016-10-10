@@ -11,7 +11,7 @@ _Huge beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 23 (+6) | 11 (+0) | 21 (+5) | 1 (5)  | 10 (+0) | 5 (3)  |  
+| 23 (+6) | 11 (+0) | 21 (+5) | 1 (−5)  | 10 (+0) | 5 (−3)  |  
 
 **Skills** Perception +3    
 **Senses** blindsight 60 ft., passive Perception 13    

@@ -53,14 +53,14 @@ You can use this feature a number of times equal to 1 + your Charisma modifier. 
 
 ### Lay on Hands
 - - -
-Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level  5.   
+Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.   
 As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.   
 Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.   
 This feature has no effect on undead and constructs. 
 
 ### Fighting Style 
 - - -
-At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You cant take a Fighting Style option more than once, even if you later get to choose again. 
+At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again. 
 
 #### Defense 
 While you are wearing armor, you gain a +1 bonus to AC. 
@@ -79,7 +79,7 @@ When a creature you can see attacks a target other than you that is within 5 fee
 By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. 
 
 #### Preparing and Casting Spells 
-The Paladin table shows how many spell slots you have to cast your spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spells level or higher. You regain all expended spell slots when you finish a long rest.   
+The Paladin table shows how many spell slots you have to cast your spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.   
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.    
 For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell **_cure wounds_**, you can cast it using a 1st-level or a 2nd- level slot. Casting the spell doesn't remove it from your list of prepared spells.   
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.   
@@ -96,7 +96,7 @@ You can use a holy symbol as a spellcasting focus for your paladin spells.
 
 ### Divine Smite 
 - - -
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapons damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend. 
+Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend. 
 
 ### Divine Health 
 - - -
@@ -108,7 +108,7 @@ When you reach 3rd level, you swear the oath that binds you as a paladin forever
 Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature. 
 
 #### Oath Spells
-Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells dont count against the number of spells you can prepare each day.    
+Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don’t count against the number of spells you can prepare each day.    
 If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you. 
 
 #### Channel Divinity
@@ -175,7 +175,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 **Sacred Weapon.** As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.    
 You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.    
 **Turn the Unholy.** As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.    
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also cant take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action. 
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action. 
 
 #### Aura of Devotion 
 Starting at 7th level, you and friendly creatures within 10 feet of you can't be charmed while you are conscious.    
@@ -193,4 +193,4 @@ Once you use this feature, you can't use it again until you finish a long rest.
 >##### Breaking Your Oath 
 >A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath. 
 >A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all-night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh. 
->If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GMs discretion, an impenitent paladin might be forced to abandon this class and adopt another.
+>If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM’s discretion, an impenitent paladin might be forced to abandon this class and adopt another.
