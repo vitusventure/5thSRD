@@ -1,5 +1,6 @@
 Blink
 Clairvoyance
+Counterspell
 Daylight
 Dispel Magic
 Fear
