@@ -2,6 +2,7 @@ Animate Dead
 Bestow Curse
 Blink
 Clairvoyance
+Counterspell
 Dispel Magic
 Fear
 Fireball
