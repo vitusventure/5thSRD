@@ -18,7 +18,7 @@ _Medium humanoid (any race), any alignment_
 **Languages** any one language (usually Common)    
 **Challenge** 1/8 (25 XP) 
 
-## Actions 
+### Actions 
 **Spear.** _Melee_ or _Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack. 
 
 ### Description
