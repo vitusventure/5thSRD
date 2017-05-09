@@ -114,8 +114,12 @@ Beginning at 18th level, you can cast many of your druid spells in any shape you
 
 ### Archdruid 
 - - -
-At 20th level, you can use your Wild Shape an unlimited number of times.   
+At 20th level, you can use your Wild Shape an unlimited number of times.
 Additionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape. 
+
+## Druid Circles
+Though their organization is invisible to most outsiders druids are part of a society that spans the land, ignoring political borders. All druids are nominally members of this druidic society, though some individuals are so isolated that they have never seen any high-ranking members of the society or participated in druidic gatherings. Druids consider each other as brothers and sisters. Like creatures of the wilderness, however, druids sometimes compete with or even prey on each other.
+At a local scale, druids are organized into circles that share certain perspectives on nature, balance, and the way of the druid.
 
 ### Circle of the Land
 - - -
@@ -189,7 +193,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th         | _insect plague, scrying_                       |
 
 #### Land’s Stride
-Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.   
+Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell. 
 
 #### Nature's Ward 
@@ -198,10 +202,36 @@ When you reach 10th level, you can't be charmed or frightened by elementals or f
 #### Nature's Sanctuary 
 When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours. The creature is aware of this effect before it makes its attack against you. 
 
+### Circle of the Moon
+- - -
+Druids of the Circle of the Moon are fierce guardians of the wilds. Their order gathers under the full moon to share news and trade warnings. They haunt the deepest parts of the wilderness, where they might go for weeks on end before crossing paths with another humanoid creature, let alone another druid.
+Changeable as the moon, a druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and crash through the under growth in bear form to drive off a trespassing monster. The wild is in the druid's blood.
+
+#### Combat Wild Shape
+When you choose this circle at 2nd level, you gain the ability to use Wild Shape on your turn as a bonus action, rather than as an action.
+Additionally, while you are transformed by Wild Shape, you can use a bonus action to expend one spell slot to regain 1d8 hit points per level of the spell slot expended.
+
+#### Circle Forms
+The rites of your circle grant you the ability to transform into more dangerous animal forms. Starting at 2nd level, you can use your Wild Shape to transform into a beast with a challenge rating as high as 1 (you ignore the Max. CR column of the Beast Shapes table, but must abide by the other limitations there).
+Starting at 6th level, you can transform into a beast with a challenge rating as high as your druid level divided by 3, rounded down.
+
+#### Primal Strike
+Starting at 6th level, your attacks in beast form count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+#### Elemental Wild Shape
+At 10th level, you can expend two uses of Wild Shape at the same time to transform into an air elemental, an earth elemental, a fire elemental, or a water elemental.
+
+#### Thousand Forms
+By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the _alter self_ spell at will.
+
+---
+
 >##### Sacred Plants and Wood 
->A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.   
+>A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
 >Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.   
 >Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
+
+---
 
 >##### Druids and the Gods 
 >Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse. The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.
