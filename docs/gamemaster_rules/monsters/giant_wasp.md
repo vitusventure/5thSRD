@@ -3,7 +3,7 @@ type: beast
 cr: .5
 
 # Giant Wasp 
-_edium beast, unaligned_
+_Medium beast, unaligned_
 
 **Armor Class** 12    
 **Hit Points** 13 (3d8)    
