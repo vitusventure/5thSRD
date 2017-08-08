@@ -1,5 +1,5 @@
 name: Speak with Animals
-level: 0
+level: 1
 school: divination
 
 # Speak with Animals 
