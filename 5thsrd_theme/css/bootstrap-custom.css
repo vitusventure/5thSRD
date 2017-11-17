@@ -1175,7 +1175,8 @@ h6,
 .h5,
 .h6 {
   font-family: "Baskerville Old Face", "Baskerville", "Hoefler Text", "Garamond", "Times New Roman", serif;
-  font-weight: 500;
+  font-weight: bold;
+  font-variant: small-caps;
   line-height: 1.1;
   color: inherit;
 }
@@ -1279,6 +1280,9 @@ h6,
 }
 p {
   margin: 0 0 10px;
+}
+p br {
+  margin-bottom: 1em;
 }
 .lead {
   margin-bottom: 20px;
