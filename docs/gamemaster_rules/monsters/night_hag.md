@@ -2,8 +2,8 @@ name: Night Hag
 type: fiend
 cr: 5
 
-# Night Hag _
-Medium fiend, neutral evil_
+# Night Hag 
+_Medium fiend, neutral evil_
 
 **Armor Class** 17 (natural armor)    
 **Hit Points** 112 (15d8 + 45)    
