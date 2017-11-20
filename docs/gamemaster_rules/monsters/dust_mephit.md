@@ -3,7 +3,7 @@ type: elemental
 cr: .5
 
 # Dust Mephit 
-+Small elemental, neutral evil_
+_Small elemental, neutral evil_
 
 **Armor Class** 12    
 **Hit Points** 17 (5d6)    
