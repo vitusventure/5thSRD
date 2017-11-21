@@ -2,7 +2,7 @@ name: Silver Dragon Wyrmling
 type: dragon
 cr: 2
 
-# r Dragon Wyrmling 
+# Silver Dragon Wyrmling 
 _Medium dragon, lawful good_
 
 **Armor Class** 17 (natural armor)    
