@@ -22,7 +22,7 @@ _Small elemental, neutral evil_
 **Challenge** 1/2 (100 XP) 
 
 **Death Burst.** When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.    
-**Innate Spellcasting.**(1/Day). The mephit can innately cast **_sleep_**, requiring no material components. Its innate spellcasting ability is Charisma. 
+**Innate Spellcasting (1/Day).** The mephit can innately cast **_sleep_**, requiring no material components. Its innate spellcasting ability is Charisma. 
 
 ### Actions    
 **Claws.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) slashing damage.    
