@@ -46,4 +46,4 @@ Each time the vampire or the vampire's companions do anything harmful to the tar
 The vampire can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The vampire regains spent legendary actions at the start of its turn.    
 **Move.** The vampire moves up to its speed without provoking opportunity attacks.    
 **Unarmed Strike.** The vampire makes one unarmed strike.    
-**Bite.**(Costs 2 Actions). The vampire makes one bite attack.
+**Bite (Costs 2 Actions).** The vampire makes one bite attack.
