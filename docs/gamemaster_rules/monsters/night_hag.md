@@ -14,7 +14,7 @@ _Medium fiend, neutral evil_
 | 18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) |
 
 **Skills** Deception +7, Insight +6, Perception +6, Stealth +6    
-**Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons    
+**Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    
 **Condition Immunities** charmed    
 **Senses** darkvision 120 ft., passive Perception 16    
 **Languages** Abyssal, Common, Infernal, Primordial    
