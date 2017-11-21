@@ -13,7 +13,7 @@ _Medium undead, lawful evil_
 |---------|---------|---------|---------|---------|---------|
 | 10 (+0) | 14 (+2) | 15 (+2) | 6 (−2)  | 8 (−1)  | 5 (−3)  |
 
-**Damage Vulnerabilities.**bludgeoning    
+**Damage Vulnerabilities.** bludgeoning    
 **Damage Immunities** poison    
 **Condition Immunities** exhaustion, poisoned    
 **Senses** darkvision 60 ft., passive Perception 9    
