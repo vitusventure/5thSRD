@@ -20,7 +20,7 @@ _Small elemental, neutral evil_
 **Challenge** 1/4 (50 XP) 
 
 **Death Burst.** When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.    
-**Innate Spellcasting.**(1/Day). The mephit can innately cast **_blur_**, requiring no material components. Its innate spellcasting ability is Charisma. 
+**Innate Spellcasting (1/Day)** The mephit can innately cast **_blur_**, requiring no material components. Its innate spellcasting ability is Charisma. 
 
 ### Actions    
 **Claws.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 2 (1d4) slashing damage plus 2 (1d4) fire damage.    
