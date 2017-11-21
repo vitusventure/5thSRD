@@ -14,7 +14,7 @@ _Large fiend (devil), lawful evil_
 | 22 (+6) | 17 (+3) | 21 (+5) | 12 (+1) | 16 (+3) | 17 (+3) |
 
 **Saving Throws** Str +10, Dex +7, Wis +7, Cha +7    
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons    
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    
 **Damage Immunities** fire, poison    
 **Condition Immunities** poisoned    
 **Senses** darkvision 120 ft., passive Perception 13    
