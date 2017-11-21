@@ -14,7 +14,7 @@ _Medium undead, chaotic evil_
 | 6 (−2)  | 14 (+2) | 13 (+1) | 6 (−2)  | 10 (+0) | 8 (−1)  |
 
 **Skills** Stealth +4 (+6 in dim light or darkness)    
-**Damage Vulnerabilities.**radiant    
+**Damage Vulnerabilities.** radiant    
 **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks    
 **Damage Immunities** necrotic, poison    
 **Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained    
