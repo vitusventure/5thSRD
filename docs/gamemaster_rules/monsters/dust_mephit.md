@@ -14,7 +14,7 @@ _Small elemental, neutral evil_
 | 5 (−3)  | 14 (+2) | 10 (+0) | 9 (−1)  | 11 (+0) | 10 (+0) |
 
 **Skills** Perception +2, Stealth +4    
-**Damage Vulnerabilities.**fire    
+**Damage Vulnerabilities.** fire    
 **Damage Immunities** poison    
 **Condition Immunities** poisoned    
 **Senses** darkvision 60 ft., passive Perception 12    
