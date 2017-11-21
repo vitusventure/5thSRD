@@ -11,7 +11,7 @@ _Large monstrosity, neutral evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-18 (+4) 13 (+1) 14 (+2) 7 (−2) 12 (+1) 8 (−1)    
+| 18 (+4) | 13 (+1) | 14 (+2) | 7 (−2)  | 12 (+1) | 8 (−1)  |
 
 **Skills** Perception +5, Stealth +3    
 **Damage Immunities** cold    
