@@ -23,8 +23,9 @@ _Large fiend (devil), lawful evil_
 
 **Fear Aura.** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.    
 **Magic Resistance.** The pit fiend has advantage on saving throws against spells and other magical effects.    
-**Magic Weapons.** The pit fiend's weapon attacks are magical. Innate Spellcasting. The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:   
-At will: detect magic, fireball 3/day each: hold monster, wall of fire 
+**Magic Weapons.** The pit fiend's weapon attacks are magical. 
+**Innate Spellcasting.** The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:   
+At will: **_detect magic, fireball 3/day each: hold monster, wall of fire_** 
 
 ### Actions 
 **Multiattack.** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.    
