@@ -15,7 +15,7 @@ _Medium humanoid (any race), any alignment_
 
 **Saving Throws** Int +9, Wis +6    
 **Skills** Arcana +13, History +13    
-**Damage Resistances** damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin)    
+**Damage Resistance** damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin)    
 **Senses** passive Perception 12    
 **Languages** any six languages    
 **Challenge** 12 (8,400 XP)  
