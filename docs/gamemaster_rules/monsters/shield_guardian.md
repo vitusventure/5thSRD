@@ -25,7 +25,7 @@ _Large construct, unaligned_
 
 ### Actions 
 **Multiattack.** The guardian makes two fist attacks.    
-**Fist. **_Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage. 
+**Fist.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage. 
 
 ### Reactions 
 **Shield.** When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
