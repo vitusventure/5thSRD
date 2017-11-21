@@ -15,13 +15,13 @@ _Medium humanoid (any race), any alignment_
 
 **Saving Throws** Int +9, Wis +6    
 **Skills** Arcana +13, History +13    
-**Damage Resistance** damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin)    
+**Damage Resistances** damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin)    
 **Senses** passive Perception 12    
 **Languages** any six languages    
 **Challenge** 12 (8,400 XP)  
 
 **Magic Resistance.** The archmage has advantage on saving throws against spells and other magical effects.    
-Spellcasting. The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast **_disguise self_** and **_invisibility_** at will and has the following wizard spells prepared:    
+**Spellcasting.** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast **_disguise self_** and **_invisibility_** at will and has the following wizard spells prepared:    
 Cantrips (at will): **_fire bolt, light, mage hand, prestidigitation, shocking grasp_**    
 1st level (4 slots): **_detect magic, identify, mage armor, magic missile_**    
 2nd level (3 slots): **_detect thoughts, mirror image, misty step_**    
