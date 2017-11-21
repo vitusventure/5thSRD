@@ -11,7 +11,7 @@ _Large monstrosity, neutral evil_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-16 (+3) 13 (+1) 13 (+1) 7 (−2) 11 (+0) 8 (−1)    
+| 16 (+3) | 13 (+1) | 13 (+1) | 7 (−2)  | 11 (+0) | 8 (−1)  |
 
 **Skills** Perception +4    
 **Senses** darkvision 60 ft., passive Perception 14    
