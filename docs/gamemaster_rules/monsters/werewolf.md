@@ -26,4 +26,4 @@ _Medium humanoid (human, shapechanger), chaotic evil_
 **Multiattack. (Humanoid or Hybrid Form Only).** The werewolf makes two attacks: one with its bite and one with its claws or spear.    
 **Bite (Wolf or Hybrid Form Only).** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.    
 **Claws. (Hybrid Form Only).** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (2d4 + 2) slashing damage.    
-**Spear (Humanoid Form Only).** _Melee or _Ranged Weapon Attack:__ +4 to hit, reach 5 ft. or range 20/60 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+**Spear (Humanoid Form Only).** _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.

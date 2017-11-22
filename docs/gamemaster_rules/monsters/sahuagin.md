@@ -26,4 +26,4 @@ _Medium humanoid (sahuagin), lawful evil_
 **Multiattack.** The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.    
 **Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) piercing damage.    
 **Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) slashing damage.    
-**Spear.** _Melee or _Ranged Weapon Attack:__ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+**Spear.** _Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.

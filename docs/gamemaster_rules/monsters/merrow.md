@@ -22,4 +22,4 @@ _Large monstrosity, chaotic evil_
 **Multiattack.** The merrow makes two attacks: one with its bite and one with its claws or harpoon.    
 **Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.    
 **Claws.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (2d4 + 4) slashing damage.    
-**Harpoon.** _Melee or _Ranged Weapon Attack:__ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.
+**Harpoon.** _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.

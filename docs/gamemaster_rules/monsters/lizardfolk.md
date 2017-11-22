@@ -24,5 +24,5 @@ _Medium humanoid (lizardfolk), neutral_
 **Multiattack.** The lizardfolk makes two melee attacks, each one with a different weapon.    
 **Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
 **Heavy Club.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage.    
-**Javelin.** _Melee or _Ranged Weapon Attack:__ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
+**Javelin.** _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
 **Spiked Shield.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.

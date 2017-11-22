@@ -20,7 +20,7 @@ _Medium humanoid (any race), any alignment_
 **Pack Tactics.** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated. 
 
 ### Actions 
-**Spear.** _Melee or _Ranged Weapon Attack:__ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack. 
+**Spear.** _Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack. 
 
 
 ### Description

@@ -22,4 +22,4 @@ _Medium humanoid (orc), chaotic evil_
 
 ### Actions 
 **Greataxe.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 9 (1d12 + 3) slashing damage.    
-**Javelin.** _Melee or _Ranged Weapon Attack:__ +5 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
+**Javelin.** _Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.

@@ -28,7 +28,7 @@ Cantrips (at will): **_fire bolt, light, mage hand, prestidigitation_**
 5th level (1 slot): **_cone of cold_** 
 
 ### Actions 
-**Dagger.** _Melee or _Ranged Weapon Attack:__ +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. 
+**Dagger.** _Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. 
 
 ### Description
 Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.

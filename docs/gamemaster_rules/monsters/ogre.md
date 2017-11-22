@@ -19,4 +19,4 @@ _Large giant, chaotic evil_
 
 ### Actions 
 **Greatclub.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.    
-**Javelin.** _Melee or _Ranged Weapon Attack:__ +6 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage.
+**Javelin.** _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage.
