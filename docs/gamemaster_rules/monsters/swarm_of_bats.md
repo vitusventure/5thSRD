@@ -17,5 +17,11 @@ _Medium swarm of Tiny beasts, unaligned_
 **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned    
 **Senses** blindsight 60 ft., passive Perception 11    
 **Languages** --    
-**Challenge** 1/4 (50 XP) Echolocation. The swarm can't use its blindsight while deafened. Keen Hearing. The swarm has advantage on Wisdom (Perception) checks that rely on hearing. Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points. Actions    
-**Bite.**. _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one creature in the swarm's space. _Hit:_ 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer. 
+**Challenge** 1/4 (50 XP)
+
+**Echolocation.** The swarm can't use its blindsight while deafened.      
+**Keen Hearing.** The swarm has advantage on Wisdom (Perception) checks that rely on hearing.      
+**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.   
+
+### Actions    
+**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one creature in the swarm's space. _Hit:_ 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer. 

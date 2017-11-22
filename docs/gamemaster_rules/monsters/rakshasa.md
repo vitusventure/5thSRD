@@ -14,7 +14,7 @@ _Medium fiend, lawful evil_
 | 14 (+2) | 17 (+3) | 18 (+4) | 13 (+1) | 16 (+3) | 20 (+5) |
 
 **Skills** Deception +10, Insight +8    
-**Damage Vulnerabilities.**piercing from magic weapons wielded by good creatures    
+**Damage Vulnerabilities.** piercing from magic weapons wielded by good creatures    
 **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks    
 **Senses** darkvision 60 ft., passive Perception 13    
 **Languages** Common, Infernal    

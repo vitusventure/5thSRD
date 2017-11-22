@@ -231,7 +231,12 @@ You can cast **_bane_** once using a warlock spell slot. You can't do so again u
 #### Thirsting Blade 
 **Prerequisite:** 5th level, Pact of the Blade feature 
 
-You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn. Visions of Distant Realms Prerequisite: 15th level You can cast arcane eye at will, without expending a spell slot.
+You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn. 
+
+#### Visions of Distant Realms 
+**Prerequisite:** 15th level 
+
+You can cast arcane eye at will, without expending a spell slot.
 
 #### Voice of the Chain Master 
 **Prerequisite:** Pact of the Chain feature You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech. 

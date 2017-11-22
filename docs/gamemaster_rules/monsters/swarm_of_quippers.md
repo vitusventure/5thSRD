@@ -24,4 +24,4 @@ _Medium swarm of Tiny beasts, unaligned_
 **Water Breathing.** The swarm can breathe only underwater. 
 
 ### Actions    
-**Bite.**. _Melee Weapon Attack:_ +5 to hit, reach 0 ft., one creature in the swarm's space. _Hit:_ 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer. 
+**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 0 ft., one creature in the swarm's space. _Hit:_ 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer. 

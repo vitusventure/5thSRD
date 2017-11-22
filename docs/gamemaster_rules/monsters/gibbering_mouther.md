@@ -23,5 +23,5 @@ _Medium aberration, neutral_
 
 ### Actions 
 **Multiattack.** The gibbering mouther makes one bite attack and, if it can, uses its Blinding Spittle.    
-**Bite.**. _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 17 (5d6) piercing damage. If the target is Medium or smaller, it must succeed on a DC 10 Strength saving throw or be knocked prone. If the target is killed by this damage, it is absorbed into the mouther.    
+**Bite.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 17 (5d6) piercing damage. If the target is Medium or smaller, it must succeed on a DC 10 Strength saving throw or be knocked prone. If the target is killed by this damage, it is absorbed into the mouther.    
 **Blinding Spittle (Recharge 5–6).** The mouther spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be blinded until the end of the mouther's next turn.

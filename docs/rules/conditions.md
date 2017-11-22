@@ -25,6 +25,7 @@ Some special abilities and environmental hazards, such as starvation and the lon
 | 3     | Disadvantage on attack rolls and saving throws |
 | 4     | Hit point maximum halved                       |
 | 5     | Speed reduced to 0                             |
+| 6     | Death                                          |
 
 
 If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.    

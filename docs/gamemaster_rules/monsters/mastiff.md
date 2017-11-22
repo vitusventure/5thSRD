@@ -2,8 +2,8 @@ name: Mastiff
 type: beast
 cr: .125
 
-# Mastiff _
-Medium beast, unaligned_
+# Mastiff 
+_Medium beast, unaligned_
 
 **Armor Class** 12    
 **Hit Points** 5 (1d8 + 1)    

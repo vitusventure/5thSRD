@@ -3,7 +3,7 @@ type: elemental
 cr: .5
 
 # Dust Mephit 
-+Small elemental, neutral evil_
+_Small elemental, neutral evil_
 
 **Armor Class** 12    
 **Hit Points** 17 (5d6)    
@@ -14,7 +14,7 @@ cr: .5
 | 5 (−3)  | 14 (+2) | 10 (+0) | 9 (−1)  | 11 (+0) | 10 (+0) |
 
 **Skills** Perception +2, Stealth +4    
-**Damage Vulnerabilities.**fire    
+**Damage Vulnerabilities.** fire    
 **Damage Immunities** poison    
 **Condition Immunities** poisoned    
 **Senses** darkvision 60 ft., passive Perception 12    
@@ -22,7 +22,7 @@ cr: .5
 **Challenge** 1/2 (100 XP) 
 
 **Death Burst.** When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.    
-**Innate Spellcasting.**(1/Day). The mephit can innately cast **_sleep_**, requiring no material components. Its innate spellcasting ability is Charisma. 
+**Innate Spellcasting (1/Day).** The mephit can innately cast **_sleep_**, requiring no material components. Its innate spellcasting ability is Charisma. 
 
 ### Actions    
 **Claws.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) slashing damage.    

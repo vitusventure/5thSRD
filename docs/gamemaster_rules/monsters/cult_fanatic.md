@@ -26,7 +26,7 @@ Cantrips (at will): **_light, sacred flame, thaumaturgy_**
 
 ### Actions 
 **Multiattack.** The fanatic makes two melee attacks.    
-**Dagger.** _Melee or _Ranged Weapon Attack:__ +4 to hit, reach 5 ft. or range 20/60 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage. 
+**Dagger.** _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage. 
 
 ### Description
 Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.

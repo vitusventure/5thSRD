@@ -3,7 +3,7 @@ type: elemental
 cr: .5
 
 # Magmin 
-Small elemental, chaotic neutral_
+_Small elemental, chaotic neutral_
 
 **Armor Class** 14 (natural armor)    
 **Hit Points** 9 (2d6 + 2)    
