@@ -18,7 +18,7 @@ _Medium humanoid (any race), any alignment_
 **Languages** Druidic plus any two languages
 **Challenge** 2 (450 XP)
 
-***Spellcasting.** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:    
+**Spellcasting.** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 Cantrips (at will): **_druidcraft, produce flame, shillelagh_**
 1st level (4 slots): **_entangle, longstrider, speak with animals, thunderwave_**
 2nd level (3 slots): **_animal messenger, barkskin_**
