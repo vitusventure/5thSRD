@@ -2,6 +2,7 @@ Charm Person
 Comprehend Languages
 Expeditious Retreat
 Hellish Rebuke
+Hex
 Illusory Script
 Protection from Evil and Good
 Unseen Servant
