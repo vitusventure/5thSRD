@@ -1,4 +1,4 @@
-name: Chull
+name: Chuul
 type: abberation
 cr: 4
 
