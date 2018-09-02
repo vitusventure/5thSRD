@@ -3,7 +3,7 @@ type: undead
 cr: 2
 
 # Minotaur Skeleton
-_Skeleton Large undead, lawful evil_
+_Large undead, lawful evil_
 
 **Armor Class** 12 (natural armor)    
 **Hit Points** 67 (9d10 + 18)    
