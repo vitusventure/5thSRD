@@ -2,6 +2,8 @@ import os
 import argparse
 import markdown
 import codecs
+import logging
+
 
 spell_list_src = os.path.join(".", "src")
 spells_md_src = os.path.join(".", "docs", "spellcasting", "spells")
@@ -21,12 +23,12 @@ def create_output_directories():
     directories = [class_spell_lists_output, spell_indexes_output, item_indexes_output, monster_indexes_output]
     for directory in directories:
         if not os.path.exists(directory):
-            print "Creating output directory at: %s" % directory
+            logger.info("Creating output directory at: {0}".format(directory))
             os.makedirs(directory)
 
 
 def write_md_to_file(md, path):
-    print "Writing file to: %s\n" % path
+    logger.info("Writing file to: {0}".format(path))
     with open(path, "w") as f:
         for line in md:
             f.write(line + "\n")
@@ -65,8 +67,8 @@ def construct_spells_map():
             school = md.Meta["school"][0]
             name_category = md.Meta["name"][0][0].capitalize()
         except KeyError as e:
-            print "Error in %s" % filename
-            print "Unable to find meta variable: %s" % e.message
+            logger.warning("Error in {0}".format(filename))
+            logger.critical("Unable to find meta variable: {0}".format(e))
             exit(1)
         output[name] = {"level": level, "school": school, "name_category": name_category}
     return output
@@ -84,8 +86,8 @@ def construct_items_map():
             item_type = md.Meta["type"][0]
             name_category = md.Meta["name"][0][0].capitalize()
         except KeyError as e:
-            print "Error in %s" % filename
-            print "Unable to find meta variables: %s" % e.message
+            logger.warning("Error in {0}".format(filename))
+            logger.critical("Unable to find meta variable: {0}".format(e))
             exit(1)
         output[name] = {"type": item_type, "name_category": name_category}
     return output
@@ -103,8 +105,8 @@ def construct_monsters_map():
             type = md.Meta["type"][0]
             name_category = md.Meta["name"][0][0].capitalize()
         except KeyError as e:
-            print "Error in %s" % filename
-            print "Unable to find meta variables: %s" % e.message
+            logger.warning("Error in {0}".format(filename))
+            logger.critical("Unable to find meta variable: {0}".format(e))
             exit(1)
         output[name] = {"name_category": name_category, "cr": str(cr), "type": type}
     return output
@@ -140,7 +142,7 @@ def convert_spells_map_to_list(spell_map):
 
 
 def generate_spells_by_level(spell_map):
-    print "Generating spells by level..."
+    logger.info("Generating spells by level...")
     spells_by_level = {}
     for spell in spell_map:
         spell_level = spell_map[spell]["level"]
@@ -153,7 +155,7 @@ def generate_spells_by_level(spell_map):
 
 
 def generate_spells_by_name(spell_map):
-    print "Generating spells by name..."
+    logger.info("Generating spells by name...")
     spells_by_name = {}
     for spell in spell_map:
         spell_category = spell_map[spell]["name_category"]
@@ -165,7 +167,7 @@ def generate_spells_by_name(spell_map):
     write_md_to_file(md_output, os.path.join(spell_indexes_output, "spells_by_name.md"))
 
 def generate_spells_by_school(spell_map):
-    print "Generating spells by school..."
+    logger.info("Generating spells by school...")
     spells_by_school = {}
     for spell in spell_map:
         spell_school = spell_map[spell]["school"]
@@ -177,7 +179,7 @@ def generate_spells_by_school(spell_map):
     write_md_to_file(md_output, os.path.join(spell_indexes_output, "spells_by_school.md"))
 
 def generate_items_by_name(item_map):
-    print "Generating items by name..."
+    logger.info("Generating items by name...")
     items_by_name = {}
     for item in item_map:
         item_category = item_map[item]["name_category"]
@@ -189,7 +191,7 @@ def generate_items_by_name(item_map):
     write_md_to_file(md_output, os.path.join(item_indexes_output, "items_by_name.md"))
 
 def generate_items_by_type(item_map):
-    print "Generating items by type..."
+    logger.info("Generating items by type...")
     items_by_type = {}
     for item in item_map:
         item_category = item_map[item]["type"]
@@ -201,7 +203,7 @@ def generate_items_by_type(item_map):
     write_md_to_file(md_output, os.path.join(item_indexes_output, "items_by_type.md"))
 
 def generate_monsters_by_name(monster_map):
-    print "Generating monsters by name..."
+    logger.info("Generating monsters by name...")
     monsters_by_name = {}
     for monster in monster_map:
         monster_category = monster_map[monster]["name_category"]
@@ -213,7 +215,7 @@ def generate_monsters_by_name(monster_map):
     write_md_to_file(md_output, os.path.join(monster_indexes_output, "monsters_by_name.md"))
 
 def generate_monsters_by_type(monster_map):
-    print "Generating monsters by type..."
+    logger.info("Generating monsters by type...")
     monsters_by_type = {}
     for monster in monster_map:
         monster_category = monster_map[monster]["type"]
@@ -225,7 +227,7 @@ def generate_monsters_by_type(monster_map):
     write_md_to_file(md_output, os.path.join(monster_indexes_output, "monsters_by_type.md"))
 
 def generate_monsters_by_cr(monster_map):
-    print "Generating monsters by cr..."
+    logger.info("Generating monsters by cr...")
     monsters_by_cr = {}
     for monster in monster_map:
         monster_category = monster_map[monster]["cr"]
@@ -238,7 +240,7 @@ def generate_monsters_by_cr(monster_map):
 
 def generate_md_spell_list(class_name, class_files_path):
     md = []
-    md.append("# %s Spells" % class_name.capitalize())
+    md.append("# {0} Spells".format(class_name.capitalize()))
     files = sorted(os.listdir(class_files_path))
     for file in files:
         # Insert the section header
@@ -263,17 +265,23 @@ def generate_linked_spell_lists(spell_map):
         if not directories:
             class_name = os.path.split(root)[1]
             class_files_path = root
-            print "Generating spell list for class: %s" % class_name
+            logger.info("Generating spell list for class: {0}".format(class_name))
             class_md = generate_md_spell_list(class_name, class_files_path)
             write_md_to_file(class_md, os.path.join(class_spell_lists_output, "%s_spells.md" % class_name))
 
 
 if __name__ == "__main__":
+    # Setup logging
+    logging.basicConfig(level=logging.INFO)
+    logger = logging.getLogger("5thSRDIndexBuilder")
+
     parser = argparse.ArgumentParser()
     parser.add_argument("--offline", action="store_true", default=False)
     args = parser.parse_args()
+
     if args.offline:
-        print "Generating in offline mode"
+        logger.info("Generating in offline mode")
+
     create_output_directories()
     spells_map = construct_spells_map()
     items_map = construct_items_map()
