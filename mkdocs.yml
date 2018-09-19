@@ -6,3 +6,4 @@ google_analytics: ["UA-72655850-1", '5thsrd.org']
 theme:
   name: null
   custom_dir: 5thsrd_theme
+plugins: []
