@@ -1,6 +1,6 @@
 name: Revivify
 level: 3
-school:
+school: necromancy
 classes: cleric
          paladin
 
