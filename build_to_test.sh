@@ -2,8 +2,8 @@
 
 git pull
 
-python build_indexes.py
+python3 build_indexes.py
 
 mkdocs build --clean
 
-aws s3 sync ./site/ s3://5thsrd.org-test/ --region="us-east-1"
+aws s3 sync ./site/ s3://5thsrd.org-test/ --region="us-east-1" --delete
