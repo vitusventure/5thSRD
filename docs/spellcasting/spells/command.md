@@ -3,7 +3,6 @@ level: 1
 school: enchantment
 classes: cleric
          paladin
-         warlock
 
 # Command 
 _1st-level enchantment_ 

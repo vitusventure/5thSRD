@@ -2,7 +2,7 @@
 
 git pull
 
-python2 generate_indexes.py
+python build_indexes.py
 
 mkdocs build --clean
 
