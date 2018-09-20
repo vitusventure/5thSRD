@@ -1,10 +1,4 @@
-{% extends "base.html" %}
-
-{% block footerscript %}
-  <script>var base_url = '{{ base_url }}';</script>
-{% endblock %}
-
-{% block content %}
+# Search the SRD
 <div>
 <script>
   (function() {
@@ -19,4 +13,3 @@
 </script>
 <gcse:search></gcse:search>
 </div>
-{% endblock %}
