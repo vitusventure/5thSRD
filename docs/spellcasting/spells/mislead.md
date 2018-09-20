@@ -1,6 +1,8 @@
 name: Mislead
 level: 5
 school: illusion
+classes: bard
+         wizard
 
 # Mislead 
 _5th-level illusion_ 

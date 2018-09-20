@@ -1,6 +1,8 @@
 name: Spike Growth
 level: 2
 school: transmutation
+classes: druid
+         ranger
 
 # Spike Growth 
 _2nd-level transmutation_ 

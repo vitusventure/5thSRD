@@ -1,6 +1,10 @@
 name: Longstrider
 level: 1
 school: transmutation
+classes: bard
+         druid
+         ranger
+         wizard
 
 # Longstrider 
 _1st-level transmutation_ 

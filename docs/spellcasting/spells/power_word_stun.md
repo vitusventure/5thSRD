@@ -1,6 +1,10 @@
 name: Power Word Stun
 level: 8
 school: enchantment
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Power Word Stun 
 _8th-level enchantment_ 

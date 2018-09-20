@@ -1,6 +1,10 @@
 name: Hold Monster
 level: 5
 school: enchantment
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Hold Monster 
 _5th-level enchantment_ 

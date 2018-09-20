@@ -1,6 +1,10 @@
 name: Detect Poison and Disease
 level: 1
 school: divination
+classes: cleric
+         druid
+         paladin
+         ranger
 
 # Detect Poison and Disease 
 _1st-level divination (ritual)_ 

@@ -1,6 +1,7 @@
 name: Arcane Eye
 level: 4
 school: divination
+classes: wizard
 
 # Arcane Eye 
 _4th-level divination_ 

@@ -1,6 +1,10 @@
 name: Light
 level: 0
 school: evocation
+classes: bard
+         cleric
+         sorcerer
+         wizard
 
 # Light 
 _Evocation cantrip_ 

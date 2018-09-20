@@ -1,6 +1,8 @@
 name: Resurrection
 level: 7
 school: necromancy
+classes: bard
+         cleric
 
 # Resurrection 
 _7th-level necromancy_ 

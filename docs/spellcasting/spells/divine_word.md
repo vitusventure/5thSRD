@@ -1,6 +1,7 @@
 name: Divine Word
 level: 7
 school: evocation
+classes: cleric
 
 # Divine Word 
 _7th-level evocation_ 

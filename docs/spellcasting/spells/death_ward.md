@@ -1,6 +1,8 @@
 name: Death Ward
 level: 4
 school: abjuration
+classes: cleric
+         paladin
 
 # Death Ward 
 _4th-level abjuration_ 

@@ -1,6 +1,8 @@
 name: Heat Metal
 level: 2
 school: transmutation
+classes: bard
+         druid
 
 # Heat Metal 
 _2nd-level transmutation_ 

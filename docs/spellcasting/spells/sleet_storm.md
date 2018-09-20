@@ -1,6 +1,9 @@
 name: Sleet Storm
 level: 3
 school: conjuration
+classes: druid
+         sorcerer
+         wizard
 
 # Sleet Storm 
 _3rd-level conjuration_ 

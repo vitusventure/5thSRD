@@ -1,6 +1,9 @@
 name: Fire Storm
 level: 7
 school: evocation
+classes: cleric
+         druid
+         sorcerer
 
 # Fire Storm 
 _7th-level evocation_ 

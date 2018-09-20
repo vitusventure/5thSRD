@@ -1,6 +1,10 @@
 name: Comprehend Languages
 level: 1
 school: divination
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Comprehend Languages 
 _1st-level divination (ritual)_ 

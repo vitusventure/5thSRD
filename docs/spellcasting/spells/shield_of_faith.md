@@ -1,6 +1,8 @@
 name: Shield of Faith
 level: 1
 school: abjuration
+classes: cleric
+         paladin
 
 # Shield of Faith 
 _1st-level abjuration_ 

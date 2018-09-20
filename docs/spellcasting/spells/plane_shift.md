@@ -1,6 +1,11 @@
 name: Plane Shift
 level: 7
 school: conjuration
+classes: cleric
+         sorcerer
+         warlock
+         wizard
+         druid
 
 # Plane Shift 
 _7th-level conjuration_ 

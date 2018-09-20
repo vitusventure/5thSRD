@@ -1,6 +1,8 @@
 name: Resistance
 level: 0
 school: abjuration
+classes: cleric
+         druid
 
 # Resistance 
 _Abjuration cantrip_ 

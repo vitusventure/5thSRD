@@ -1,6 +1,9 @@
 name: Move Earth
 level: 6
 school: transmutation
+classes: druid
+         sorcerer
+         wizard
 
 # Move Earth 
 _6th-level transmutation_ 

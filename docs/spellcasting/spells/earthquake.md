@@ -1,6 +1,9 @@
 name: Earthquake
 level: 8
 school: evocation
+classes: cleric
+         druid
+         sorcerer
 
 # Earthquake 
 _8th-level evocation_ 

@@ -1,6 +1,10 @@
 name: Eyebite
 level: 6
 school: necromancy
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Eyebite 
 _6th-level necromancy_ 

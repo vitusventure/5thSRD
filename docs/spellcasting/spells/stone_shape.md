@@ -1,6 +1,9 @@
 name: Stone Shape
 level: 4
 school: transmutation
+classes: cleric
+         druid
+         wizard
 
 # Stone Shape 
 _4th-level transmutation_ 

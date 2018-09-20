@@ -1,6 +1,9 @@
 name: Fly
 level: 3
 school: transmutation
+classes: sorcerer
+         warlock
+         wizard
 
 # Fly 
 _3rd-level transmutation_ 

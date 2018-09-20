@@ -1,6 +1,7 @@
 name: Warding Bond
 level: 2
 school: abjuration
+classes: cleric
 
 # Warding Bond 
 _2nd-level abjuration_ 

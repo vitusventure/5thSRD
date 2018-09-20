@@ -1,6 +1,8 @@
 name: Animate Dead
 level: 3
 school: necromancy
+classes: cleric
+         wizard
 
 # Animate Dead 
 _3rd-level necromancy_ 

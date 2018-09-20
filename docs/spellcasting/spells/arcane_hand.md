@@ -1,6 +1,7 @@
 name: Arcane Hand
 level: 5
 school: evocation
+classes: wizard
 
 # Arcane Hand 
 _5th-level evocation_ 

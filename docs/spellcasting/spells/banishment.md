@@ -1,6 +1,11 @@
 name: Banishment
 level: 4
 school: abjuration
+classes: paladin
+         cleric
+         sorcerer
+         warlock
+         wizard
 
 # Banishment 
 _4th-level abjuration_   

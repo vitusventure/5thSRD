@@ -1,6 +1,10 @@
 name: Feeblemind
 level: 8
 school: enchantment
+classes: bard
+         druid
+         warlock
+         wizard
 
 # Feeblemind 
 _8th-level enchantment_ 

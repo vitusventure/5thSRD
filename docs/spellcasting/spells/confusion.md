@@ -1,6 +1,10 @@
 name: Confusion
 level: 4
 school: enchantment
+classes: bard
+         druid
+         sorcerer
+         wizard
 
 # Confusion 
 _4th-level enchantment_ 

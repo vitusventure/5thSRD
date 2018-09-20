@@ -1,6 +1,11 @@
 name: Stoneskin
 level: 4
 school: abjuration
+classes: druid
+         paladin
+         ranger
+         sorcerer
+         wizard
 
 # Stoneskin 
 _4th-level abjuration_ 

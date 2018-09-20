@@ -1,6 +1,8 @@
 name: Wish
 level: 9
 school: conjuration
+classes: sorcerer
+         wizard
 
 # Wish 
 _9th-level conjuration_ 

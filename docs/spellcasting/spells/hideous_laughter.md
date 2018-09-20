@@ -1,6 +1,8 @@
 name: Hideous Laughter
 level: 1
 school: enchantment
+classes: bard
+         wizard
 
 # Hideous Laughter 
 _1st-level enchantment_ 

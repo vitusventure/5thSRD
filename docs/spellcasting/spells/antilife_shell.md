@@ -1,6 +1,7 @@
 name: Antilife Shell
 level: 5
 school: abjuration
+classes: druid
 
 # Antilife Shell 
 _5th-level abjuration_ 

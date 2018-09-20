@@ -1,6 +1,8 @@
 name: Blur
 level: 2
 school: illusion
+classes: sorcerer
+         wizard
 
 # Blur 
 _2nd-level illusion_ 

@@ -1,6 +1,8 @@
 name: Lightning Bolt
 level: 3
 school: evocation
+classes: sorcerer
+         wizard
 
 # Lightning Bolt 
 _3rd-level evocation_ 

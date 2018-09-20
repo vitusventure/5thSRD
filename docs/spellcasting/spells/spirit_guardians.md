@@ -1,6 +1,7 @@
 name: Spirit Guardians
 level: 3
 school: conjuration
+classes: cleric
 
 # Spirit Guardians 
 _3rd-level conjuration_ 

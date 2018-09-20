@@ -1,6 +1,8 @@
 name: Goodberry
 level: 1
 school: transmutation
+classes: druid
+         ranger
 
 # Goodberry 
 _1st-level transmutation_ 

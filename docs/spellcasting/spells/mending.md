@@ -1,6 +1,11 @@
 name: Mending
 level: 0
 school: transmutation
+classes: bard
+         cleric
+         druid
+         sorcerer
+         wizard
 
 # Mending 
 _Transmutation cantrip_ 

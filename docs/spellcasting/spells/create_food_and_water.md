@@ -1,6 +1,8 @@
 name: Create Food and Water
 level: 3
 school: conjuration
+classes: cleric
+         paladin
 
 # Create Food and Water 
 _3rd-level conjuration_ 

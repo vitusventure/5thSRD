@@ -1,6 +1,8 @@
 name: Bane
 level: 1
 school: enchantment
+classes: bard
+         cleric
 
 # Bane 
 _1st-level enchantment_ 

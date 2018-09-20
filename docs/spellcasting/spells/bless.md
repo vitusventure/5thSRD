@@ -1,6 +1,8 @@
 name: Bless
 level: 1
 school: enchantment
+classes: cleric
+         paladin
 
 # Bless 
 _1st-level enchantment_ 

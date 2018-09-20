@@ -1,6 +1,10 @@
 name: Polymorph
 level: 4
 school: transmutation
+classes: bard
+         druid
+         sorcerer
+         wizard
 
 # Polymorph 
 _4th-level transmutation_ 

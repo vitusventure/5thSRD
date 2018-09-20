@@ -1,6 +1,8 @@
 name: Ray of Frost
 level: 0
 school: evocation
+classes: sorcerer
+         wizard
 
 # Ray of Frost 
 _Evocation cantrip_ 

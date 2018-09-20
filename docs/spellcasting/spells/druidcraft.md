@@ -1,6 +1,7 @@
 name: Druidcraft
 level: 0
 school: transmutation
+classes: druid
 
 # Druidcraft 
 _Transmutation cantrip_ 

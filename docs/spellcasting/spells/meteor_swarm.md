@@ -1,6 +1,8 @@
 name: Meteor Swarm
 level: 9
 school: evocation
+classes: sorcerer
+         wizard
 
 # Meteor Swarm 
 _9th-level evocation_ 

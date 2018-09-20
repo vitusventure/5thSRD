@@ -1,6 +1,8 @@
 name: Faerie Fire
 level: 1
 school: evocation
+classes: bard
+         druid
 
 # Faerie Fire 
 _1st-level evocation_ 

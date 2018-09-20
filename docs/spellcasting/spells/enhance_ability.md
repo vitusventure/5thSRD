@@ -1,6 +1,10 @@
 name: Enhance Ability
 level: 2
 school: transmutation
+classes: bard
+         cleric
+         druid
+         sorcerer
 
 # Enhance Ability 
 _2nd-level transmutation_ 

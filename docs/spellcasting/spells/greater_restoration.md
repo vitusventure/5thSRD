@@ -1,6 +1,9 @@
 name: Greater Restoration
 level: 5
 school: abjuration
+classes: bard
+         cleric
+         druid
 
 # Greater Restoration 
 _5th-level abjuration_ 

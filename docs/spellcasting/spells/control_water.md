@@ -1,6 +1,9 @@
 name: Control Water
 level: 4
 school: transmutation
+classes: cleric
+         druid
+         wizard
 
 # Control Water 
 _4th-level transmutation_ 

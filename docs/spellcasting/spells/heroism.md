@@ -1,6 +1,8 @@
 name: Heroism
 level: 1
 school: enchantment
+classes: bard
+         paladin
 
 # Heroism 
 _1st-level enchantment_    

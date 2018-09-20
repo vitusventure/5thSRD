@@ -1,6 +1,8 @@
 name: Awaken
 level: 5
 school: transmutation
+classes: bard
+         druid
 
 # Awaken 
 _5th-level transmutation_ 

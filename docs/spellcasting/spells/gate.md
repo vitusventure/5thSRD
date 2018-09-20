@@ -1,6 +1,9 @@
 name: Gate
 level: 9
 school: conjuration
+classes: cleric
+         sorcerer
+         wizard
 
 # Gate 
 _9th-level conjuration_ 

@@ -1,6 +1,8 @@
 name: Black Tentacles
 level: 4
 school: conjuration
+classes: wizard
+
 
 # Black Tentacles 
 _4th-level conjuration_ 

@@ -1,6 +1,8 @@
 name: Incendiary Cloud
 level: 8
 school: conjuration
+classes: sorcerer
+         wizard
 
 # Incendiary Cloud 
 _8th-level conjuration_ 

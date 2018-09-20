@@ -1,6 +1,8 @@
 name: Identify
 level: 1
 school: divination
+classes: bard
+         wizard
 
 # Identify 
 _1st-level divination (ritual)_ 

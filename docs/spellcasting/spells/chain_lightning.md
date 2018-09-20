@@ -1,6 +1,8 @@
 name: Chain Lightning
 level: 6
 school: evocation
+classes: sorcerer
+         wizard
 
 # Chain Lightning 
 _6th-level evocation_ 

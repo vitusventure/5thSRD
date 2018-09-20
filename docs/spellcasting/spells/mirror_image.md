@@ -1,6 +1,9 @@
 name: Mirror Image
 level: 2
 school: illusion
+classes: sorcerer
+         warlock
+         wizard
 
 # Mirror Image 
 _2nd-level illusion_ 

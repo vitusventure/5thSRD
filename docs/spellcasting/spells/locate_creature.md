@@ -1,6 +1,12 @@
 name: Locate Creature
 level: 4
 school: divination
+classes: bard
+         cleric
+         druid
+         paladin
+         ranger
+         wizard
 
 # Locate Creature 
 _4th-level divination_ 

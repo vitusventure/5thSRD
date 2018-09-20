@@ -1,6 +1,8 @@
 name: Continual Flame
 level: 2
 school: evocation
+classes: cleric
+         wizard
 
 # Continual Flame 
 _2nd-level evocation_ 

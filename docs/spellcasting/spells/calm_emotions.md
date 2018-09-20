@@ -1,6 +1,8 @@
 name: Calm Emotions
 level: 2
 school: enchantment
+classes: bard
+         cleric
 
 # Calm Emotions 
 _2nd-level enchantment_ 

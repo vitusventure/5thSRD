@@ -1,6 +1,8 @@
 name: Guidance
 level: 0
 school: divination
+classes: cleric
+         druid
 
 # Guidance 
 _Divination cantrip_ 

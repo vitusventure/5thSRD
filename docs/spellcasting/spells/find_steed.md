@@ -1,6 +1,7 @@
 name: Find Steed
 level: 2
 school: conjuration
+classes: paladin
 
 # Find Steed 
 _2nd-level conjuration_ 

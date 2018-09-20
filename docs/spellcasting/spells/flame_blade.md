@@ -1,6 +1,7 @@
 name: Flame Blade
 level: 2
 school: evocation
+classes: druid
 
 # Flame Blade 
 _2nd-level evocation_ 

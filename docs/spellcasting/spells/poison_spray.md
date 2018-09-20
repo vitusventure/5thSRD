@@ -1,7 +1,10 @@
 name: Poison Spray
 level: 0
 school: conjuration
-
+classes: druid
+         sorcerer
+         warlock
+         wizard
 
 # Poison Spray 
 _Conjuration cantrip_ 

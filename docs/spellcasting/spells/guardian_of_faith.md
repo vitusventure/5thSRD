@@ -1,6 +1,7 @@
 name: Guardian of Faith
 level: 4
 school: conjuration
+classes: cleric
 
 # Guardian of Faith 
 _4th-level conjuration_ 

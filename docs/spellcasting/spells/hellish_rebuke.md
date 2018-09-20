@@ -1,6 +1,7 @@
 name: Hellish Rebuke
 level: 1
 school: evocation
+classes: warlock
 
 # Hellish Rebuke 
 _1st-level evocation_ 

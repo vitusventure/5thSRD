@@ -1,6 +1,9 @@
 name: Forcecage
 level: 7
 school: evocation
+classes: bard
+         druid
+         warlock
 
 # Forcecage 
 _7th-level evocation_ 

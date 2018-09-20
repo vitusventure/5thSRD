@@ -1,6 +1,8 @@
 name: Mind Blank
 level: 8
 school: abjuration
+classes: bard
+         wizard
 
 # Mind Blank 
 _8th-level abjuration_ 

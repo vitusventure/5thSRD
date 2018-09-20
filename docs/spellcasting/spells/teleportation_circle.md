@@ -1,6 +1,9 @@
 name: Teleportation Circle
 level: 5
 school: conjuration
+classes: bard
+         sorcerer
+         wizard
 
 # Teleportation Circle 
 _5th-level conjuration_ 

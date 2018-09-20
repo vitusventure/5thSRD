@@ -1,6 +1,9 @@
 name: Disguise Self
 level: 1
 school: illusion
+classes: bard
+         sorcerer
+         wizard
 
 # Disguise Self 
 _1st-level illusion_ 

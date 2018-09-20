@@ -1,6 +1,11 @@
 name: Charm Person
 level: 1
 school: enchantment
+classes: bard
+         druid
+         sorcerer
+         warlock
+         wizard
 
 # Charm Person 
 _1st-level enchantment_ 

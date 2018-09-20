@@ -1,6 +1,10 @@
 name: Protection from Poison
 level: 2
 school: abjuration
+classes: cleric
+         druid
+         paladin
+         ranger
 
 # Protection from Poison 
 _2nd-level abjuration_ 

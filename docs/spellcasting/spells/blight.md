@@ -1,6 +1,10 @@
 name: Blight
 level: 4
 school: necromancy
+classes: druid
+         sorcerer
+         warlock
+         wizard
 
 # Blight 
 _4th-level necromancy_ 

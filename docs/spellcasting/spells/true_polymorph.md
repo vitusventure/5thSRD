@@ -1,6 +1,9 @@
 name: True Polymorph
 level: 9
 school: transmutation
+classes: bard
+         warlock
+         wizard
 
 # True Polymorph 
 _9th-level transmutation_ 

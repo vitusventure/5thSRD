@@ -1,6 +1,7 @@
 name: Augury
 level: 2
 school: divination
+classes: cleric
 
 # Augury 
 _2nd-level divination (ritual)_   

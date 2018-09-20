@@ -1,6 +1,8 @@
 name: Alter Self
 level: 2
 school: transmutation
+classes: sorcerer
+         wizard
 
 # Alter Self 
 _2nd-level transmutation_ 

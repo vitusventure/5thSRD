@@ -1,6 +1,9 @@
 name: Healing Word
 level: 1
 school: evocation
+classes: bard
+         cleric
+         druid
 
 # Healing Word 
 _1st-level evocation_ 

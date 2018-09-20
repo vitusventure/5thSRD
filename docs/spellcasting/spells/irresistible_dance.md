@@ -1,6 +1,8 @@
 name: Irresistible Dance
 level: 6
 school: enchantment
+classes: bard
+         wizard
 
 # Irresistible Dance 
 _6th-level enchantment_ 

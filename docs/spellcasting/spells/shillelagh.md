@@ -1,6 +1,7 @@
 name: Shillelagh
 level: 0
 school: transmutation
+classes: druid
 
 # Shillelagh 
 _Transmutation cantrip_ 

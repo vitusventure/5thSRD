@@ -1,6 +1,11 @@
 name: Lesser Restoration
 level: 2
 school: abjuration
+classes: bard
+         cleric
+         druid
+         paladin
+         ranger
 
 # Lesser Restoration 
 _2nd-level abjuration_ 

@@ -1,6 +1,7 @@
 name: Telepathic Bond
 level: 5
 school: divination
+classes: wizard
 
 # Telepathic Bond 
 _5th-level divination (ritual)_ 

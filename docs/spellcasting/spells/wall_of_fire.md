@@ -1,6 +1,9 @@
 name: Wall of Fire
 level: 4
 school: evocation
+classes: druid
+         sorcerer
+         wizard
 
 # Wall of Fire 
 _4th-level evocation_ 

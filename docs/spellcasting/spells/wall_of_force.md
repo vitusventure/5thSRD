@@ -1,6 +1,7 @@
 name: Wall of Force
 level: 5
 school: evocation
+classes: wizard
 
 # Wall of Force 
 _5th-level evocation_ 

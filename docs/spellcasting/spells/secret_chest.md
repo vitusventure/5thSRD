@@ -1,6 +1,7 @@
 name: Secret Chest
 level: 4
 school: conjuration
+classes: wizard
 
 # Secret Chest 
 _4th-level conjuration_ 

@@ -1,6 +1,10 @@
 name: Jump
 level: 1
 school: transmutation
+classes: druid
+         ranger
+         sorcerer
+         wizard
 
 # Jump 
 _1st-level transmutation_ 

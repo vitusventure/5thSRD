@@ -1,6 +1,8 @@
 name: Web
 level: 2
 school: conjuration
+classes: sorcerer
+         wizard
 
 # Web 
 _2nd-level conjuration_ 

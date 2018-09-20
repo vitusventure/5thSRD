@@ -1,6 +1,7 @@
 name: Divine Favor
 level: 1
 school: evocation
+classes: paladin
 
 # Divine Favor 
 _1st-level evocation_ 

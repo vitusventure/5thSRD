@@ -1,6 +1,7 @@
 name: Rope Trick
 level: 2
 school: transmutation
+classes: wizard
 
 # Rope Trick 
 _2nd-level transmutation_ 

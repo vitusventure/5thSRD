@@ -1,6 +1,8 @@
 name: Haste
 level: 3
 school: transmutation
+classes: sorcerer
+         wizard
 
 # Haste 
 _3rd-level transmutation_ 

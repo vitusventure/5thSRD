@@ -1,6 +1,10 @@
 name: Water Breathing
 level: 3
 school: transmutation
+classes: druid
+         ranger
+         sorcerer
+         wizard
 
 # Water Breathing 
 _3rd-level transmutation (ritual)_ 

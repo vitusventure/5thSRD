@@ -1,6 +1,10 @@
 name: Suggestion
 level: 2
 school: enchantment
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Suggestion 
 _2nd-level enchantment_ 

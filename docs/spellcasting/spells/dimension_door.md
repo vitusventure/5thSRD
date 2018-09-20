@@ -1,6 +1,10 @@
 name: Dimension Door
 level: 4
 school: conjuration
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Dimension Door 
 _4th-level conjuration_ 

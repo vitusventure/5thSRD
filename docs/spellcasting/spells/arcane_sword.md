@@ -1,6 +1,8 @@
 name: Arcane Sword
 level: 7
 school: evocation
+classes: bard
+         wizard
 
 # Arcane Sword 
 _7th-level evocation_ 

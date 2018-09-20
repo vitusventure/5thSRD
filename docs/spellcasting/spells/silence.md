@@ -1,6 +1,9 @@
 name: Silence
 level: 2
 school: illusion
+classes: bard
+         cleric
+         ranger
 
 # Silence 
 _2nd-level illusion (ritual)_ 

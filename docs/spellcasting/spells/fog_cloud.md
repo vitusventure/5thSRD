@@ -1,6 +1,10 @@
 name: Fog Cloud
 level: 1
 school: conjuration
+classes: druid
+         ranger
+         sorcerer
+         wizard
 
 # Fog Cloud 
 _1st-level conjuration_ 

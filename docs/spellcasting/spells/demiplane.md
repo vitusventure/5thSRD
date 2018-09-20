@@ -1,6 +1,8 @@
 name: Demiplane
 level: 8
 school: conjuration
+classes: warlock
+         wizard
 
 # Demiplane 
 _8th-level conjuration_ 

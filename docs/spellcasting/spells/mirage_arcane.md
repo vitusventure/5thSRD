@@ -1,6 +1,9 @@
 name: Mirage Arcane
 level: 7
 school: illusion
+classes: bard
+         druid
+         wizard
 
 # Mirage Arcane 
 _7th-level illusion_ 

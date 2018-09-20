@@ -1,6 +1,8 @@
 name: Programmed Illusion
 level: 6
 school: illusion
+classes: bard
+         wizard
 
 # Programmed Illusion 
 _6th-level illusion_ 

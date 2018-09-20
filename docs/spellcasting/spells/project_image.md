@@ -1,6 +1,8 @@
 name: Project Image
 level: 7
 school: illusion
+classes: bard
+         wizard
 
 # Project Image 
 _7th-level illusion_ 

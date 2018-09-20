@@ -1,6 +1,11 @@
 name: Tongues
 level: 3
 school: divination
+classes: bard
+         cleric
+         sorcerer
+         warlock
+         wizard
 
 # Tongues 
 _3rd-level divination_ 

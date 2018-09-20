@@ -1,6 +1,10 @@
 name: True Strike
 level: 0
 school: divination
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # True Strike 
 _Divination cantrip_ 

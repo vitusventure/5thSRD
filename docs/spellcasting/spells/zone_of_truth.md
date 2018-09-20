@@ -1,6 +1,9 @@
 name: Zone of Truth
 level: 2
 school: enchantment
+classes: bard
+         cleric
+         paladin
 
 # Zone of Truth 
 _2nd-level enchantment_ 

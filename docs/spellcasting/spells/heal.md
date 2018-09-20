@@ -1,6 +1,8 @@
 name: Heal
 level: 6
 school: evocation
+classes: cleric
+         druid
 
 # Heal 
 _6th-level evocation_ 

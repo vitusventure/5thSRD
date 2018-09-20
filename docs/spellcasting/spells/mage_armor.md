@@ -1,6 +1,8 @@
 name: Mage Armor
 level: 1
 school: abjuration
+classes: sorcerer
+         wizard
 
 # Mage Armor 
 _1st-level abjuration_ 

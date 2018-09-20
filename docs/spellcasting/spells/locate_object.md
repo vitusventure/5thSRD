@@ -1,6 +1,12 @@
 name: Locate Object
 level: 2
 school: divination
+classes: bard
+         cleric
+         druid
+         paladin
+         ranger
+         wizard
 
 # Locate Object 
 _2nd-level divination_ 

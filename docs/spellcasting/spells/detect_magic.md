@@ -1,6 +1,13 @@
 name: Detect Magic
 level: 1
 school: divination
+classes: bard
+         cleric
+         druid
+         paladin
+         ranger
+         sorcerer
+         wizard
 
 # Detect Magic 
 _1st-level divination (ritual)_ 

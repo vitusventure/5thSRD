@@ -1,6 +1,9 @@
 name: Wall of Stone
 level: 5
 school: evocation
+classes: druid
+         sorcerer
+         wizard
 
 # Wall of Stone 
 _5th-level evocation_ 

@@ -1,6 +1,9 @@
 name: Insect Plague
 level: 5
 school: conjuration
+classes: cleric
+         druid
+         sorcerer
 
 # Insect Plague 
 _5th-level conjuration_ 

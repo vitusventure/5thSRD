@@ -1,6 +1,10 @@
 name: Prestidigitation
 level: 0
 school: transmutation
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Prestidigitation 
 _Transmutation cantrip_ 

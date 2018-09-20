@@ -1,6 +1,8 @@
 name: Acid Splash
 level: 0
 school: conjuration
+classes: sorcerer
+         wizard
 
 # Acid Splash 
 _Conjuration cantrip_

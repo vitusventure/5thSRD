@@ -1,6 +1,7 @@
 name: Inflict Wounds
 level: 1
 school: necromancy
+classes: cleric
 
 # Inflict Wounds 
 _1st-level necromancy_ 

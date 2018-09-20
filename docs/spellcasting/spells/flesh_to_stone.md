@@ -1,6 +1,8 @@
 name: Flesh to Stone
 level: 6
 school: transmutation
+classes: warlock
+         wizard
 
 # Flesh to Stone 
 _6th-level transmutation_ 

@@ -1,6 +1,10 @@
 name: Power Word Kill
 level: 9
 school: enchantment
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Power Word Kill 
 _9th-level enchantment_ 

@@ -1,6 +1,11 @@
 name: Scrying
 level: 5
 school: divination
+classes: bard
+         cleric
+         druid
+         warlock
+         wizard
 
 # Scrying 
 _5th-level divination_ 

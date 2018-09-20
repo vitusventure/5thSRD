@@ -1,6 +1,7 @@
 name: Guiding Bolt
 level: 1
 school: evocation
+classes: cleric
 
 # Guiding Bolt 
 _1st-level evocation_ 

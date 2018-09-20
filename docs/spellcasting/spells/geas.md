@@ -1,6 +1,11 @@
 name: Geas
 level: 5
 school: enchantment
+classes: bard
+         cleric
+         druid
+         paladin
+         wizard
 
 # Geas 
 _5th-level enchantment_ 

@@ -1,6 +1,7 @@
 name: Word of Recall
 level: 6
 school: conjuration
+classes: cleric
 
 # Word of Recall 
 _6th-level conjuration_ 

@@ -1,6 +1,9 @@
 name: Animate Objects
 level: 5
 school: transmutation
+classes: bard
+         sorcerer
+         wizard
 
 # Animate Objects 
 _5th-level transmutation_ 

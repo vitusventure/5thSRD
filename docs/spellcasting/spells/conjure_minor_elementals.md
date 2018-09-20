@@ -1,6 +1,8 @@
 name: Conjure Minor Elementals
 level: 4
 school: conjuration
+classes: druid
+         wizard
 
 # Conjure Minor Elementals 
 _4th-level conjuration_ 

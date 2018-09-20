@@ -1,6 +1,10 @@
 name: Hypnotic Pattern
 level: 3
 school: illusion
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Hypnotic Pattern 
 _3rd-level illusion_ 

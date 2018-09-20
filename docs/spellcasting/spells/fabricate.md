@@ -1,6 +1,7 @@
 name: Fabricate
 level: 4
 school: transmutation
+classes: wizard
 
 # Fabricate 
 _4th-level transmutation_ 

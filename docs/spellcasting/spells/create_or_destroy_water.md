@@ -1,6 +1,8 @@
 name: Create or Destroy Water
 level: 1
 school: transmutation
+classes: cleric
+         druid
 
 # Create or Destroy Water 
 _1st-level transmutation_    

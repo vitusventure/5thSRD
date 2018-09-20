@@ -1,6 +1,9 @@
 name: Ice Storm
 level: 4
 school: evocation
+classes: druid
+         sorcerer
+         wizard
 
 # Ice Storm 
 _4th-level evocation_ 

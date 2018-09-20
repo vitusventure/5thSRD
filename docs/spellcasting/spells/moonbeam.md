@@ -1,6 +1,7 @@
 name: Moonbeam
 level: 2
 school: evocation
+classes: druid
 
 # Moonbeam 
 _2nd-level evocation_ 

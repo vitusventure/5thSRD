@@ -1,6 +1,8 @@
 name: Alarm
 level: 1
 school: abjuration
+classes: ranger
+         wizard
 
 # Alarm 
 _1st‐level abjuration (ritual)_ 

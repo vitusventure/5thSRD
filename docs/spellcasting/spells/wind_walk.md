@@ -1,6 +1,7 @@
 name: Wind Walk
 level: 6
 school: transmutation
+classes: druid
 
 # Wind Walk 
 _6th-level transmutation_ 

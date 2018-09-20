@@ -1,6 +1,7 @@
 name: Passwall
 level: 5
 school: transmutation
+classes: wizard
 
 # Passwall 
 _5th-level transmutation_ 

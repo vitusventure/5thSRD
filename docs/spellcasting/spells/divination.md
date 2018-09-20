@@ -1,6 +1,7 @@
 name: Divination
 level: 4
 school: divination
+classes: cleric
 
 # Divination 
 _4th-level divination (ritual)_ 

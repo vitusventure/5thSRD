@@ -1,6 +1,7 @@
 name: Sanctuary
 level: 1
 school: abjuration
+classes: cleric
 
 # Sanctuary 
 _1st-level abjuration_ 

@@ -1,6 +1,8 @@
 name: Wind Wall
 level: 3
 school: evocation
+classes: druid
+         ranger
 
 # Wind Wall 
 _3rd-level evocation_ 

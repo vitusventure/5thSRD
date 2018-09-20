@@ -1,6 +1,9 @@
 name: Reverse Gravity
 level: 7
 school: transmutation
+classes: druid
+         sorcerer
+         wizard
 
 # Reverse Gravity 
 _7th-level transmutation_ 

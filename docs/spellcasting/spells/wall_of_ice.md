@@ -1,6 +1,7 @@
 name: Wall of Ice
 level: 6
 school: evocation
+classes: wizard
 
 # Wall of Ice 
 _6th-level evocation_ 

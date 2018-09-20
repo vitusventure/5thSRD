@@ -1,6 +1,7 @@
 name: Find Familiar
 level: 1
 school: conjuration
+classes: wizard
 
 # Find Familiar 
 _1st-level conjuration (ritual)_ 

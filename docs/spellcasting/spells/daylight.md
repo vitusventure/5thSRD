@@ -1,6 +1,11 @@
 name: Daylight
 level: 3
 school: evocation
+classes: cleric
+         druid
+         paladin
+         ranger
+         sorcerer
 
 # Daylight 
 _3rd-level evocation_ 

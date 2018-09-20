@@ -1,6 +1,10 @@
 name: Minor Illusion
 level: 0
 school: illusion
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Minor Illusion 
 _Illusion cantrip_ 

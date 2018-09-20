@@ -1,6 +1,8 @@
 name: Scorching Ray
 level: 2
 school: evocation
+classes: sorcerer
+         wizard
 
 # Scorching Ray 
 _2nd-level evocation_ 

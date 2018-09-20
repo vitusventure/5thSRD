@@ -1,6 +1,9 @@
 name: Gust of Wind
 level: 2
 school: evocation
+classes: druid
+         sorcerer
+         wizard
 
 # Gust of Wind 
 _2nd-level evocation_ 

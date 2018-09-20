@@ -1,6 +1,9 @@
 name: Illusory Script
 level: 1
 school: illusion
+classes: bard
+         warlock
+         wizard
 
 # Illusory Script 
 _1st-level illusion (ritual)_ 

@@ -1,6 +1,7 @@
 name: Beacon of Hope
 level: 3
 school: abjuration
+classes: cleric
 
 # Beacon of Hope 
 _3rd-level abjuration_ 

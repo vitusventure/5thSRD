@@ -1,6 +1,7 @@
 name: Mass Healing Word
 level: 3
 school: evocation
+classes: cleric
 
 # Mass Healing Word 
 _3rd-level evocation_ 
