@@ -2,16 +2,19 @@ import os
 import markdown
 import codecs
 import logging
+import shutil
 
 
 class SRDIndexBuilder:
-    def __init__(self, offline_mode=False):
+    def __init__(self, offline_mode=False, clean_output_directories=True):
         self.logger = logging.getLogger(__name__)
 
         if offline_mode:
             self.logger.info('Generating in offline mode...')
 
         self.offline_mode = offline_mode
+
+        self.clean_output_directories = clean_output_directories
 
     def build_indexes_from_config(self, build_config):
         """
@@ -25,6 +28,10 @@ class SRDIndexBuilder:
         for index_type in build_config['indexes']:
             self.logger.info('Starting to build indexes of type: {0}'.format(index_type))
             index_type_config = build_config['indexes'][index_type]
+
+            # First, clean if requested
+            if self.clean_output_directories:
+                self._clean_index_directory(index_type_config['index_path'])
 
             # Determine which fields to extract
             additional_fields = index_type_config['indexes_to_generate'].keys()
@@ -47,6 +54,26 @@ class SRDIndexBuilder:
         # After building the indexes, also build the class spell lists if requested
         if build_config['class_spell_lists']:
             self.build_class_spell_lists(build_config['indexes']['spells'], build_config['class_spell_lists'])
+
+    def _clean_index_directory(self, directory):
+        """
+        Clean all files from a directory by deleting then recreating it
+
+        :param directory: Directory to clean
+        :type directory: str
+        :return: None
+        """
+        self.logger.info('Cleaning directory: {0}'.format(directory))
+        # First, delete the directory
+        try:
+            shutil.rmtree(directory)
+        except FileNotFoundError:
+            pass
+
+        # Next, recreate it
+        os.makedirs(directory)
+
+
 
     def build_class_spell_lists(self, spells_config, class_spell_lists_config):
         """
