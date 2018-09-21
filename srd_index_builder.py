@@ -146,6 +146,8 @@ class SRDIndexBuilder:
         # If we are generating in offline mode, append the index.html section
         if self.offline_mode:
             name = '{0}/index.html'.format(name)
+        else:
+            name = '{0}/'.format(name)
         return name
 
     def _convert_category_to_markdown(self, category, use_spell_titles=False):
