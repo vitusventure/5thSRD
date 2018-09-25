@@ -59,7 +59,10 @@
 
         <script src="{{ base_url }}/js/jquery-1.10.2.min.js?v={{ version_id }}"></script>
         <script src="{{ base_url }}/js/bootstrap-3.0.3.min.js?v={{ version_id }}"></script>
-        <script src="{{ base_url }}/js/base.js?v={{ version_id }}"></script>
+        <script language="JavaScript">
+            $("table").addClass("table table-striped table-hover");
+            $("body").scrollspy({target: ".bs-sidebar"});
+        </script>
         {%- for path in extra_javascript %}
         <script src="{{ path }}"></script>
         {%- endfor %}

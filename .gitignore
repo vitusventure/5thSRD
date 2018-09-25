@@ -7,3 +7,4 @@ docs/gamemaster_rules/magic_item_indexes
 docs/gamemaster_rules/monster_indexes
 __pycache__
 *.pyc
+.venv
