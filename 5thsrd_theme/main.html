@@ -13,7 +13,7 @@
 	<title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
 
         <link href="{{ base_url }}/css/bootstrap-custom.min.css?v={{version_id}}" rel="stylesheet">
-        <link href="{{ base_url }}/css/font-awesome.min.css?v={{version_id}}" rel="stylesheet">
+        <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
         <link href="{{ base_url }}/css/base.min.css?v={{version_id}}" rel="stylesheet">
         {%- for path in extra_css %}
         <link href="{{ path }}" rel="stylesheet">
