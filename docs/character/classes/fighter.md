@@ -22,7 +22,7 @@
 | 17th  | +6                | Action Surge (two uses), Indomitable (three uses) |
 | 18th  | +6                | Martial Archetype Feature   |
 | 19th  | +6                | Ability Score Improvement   |
-| 20th  | +6                | Extra Attach (3)            |
+| 20th  | +6                | Extra Attack (3)            |
 
 ## Class Features
 As a fighter, you gain the following class features.
