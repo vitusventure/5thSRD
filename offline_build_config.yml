@@ -5,3 +5,5 @@ theme_dir: 5thsrd_theme
 site_dir: 5thsrd_offline
 use_directory_urls: false
 plugins: []
+extra:
+   enable_ads: no
