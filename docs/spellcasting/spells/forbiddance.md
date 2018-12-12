@@ -1,6 +1,7 @@
 name: Forbiddance
 level: 6
 school: abjuration
+classes: cleric
 
 # Forbiddance 
 _6th-level abjuration (ritual)_ 

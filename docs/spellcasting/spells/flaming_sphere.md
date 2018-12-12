@@ -1,6 +1,8 @@
 name: Flaming Sphere
 level: 2
 school: conjuration
+classes: druid
+         wizard
 
 # Flaming Sphere 
 _2nd-level conjuration_ 

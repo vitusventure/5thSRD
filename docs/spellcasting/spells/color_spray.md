@@ -1,6 +1,8 @@
 name: Color Spray
 level: 1
 school: illusion
+classes: sorcerer
+         wizard
 
 # Color Spray 
 _1st-level illusion_ 

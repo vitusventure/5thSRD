@@ -1,6 +1,9 @@
 name: Find the Path
 level: 6
 school: divination
+classes: bard
+         cleric
+         druid
 
 # Find the Path 
 _6th-level divination_ 

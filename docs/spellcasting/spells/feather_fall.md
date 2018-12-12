@@ -1,6 +1,9 @@
 name: Feather Fall
 level: 1
 school: transmutation
+classes: bard
+         sorcerer
+         wizard
 
 # Feather Fall 
 _1st-level transmutation_ 

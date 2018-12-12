@@ -1,6 +1,10 @@
 name: Thunderwave
 level: 1
 school: evocation
+classes: bard
+         druid
+         sorcerer
+         wizard
 
 # Thunderwave 
 _1st-level evocation_ 

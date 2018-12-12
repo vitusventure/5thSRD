@@ -1,6 +1,7 @@
 name: Resilient Sphere
 level: 4
 school: evocation
+classes: wizard
 
 # Resilient Sphere 
 _4th-level evocation_ 

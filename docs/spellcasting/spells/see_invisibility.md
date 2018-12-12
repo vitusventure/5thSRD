@@ -1,6 +1,9 @@
 name: See Invisibility
 level: 2
 school: divination
+classes: bard
+         sorcerer
+         wizard
 
 # See Invisibility 
 _2nd-level divination_ 

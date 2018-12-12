@@ -1,6 +1,8 @@
 name: Pass without Trace
 level: 2
 school: abjuration
+classes: druid
+         ranger
 
 # Pass without Trace 
 _2nd-level abjuration_ 

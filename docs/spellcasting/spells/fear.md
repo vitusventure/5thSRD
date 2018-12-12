@@ -1,6 +1,10 @@
 name: Fear
 level: 3
 school: illusion
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Fear 
 _3rd-level illusion_ 

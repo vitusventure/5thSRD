@@ -1,6 +1,7 @@
 name: Floating Disk
 level: 1
 school: conjuration
+classes: wizard
 
 # Floating Disk 
 _1st-level conjuration (ritual)_ 

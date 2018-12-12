@@ -1,6 +1,9 @@
 name: Message
 level: 0
 school: transmutation
+classes: bard
+         sorcerer
+         wizard
 
 # Message 
 _Transmutation cantrip_ 

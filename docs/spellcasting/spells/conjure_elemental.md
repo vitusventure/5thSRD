@@ -1,6 +1,8 @@
 name: Conjure Elemental
 level: 5
 school: conjuration
+classes: druid
+         wizard
 
 # Conjure Elemental 
 _5th-level conjuration_ 

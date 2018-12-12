@@ -1,6 +1,8 @@
 name: Magnificent Mansion
 level: 7
 school: conjuration
+classes: bard
+         wizard
 
 # Magnificent Mansion 
 _7th-level conjuration_ 

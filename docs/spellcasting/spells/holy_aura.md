@@ -1,6 +1,7 @@
 name: Holy Aura
 level: 8
 school: abjuration
+classes: cleric
 
 # Holy Aura 
 _8th-level abjuration_ 

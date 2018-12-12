@@ -3,14 +3,14 @@
 # Get the latest changes
 git pull
 
-# Generate Offline spell lists
-python2 generate_indexes.py --offline
+# Generate offline indexes
+python3 build_indexes.py --offline
 
 # Build the offline site
 mkdocs build --clean --config-file offline_build_config.yml
 
-# Generate spell lists
-python2 generate_indexes.py
+# Generate regular indexes
+python3 build_indexes.py
 
 # Build the site
 mkdocs build --clean
@@ -21,7 +21,7 @@ zip -r /tmp/5thsrd_offline.zip 5thsrd_offline/
 mv /tmp/5thsrd_offline.zip ./site/
 
 # Sync to S3
-aws s3 sync ./site/ s3://5thsrd.org/ --region="us-east-1"
+aws s3 sync ./site/ s3://5thsrd.org/ --region="us-east-1" --delete
 
 # Set Cache-Control on static resources
 s3cmd modify --recursive s3://5thsrd.org/css/ --add-header=Cache-Control:max-age=604800 -v

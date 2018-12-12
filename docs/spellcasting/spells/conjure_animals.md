@@ -1,6 +1,8 @@
 name: Conjure Animals
 level: 3
 school: conjuration
+classes: druid
+         ranger
 
 # Conjure Animals 
 _3rd-level conjuration_ 

@@ -1,6 +1,7 @@
 name: Harm
 level: 6
 school: necromancy
+classes: cleric
 
 # Harm 
 _6th-level necromancy_ 

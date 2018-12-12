@@ -1,6 +1,9 @@
 name: Sending
 level: 3
 school: evocation
+classes: bard
+         cleric
+         wizard
 
 # Sending 
 _3rd-level evocation_ 

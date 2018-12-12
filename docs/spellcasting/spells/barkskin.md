@@ -1,6 +1,8 @@
 name: Barkskin
 level: 2
 school: transmutation
+classes: druid
+         ranger
 
 # Barkskin 
 _2nd-level transmutation_ 

@@ -1,6 +1,8 @@
 name: Delayed Blast Fireball
 level: 7
 school: evocation
+classes: sorcerer
+         wizard
 
 # Delayed Blast Fireball 
 _7th-level evocation_ 

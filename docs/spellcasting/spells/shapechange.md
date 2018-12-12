@@ -1,6 +1,8 @@
 name: Shapechange
 level: 9
 school: transmutation
+classes: druid
+         wizard
 
 # Shapechange 
 _9th-level transmutation_ 

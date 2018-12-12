@@ -1,6 +1,8 @@
 name: Contact Other Plane
 level: 5
 school: divination
+classes: warlock
+         wizard
 
 # Contact Other Plane 
 _5th-level divination (ritual)_ 

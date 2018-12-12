@@ -1,6 +1,9 @@
 name: Regenerate
 level: 7
 school: transmutation
+classes: bard
+         cleric
+         druid
 
 # Regenerate 
 _7th-level transmutation_ 

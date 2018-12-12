@@ -1,6 +1,8 @@
 name: Aid
 level: 2
 school: abjuration
+classes: cleric
+         paladin
 
 # Aid 
 _2nd-level abjuration_ 

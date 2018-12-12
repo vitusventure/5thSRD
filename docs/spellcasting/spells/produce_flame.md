@@ -1,6 +1,7 @@
 name: Produce Flame
 level: 0
 school: conjuration
+classes: druid
 
 # Produce Flame 
 _Conjuration cantrip_ 

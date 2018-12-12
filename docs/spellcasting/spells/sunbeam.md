@@ -1,6 +1,9 @@
 name: Sunbeam
 level: 6
 school: evocation
+classes: druid
+         sorcerer
+         wizard
 
 # Sunbeam 
 _6th-level evocation_ 

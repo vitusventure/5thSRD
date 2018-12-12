@@ -1,6 +1,8 @@
 name: Cloudkill
 level: 5
 school: conjuration
+classes: sorcerer
+         wizard
 
 # Cloudkill 
 _5th-level conjuration_  

@@ -1,6 +1,10 @@
 name: Protection from Evil and Good
 level: 1
 school: abjuration
+classes: cleric
+         paladin
+         warlock
+         wizard
 
 # Protection from Evil and Good 
 _1st-level abjuration_ 

@@ -1,6 +1,9 @@
 name: Counterspell
 level: 3
 school: abjuration
+classes: sorcerer
+         warlock
+         wizard
 
 # Counterspell 
 _3rd-level abjuration_ 

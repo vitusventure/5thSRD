@@ -1,6 +1,9 @@
 name: Control Weather
 level: 8
 school: transmutation
+classes: cleric
+         druid
+         wizard
 
 # Control Weather 
 _8th-level transmutation_    

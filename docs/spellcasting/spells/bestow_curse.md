@@ -1,6 +1,9 @@
 name: Bestow Curse
 level: 3
 school: necromancy
+classes: bard
+         cleric
+         wizard
 
 # Bestow Curse 
 _3rd-level necromancy_ 

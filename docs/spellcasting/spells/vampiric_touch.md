@@ -1,6 +1,8 @@
 name: Vampiric Touch
 level: 3
 school: necromancy
+classes: warlock
+         wizard
 
 # Vampiric Touch 
 _3rd-level necromancy_ 

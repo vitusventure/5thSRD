@@ -1,6 +1,8 @@
 name: Shocking Grasp
 level: 0
 school: evocation
+classes: sorcerer
+         wizard
 
 # Shocking Grasp 
 _Evocation cantrip_ 

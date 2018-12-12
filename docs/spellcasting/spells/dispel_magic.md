@@ -1,6 +1,13 @@
 name: Dispel Magic
 level: 3
 school: abjuration
+classes: bard
+         cleric
+         druid
+         paladin
+         sorcerer
+         warlock
+         wizard
 
 # Dispel Magic 
 _3rd-level abjuration_ 

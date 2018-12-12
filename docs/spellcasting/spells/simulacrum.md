@@ -1,6 +1,7 @@
 name: Simulacrum
 level: 7
 school: illusion
+classes: wizard
 
 # Simulacrum 
 _7th-level illusion_ 

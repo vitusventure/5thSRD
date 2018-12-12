@@ -1,6 +1,7 @@
 name: Contingency
 level: 6
 school: evocation
+classes: wizard
 
 # Contingency 
 _6th-level evocation_ 

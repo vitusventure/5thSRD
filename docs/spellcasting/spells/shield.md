@@ -1,6 +1,8 @@
 name: Shield
 level: 1
 school: abjuration
+classes: sorcerer
+         wizard
 
 # Shield 
 _1st-level abjuration_ 

@@ -1,6 +1,9 @@
 name: Greater Invisibility
 level: 4
 school: illusion
+classes: bard
+         sorcerer
+         wizard
 
 # Greater Invisibility 
 _4th-level illusion_ 

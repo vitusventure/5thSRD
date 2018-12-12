@@ -1,6 +1,8 @@
 name: Creation
 level: 5
 school: illusion
+classes: sorcerer
+         wizard
 
 # Creation 
 _5th-level illusion_ 

@@ -1,6 +1,9 @@
 name: Speak with Plants
 level: 3
 school: transmutation
+classes: bard
+         druid
+         ranger
 
 # Speak with Plants 
 _3rd-level transmutation_ 

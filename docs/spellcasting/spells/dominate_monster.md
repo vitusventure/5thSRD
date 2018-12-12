@@ -1,6 +1,10 @@
 name: Dominate Monster
 level: 8
 school: enchantment
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Dominate Monster 
 _8th-level enchantment_ 

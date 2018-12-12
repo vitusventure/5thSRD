@@ -1,6 +1,7 @@
 name: Phantasmal Killer
 level: 4
 school: illusion
+classes: wizard
 
 # Phantasmal Killer 
 _4th-level illusion_ 

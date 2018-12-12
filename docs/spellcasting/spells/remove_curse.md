@@ -1,6 +1,10 @@
 name: Remove Curse
 level: 3
 school: abjuration
+classes: cleric
+         paladin
+         warlock
+         wizard
 
 # Remove Curse 
 _3rd-level abjuration_ 

@@ -1,6 +1,9 @@
 name: Mass Cure Wounds
 level: 5
 school: evocation
+classes: bard
+         cleric
+         druid
 
 # Mass Cure Wounds 
 _5th-level evocation_ 

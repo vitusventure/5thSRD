@@ -1,6 +1,8 @@
 name: Magic Missile
 level: 1
 school: evocation
+classes: sorcerer
+         wizard
 
 # Magic Missile 
 _1st-level evocation_ 

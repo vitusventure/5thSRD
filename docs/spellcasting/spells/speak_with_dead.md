@@ -1,6 +1,8 @@
 name: Speak with Dead
 level: 3
 school: necromancy
+classes: bard
+         cleric
 
 # Speak with Dead 
 _3rd-level necromancy_ 

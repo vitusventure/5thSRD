@@ -1,6 +1,8 @@
 name: Heroes' Feast
 level: 6
 school: conjuration
+classes: cleric
+         druid
 
 # Heroes' Feast 
 _6th-level conjuration_ 

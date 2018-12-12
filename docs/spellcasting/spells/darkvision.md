@@ -1,6 +1,10 @@
 name: Darkvision
 level: 2
 school: transmutation
+classes: druid
+         ranger
+         sorcerer
+         wizard
 
 # Darkvision 
 _2nd-level transmutation_ 

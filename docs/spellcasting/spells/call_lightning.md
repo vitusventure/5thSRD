@@ -1,6 +1,7 @@
 name: Call Lightning
 level: 3
 school: conjuration
+classes: druid
 
 # Call Lightning 
 _3rd-level conjuration_ 

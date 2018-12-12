@@ -1,6 +1,9 @@
 name: Nondetection 
 level: 3
 school: abjuration
+classes: bard
+         ranger
+         wizard
 
 # Nondetection 
 _3rd-level abjuration_ 

@@ -1,6 +1,7 @@
 name: Weird
 level: 9
 school: illusion
+classes: wizard
 
 # Weird 
 _9th-level illusion_ 

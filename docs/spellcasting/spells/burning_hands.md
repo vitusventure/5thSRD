@@ -1,6 +1,8 @@
 name: Burning Hands
 level: 1
 school: evocation
+classes: sorcerer
+         wizard
 
 # Burning Hands 
 _1st-level evocation_ 

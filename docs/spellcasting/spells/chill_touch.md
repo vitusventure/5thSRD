@@ -1,6 +1,9 @@
 name: Chill Touch
 level: 0
 school: necromancy
+classes: sorcerer
+         warlock
+         wizard
 
 # Chill Touch 
 _Necromancy cantrip_  

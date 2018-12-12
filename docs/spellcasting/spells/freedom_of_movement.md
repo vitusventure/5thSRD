@@ -1,6 +1,10 @@
 name: Freedom of Movement
 level: 4
 school: abjuration
+classes: bard
+         cleric
+         druid
+         ranger
 
 # Freedom of Movement 
 _4th-level abjuration_ 

@@ -1,6 +1,7 @@
 name: Giant Insect
 level: 4
 school: transmutation
+classes: druid
 
 # Giant Insect 
 _4th-level transmutation_  

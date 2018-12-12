@@ -1,6 +1,9 @@
 name: Dominate Person
 level: 5
 school: enchantment
+classes: bard
+         sorcerer
+         wizard
 
 # Dominate Person 
 _5th-level enchantment_ 

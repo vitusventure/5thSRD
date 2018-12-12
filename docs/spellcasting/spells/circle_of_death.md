@@ -1,6 +1,9 @@
 name: Circle of Death
 level: 6
 school: necromancy
+classes: sorcerer
+         warlock
+         wizard
 
 # Circle of Death 
 _6th-level necromancy_ 

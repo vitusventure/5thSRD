@@ -1,6 +1,7 @@
 name: Commune
 level: 5
 school: divination
+classes: cleric
 
 # Commune 
 _5th-level divination (ritual)_ 

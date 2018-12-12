@@ -1,6 +1,8 @@
 name: Magic Mouth
 level: 2
 school: illusion
+classes: bard
+         wizard
 
 # Magic Mouth 
 _2nd-level illusion (ritual)_ 

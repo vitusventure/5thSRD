@@ -1,6 +1,9 @@
 name: Finger of Death
 level: 7
 school: necromancy
+classes: sorcerer
+         warlock
+         wizard
 
 # Finger of Death 
 _7th-level necromancy_ 

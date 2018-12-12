@@ -1,6 +1,7 @@
 name: Mass Heal
 level: 9
 school: evocation
+classes: cleric
 
 # Mass Heal 
 _9th-level evocation_ 

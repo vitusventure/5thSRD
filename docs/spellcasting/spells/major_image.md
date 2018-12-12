@@ -1,6 +1,10 @@
 name: Major Image
 level: 3
 school: illusion
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Major Image 
 _3rd-level illusion_ 

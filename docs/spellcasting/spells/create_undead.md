@@ -1,6 +1,9 @@
 name: Create Undead
 level: 6
 school: necromancy
+classes: cleric
+         warlock
+         wizard
 
 # Create Undead 
 _6th-level necromancy_ 

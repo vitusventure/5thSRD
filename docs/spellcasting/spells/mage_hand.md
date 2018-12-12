@@ -1,6 +1,10 @@
 name: Mage Hand
 level: 0
 school: conjuration
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Mage Hand 
 _Conjuration cantrip_ 

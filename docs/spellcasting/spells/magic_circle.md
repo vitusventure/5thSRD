@@ -1,6 +1,10 @@
 name: Magic Circle
 level: 3
 school: abjuration
+classes: cleric
+         paladin
+         warlock
+         wizard
 
 # Magic Circle 
 _3rd-level abjuration_ 

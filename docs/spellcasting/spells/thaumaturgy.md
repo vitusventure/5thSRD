@@ -1,6 +1,7 @@
 name: Thaumaturgy
 level: 0
 school: transmutation
+classes: cleric
 
 # Thaumaturgy 
 _Transmutation cantrip_ 

@@ -1,6 +1,7 @@
 name: Conjure Celestial
 level: 7
 school: conjuration
+classes: cleric
 
 # Conjure Celestial 
 _7th-level conjuration_ 

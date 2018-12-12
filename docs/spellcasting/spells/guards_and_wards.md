@@ -1,6 +1,8 @@
 name: Guards and Wards
 level: 6
 school: abjuration
+classes: bard
+         wizard
 
 # Guards and Wards 
 _6th-level abjuration_ 

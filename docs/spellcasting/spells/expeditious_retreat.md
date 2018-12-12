@@ -1,6 +1,9 @@
 name: Expeditious Retreat
 level: 1
 school: transmutation
+classes: sorcerer
+         warlock
+         wizard
 
 # Expeditious Retreat 
 _1st-level transmutation_ 

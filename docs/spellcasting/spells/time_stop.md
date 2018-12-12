@@ -1,6 +1,8 @@
 name: Time Stop
 level: 9
 school: transmutation
+classes: sorcerer
+         wizard
 
 # Time Stop 
 _9th-level transmutation_ 

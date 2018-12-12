@@ -1,6 +1,7 @@
 name: Hunter's Mark
 level: 1
 school: divination
+classes: ranger
 
 # Hunter's Mark 
 _1st-level divination_ 

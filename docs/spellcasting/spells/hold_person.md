@@ -1,6 +1,12 @@
 name: Hold Person
 level: 2
 school: enchantment
+classes: bard
+         cleric
+         druid
+         sorcerer
+         warlock
+         wizard
 
 # Hold Person 
 _2nd-level enchantment_ 

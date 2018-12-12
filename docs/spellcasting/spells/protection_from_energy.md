@@ -1,6 +1,11 @@
 name: Protection from Energy
 level: 3
 school: abjuration
+classes: cleric
+         druid
+         ranger
+         sorcerer
+         wizard
 
 # Protection from Energy 
 _3rd-level abjuration_ 

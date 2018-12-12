@@ -1,6 +1,8 @@
 name: Glibness
 level: 8
 school: transmutation
+classes: bard
+         warlock
 
 # Glibness 
 _8th-level transmutation_ 

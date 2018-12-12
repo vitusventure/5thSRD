@@ -1,6 +1,8 @@
 name: Disintegrate
 level: 6
 school: transmutation
+classes: sorcerer
+         wizard
 
 # Disintegrate 
 _6th-level transmutation_ 

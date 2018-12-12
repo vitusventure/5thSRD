@@ -1,6 +1,7 @@
 name: Sacred Flame
 level: 0
 school: evocation
+classes: cleric
 
 # Sacred Flame 
 _Evocation cantrip_ 

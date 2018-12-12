@@ -1,6 +1,7 @@
 name: Arcane Lock
 level: 2
 school: abjuration
+classes: wizard
 
 # Arcane Lock 
 _2nd-level abjuration_ 

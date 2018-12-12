@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        {% set version_id = "3a9a40" %}
+        {% set version_id = "8fcaaf" %}
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +13,7 @@
 	<title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
 
         <link href="{{ base_url }}/css/bootstrap-custom.min.css?v={{version_id}}" rel="stylesheet">
-        <link href="{{ base_url }}/css/font-awesome.min.css?v={{version_id}}" rel="stylesheet">
+        <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
         <link href="{{ base_url }}/css/base.min.css?v={{version_id}}" rel="stylesheet">
         {%- for path in extra_css %}
         <link href="{{ path }}" rel="stylesheet">
@@ -37,6 +37,15 @@
         </script>
         {% endif %}
 
+       {% if config.extra.enable_ads %}
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+       <script>
+          (adsbygoogle = window.adsbygoogle || []).push({
+             google_ad_client: "ca-pub-7526144995854530",
+             enable_page_level_ads: true
+          });
+       </script>
+       {% endif %}
     </head>
 
     <body{% if page and page.is_homepage %} class="homepage"{% endif %}>
@@ -50,16 +59,35 @@
 
         <footer class="col-md-12">
             <hr>
+            <p>Questions or comments can be directed to <a href="mailto:john@5thsrd.org">john@5thsrd.org</a>.  Theme provided by <a href="https://github.com/ron-reaser">Reaser</a>.</p>
             {% if config.copyright %}
                 <p>{{ config.copyright }}</p>
             {% endif %}
             <p>{% if config.repo_url %}Check out the <a href="{{ config.repo_url }}">GitHub</a> repo.  {% endif %}Website built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
-            <p>Download the offline version of this site <a href="{{ base_url }}/5thsrd_offline.zip">here.</a></p>
-        </footer>
+            <p>Download the offline version of this site <a href="{{ base_url }}/5thsrd_offline.zip">here</a>.</p>
 
-        <script src="{{ base_url }}/js/jquery-1.10.2.min.js?v={{ version_id }}"></script>
-        <script src="{{ base_url }}/js/bootstrap-3.0.3.min.js?v={{ version_id }}"></script>
-        <script src="{{ base_url }}/js/base.js?v={{ version_id }}"></script>
+            {% if config.extra.enable_ads %}
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- Footer -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-7526144995854530"
+                 data-ad-slot="1627197977"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+             <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+             </script>
+            {% endif %} 
+
+       </footer>
+
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <script language="JavaScript">
+            $("table").addClass("table table-striped table-hover");
+            $("body").scrollspy({target: ".bs-sidebar"});
+        </script>
         {%- for path in extra_javascript %}
         <script src="{{ path }}"></script>
         {%- endfor %}

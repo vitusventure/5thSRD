@@ -1,6 +1,9 @@
 name: Darkness
 level: 2
 school: evocation
+classes: sorcerer
+         warlock
+         wizard
 
 # Darkness 
 _2nd-level evocation_ 

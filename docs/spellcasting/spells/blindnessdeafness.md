@@ -1,6 +1,10 @@
 name: Blindness/Deafness
 level: 2
 school: necromancy
+classes: bard
+         cleric
+         sorcerer
+         wizard
 
 # Blindness/Deafness 
 _2nd-level necromancy_ 

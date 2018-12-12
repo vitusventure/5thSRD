@@ -1,6 +1,7 @@
 name: Clone
 level: 8
 school: necromancy
+classes: wizard
 
 # Clone 
 _8th-level necromancy_ 

@@ -1,6 +1,8 @@
 name: Dominate Beast
 level: 4
 school: enchantment
+classes: druid
+         sorcerer
 
 # Dominate Beast 
 _4th-level enchantment_ 

@@ -1,6 +1,9 @@
 name: Raise Dead
 level: 5
 school: necromancy
+classes: bard
+         cleric
+         paladin
 
 # Raise Dead 
 _5th-level necromancy_ 

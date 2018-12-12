@@ -1,6 +1,7 @@
 name: Eldritch Blast
 level: 0
 school: evocation
+classes: warlock
 
 # Eldritch Blast 
 _Evocation cantrip_ 

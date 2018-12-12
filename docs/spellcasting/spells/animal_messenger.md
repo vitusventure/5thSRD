@@ -1,6 +1,9 @@
 name: Animal Messenger
 level: 2
 school: enchantment
+classes: bard
+         druid
+         ranger
 
 # Animal Messenger 
 _2nd-level enchantment (ritual)_ 

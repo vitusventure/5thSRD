@@ -1,6 +1,8 @@
 name: Enthrall
 level: 2
 school: enchantment
+classes: bard
+         warlock
 
 # Enthrall 
 _2nd-level enchantment_ 

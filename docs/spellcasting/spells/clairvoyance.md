@@ -1,6 +1,10 @@
 name: Clairvoyance
 level: 3
 school: divination
+classes: bard
+         cleric
+         sorcerer
+         wizard
 
 # Clairvoyance 
 _3rd-level divination_ 

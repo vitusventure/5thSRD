@@ -1,6 +1,8 @@
 name: Magic Weapon
 level: 2
 school: transmutation
+classes: paladin
+         wizard
 
 # Magic Weapon 
 _2nd-level transmutation_ 

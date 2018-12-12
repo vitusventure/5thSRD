@@ -1,6 +1,7 @@
 name: Freezing Sphere
 level: 6
 school: evocation
+classes: wizard
 
 # Freezing Sphere 
 _6th-level evocation_ 

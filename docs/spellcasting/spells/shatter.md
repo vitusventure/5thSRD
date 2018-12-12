@@ -1,6 +1,10 @@
 name: Shatter
 level: 2
 school: evocation
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Shatter 
 _2nd-level evocation_ 

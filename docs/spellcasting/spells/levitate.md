@@ -1,6 +1,8 @@
 name: Levitate
 level: 2
 school: transmutation
+classes: sorcerer
+         wizard
 
 # Levitate 
 _2nd-level transmutation_ 

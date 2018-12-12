@@ -1,6 +1,8 @@
 name: Command
 level: 1
 school: enchantment
+classes: cleric
+         paladin
 
 # Command 
 _1st-level enchantment_ 

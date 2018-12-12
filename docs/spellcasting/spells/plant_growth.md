@@ -1,6 +1,9 @@
 name: Plant Growth
 level: 3
 school: transmutation
+classes: bard
+         druid
+         ranger
 
 # Plant Growth 
 _3rd-level transmutation_ 

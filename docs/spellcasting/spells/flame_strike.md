@@ -1,6 +1,7 @@
 name: Flame Strike
 level: 5
 school: evocation
+classes: cleric
 
 # Flame Strike 
 _5th-level evocation_ 

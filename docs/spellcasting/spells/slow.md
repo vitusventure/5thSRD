@@ -1,6 +1,8 @@
 name: Slow
 level: 3
 school: transmutation
+classes: sorcerer
+         wizard
 
 # Slow 
 _3rd-level transmutation_ 

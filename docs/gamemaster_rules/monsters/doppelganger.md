@@ -1,4 +1,4 @@
-name: Doppleganger
+name: Doppelganger
 type: monstrosity
 cr: 3
 

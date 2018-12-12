@@ -1,6 +1,9 @@
 name: Astral Projection
 level: 9
 school: necromancy
+classes: cleric
+         warlock
+         wizard
 
 # Astral Projection 
 _9th-level necromancy_ 

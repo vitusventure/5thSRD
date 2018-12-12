@@ -2,8 +2,8 @@
 5th Edition SRD in the style of d20srd.org
 
 # How to Build
-Generate the spell lists by running the two python files.
+Various indexes are built using build_indexes.py.
 
-Build using mkdocs (http://www.mkdocs.org/): mkdocs build --clean
+Build the full site using mkdocs (http://www.mkdocs.org/): mkdocs build --clean
 
 You can also serve locally by running mkdocs serve

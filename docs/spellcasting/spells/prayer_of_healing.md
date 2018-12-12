@@ -1,6 +1,7 @@
 name: Prayer of Healing
 level: 2
 school: evocation
+classes: cleric
 
 # Prayer of Healing 
 _2nd-level evocation_ 

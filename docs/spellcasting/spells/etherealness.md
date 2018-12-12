@@ -1,6 +1,11 @@
 name: Etherealness
 level: 7
 school: transmutation
+classes: bard
+         cleric
+         sorcerer
+         warlock
+         wizard
 
 # Etherealness 
 _7th-level transmutation_ 

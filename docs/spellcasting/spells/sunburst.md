@@ -1,6 +1,9 @@
 name: Sunburst
 level: 8
 school: evocation
+classes: druid
+         sorcerer
+         wizard
 
 # Sunburst 
 _8th-level evocation_ 

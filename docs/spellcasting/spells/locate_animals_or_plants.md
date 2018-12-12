@@ -1,6 +1,9 @@
 name: Locate Animals or Plants
 level: 2
 school: divination
+classes: bard
+         druid
+         ranger
 
 # Locate Animals or Plants 
 _2nd-level divination (ritual)_ 

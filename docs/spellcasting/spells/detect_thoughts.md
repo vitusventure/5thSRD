@@ -1,6 +1,9 @@
 name: Detect Thoughts
 level: 2
 school: divination
+classes: bard
+         sorcerer
+         wizard
 
 # Detect Thoughts 
 _2nd-level divination_ 

@@ -1,6 +1,11 @@
 name: Cure Wounds
 level: 1
 school: evocation
+classes: bard
+         cleric
+         druid
+         paladin
+         ranger
 
 # Cure Wounds 
 _1st-level evocation_ 

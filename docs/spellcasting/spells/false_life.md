@@ -1,6 +1,8 @@
 name: False Life
 level: 1
 school: necromancy
+classes: sorcerer
+         wizard
 
 # False Life 
 _1st-level necromancy_ 

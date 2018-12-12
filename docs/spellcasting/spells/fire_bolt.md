@@ -1,6 +1,8 @@
 name: Fire Bolt
 level: 0
 school: evocation
+classes: sorcerer
+         wizard
 
 # Fire Bolt 
 _Evocation cantrip_ 

@@ -22,7 +22,7 @@
             {% if nav|length>1 %}
                 <!-- Main navigation -->
                 <ul class="nav navbar-nav">
-                {% for nav_item in nav if not nav_item.title == "Home" %}
+                {% for nav_item in nav if nav_item.title not in ("Home", "Search", "Search the SRD") %}
                 {% if nav_item.children %}
                     <li class="dropdown{% if nav_item.active %} active{% endif %}">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ nav_item.title }} <b class="caret"></b></a>
@@ -46,7 +46,7 @@
 
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="{{ nav.homepage.url }}/search.html"> Search </a>
+                    <a href="{{ nav.homepage.url }}/search/"> Search </a>
                 </li>
                 {% if (page.next_page or page.previous_page) %}
                     <li {% if not page.previous_page %}class="disabled"{% endif %}>

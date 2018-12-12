@@ -1,6 +1,8 @@
 name: Contagion
 level: 5
 school: necromancy
+classes: cleric
+         druid
 
 # Contagion 
 _5th-level necromancy_ 

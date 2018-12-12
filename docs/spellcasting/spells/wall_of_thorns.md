@@ -1,6 +1,7 @@
 name: Wall of Thorns
 level: 6
 school: conjuration
+classes: druid
 
 # Wall of Thorns 
 _6th-level conjuration_ 

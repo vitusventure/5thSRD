@@ -1,6 +1,8 @@
 name: Dispel Evil and Good
 level: 5
 school: abjuration
+classes: cleric
+         paladin
 
 # Dispel Evil and Good 
 _5th-level abjuration_ 

@@ -1,6 +1,9 @@
 name: Dream
 level: 5
 school: illusion
+classes: bard
+         warlock
+         wizard
 
 # Dream 
 _5th-level illusion_ 

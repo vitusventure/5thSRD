@@ -1,6 +1,8 @@
 name: True Resurrection
 level: 9
 school: necromancy
+classes: cleric
+         druid
 
 # True Resurrection 
 _9th-level necromancy_ 

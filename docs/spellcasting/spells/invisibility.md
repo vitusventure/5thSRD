@@ -1,6 +1,10 @@
 name: Invisibility
 level: 2
 school: illusion
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Invisibility 
 _2nd-level illusion_ 

@@ -1,6 +1,7 @@
 name: Animal Shapes
 level: 8
 school: transmutation
+classes: druid
 
 # Animal Shapes 
 _8th-level transmutation_ 

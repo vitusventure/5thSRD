@@ -1,6 +1,9 @@
 name: Glyph of Warding
 level: 3
 school: abjuration
+classes: bard
+         cleric
+         wizard
 
 # Glyph of Warding 
 _3rd-level abjuration_ 

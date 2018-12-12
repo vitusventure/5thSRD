@@ -1,6 +1,9 @@
 name: Seeming
 level: 5
 school: illusion
+classes: bard
+         sorcerer
+         wizard
 
 # Seeming 
 _5th-level illusion_ 

@@ -1,6 +1,9 @@
 name: Dancing Lights
 level: 0
 school: evocation
+classes: bard
+         sorcerer
+         wizard
 
 # Dancing Lights 
 _Evocation cantrip_ 

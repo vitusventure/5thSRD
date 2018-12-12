@@ -1,6 +1,9 @@
 name: Misty Step
 level: 2
 school: conjuration
+classes: sorcerer
+         warlock
+         wizard
 
 # Misty Step 
 _2nd-level conjuration_ 

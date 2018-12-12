@@ -1,6 +1,7 @@
 name: Blade Barrier
 level: 6
 school: evocation
+classes: cleric
 
 # Blade Barrier 
 _6th-level evocation_ 

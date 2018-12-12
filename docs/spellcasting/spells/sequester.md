@@ -1,6 +1,7 @@
 name: Sequester
 level: 7
 school: transmutation
+classes: wizard
 
 # Sequester 
 _7th-level transmutation_ 

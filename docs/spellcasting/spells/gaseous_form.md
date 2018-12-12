@@ -1,6 +1,9 @@
 name: Gaseous Form
 level: 3
 school: transmutation
+classes: sorcerer
+         warlock
+         wizard
 
 # Gaseous Form 
 _3rd-level transmutation_ 

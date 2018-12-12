@@ -1,6 +1,9 @@
 name: Teleport
 level: 7
 school: conjuration
+classes: bard
+         sorcerer
+         wizard
 
 # Teleport 
 _7th-level conjuration_ 

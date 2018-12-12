@@ -1,6 +1,8 @@
 name: Modify Memory
 level: 5
 school: enchantment
+classes: bard
+         wizard
 
 # Modify Memory 
 _5th-level enchantment_ 

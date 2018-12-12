@@ -1,6 +1,9 @@
 name: Purify Food and Drink
 level: 1
 school: transmutation
+classes: cleric
+         druid
+         paladin
 
 # Purify Food and Drink 
 _1st-level transmutation (ritual)_ 

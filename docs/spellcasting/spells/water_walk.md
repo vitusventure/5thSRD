@@ -1,6 +1,10 @@
 name: Water Walk
 level: 3
 school: transmutation
+classes: cleric
+         druid
+         ranger
+         sorcerer
 
 # Water Walk 
 _3rd-level transmutation (ritual)_ 

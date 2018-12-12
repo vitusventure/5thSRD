@@ -1,6 +1,9 @@
 name: Sleep
 level: 1
 school: enchantment
+classes: bard
+         sorcerer
+         wizard
 
 # Sleep 
 _1st-level enchantment_ 

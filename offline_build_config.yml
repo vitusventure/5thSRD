@@ -4,3 +4,6 @@ site_description: A web-based version of the 5th Edition Dungeons and Dragons SR
 theme_dir: 5thsrd_theme
 site_dir: 5thsrd_offline
 use_directory_urls: false
+plugins: []
+extra:
+   enable_ads: no

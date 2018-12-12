@@ -1,6 +1,9 @@
 name: Knock
 level: 2
 school: transmutation
+classes: bard
+         sorcerer
+         wizard
 
 # Knock 
 _2nd-level transmutation_ 

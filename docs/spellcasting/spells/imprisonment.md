@@ -1,6 +1,8 @@
 name: Imprisonment
 level: 9
 school: abjuration
+classes: warlock
+         wizard
 
 # Imprisonment 
 _9th-level abjuration+ 

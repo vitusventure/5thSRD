@@ -1,6 +1,10 @@
 name: Hallucinatory Terrain
 level: 4
 school: illusion
+classes: bard
+         druid
+         warlock
+         wizard
 
 # Hallucinatory Terrain 
 _4th-level illusion_ 

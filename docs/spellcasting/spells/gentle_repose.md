@@ -1,6 +1,8 @@
 name: Gentle Repose
 level: 2
 school: necromancy
+classes: cleric
+         wizard
 
 # Gentle Repose 
 _2nd-level necromancy (ritual)_ 

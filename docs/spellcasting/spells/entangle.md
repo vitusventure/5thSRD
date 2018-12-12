@@ -1,6 +1,7 @@
 name: Entangle
 level: 1
 school: conjuration
+classes: druid
 
 # Entangle 
 _1st-level conjuration_ 

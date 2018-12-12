@@ -1,6 +1,7 @@
 name: Private Sanctum
 level: 4
 school: abjuration
+classes: wizard
 
 # Private Sanctum 
 _4th-level abjuration_ 

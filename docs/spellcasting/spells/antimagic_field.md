@@ -1,6 +1,8 @@
 name: Antimagic Field
 level: 8
 school: abjuration
+classes: cleric
+         wizard
 
 # Antimagic Field 
 _8th-level abjuration_ 

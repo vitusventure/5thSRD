@@ -1,6 +1,7 @@
 name: Reincarnate
 level: 5
 school: transmutation
+classes: druid
 
 # Reincarnate 
 _5th-level transmutation_ 

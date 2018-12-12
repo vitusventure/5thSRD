@@ -1,6 +1,7 @@
 name: Faithful Hound
 level: 4
 school: conjuration
+classes: wizard
 
 # Faithful Hound 
 _4th-level conjuration_ 

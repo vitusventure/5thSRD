@@ -1,6 +1,7 @@
 name: Maze
 level: 8
 school: conjuration
+classes: wizard
 
 # Maze 
 _8th-level conjuration_ 

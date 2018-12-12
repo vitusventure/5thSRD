@@ -1,6 +1,8 @@
 name: Blink
 level: 3
 school: transmutation
+classes: sorcerer
+         wizard
 
 # Blink 
 _3rd-level transmutation_ 

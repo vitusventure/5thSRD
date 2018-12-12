@@ -1,6 +1,7 @@
 name: Hallow
 level: 5
 school: evocation
+classes: cleric
 
 # Hallow 
 _5th-level evocation_ 

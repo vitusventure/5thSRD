@@ -1,6 +1,7 @@
 name: Magic Jar
 level: 6
 school: necromancy
+classes: wizard
 
 # Magic Jar 
 _6th-level necromancy_ 

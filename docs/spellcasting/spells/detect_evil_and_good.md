@@ -1,6 +1,8 @@
 name: Detect Evil and Good
 level: 1
 school: divination
+classes: cleric
+         paladin
 
 # Detect Evil and Good 
 _1st-level divination_ 

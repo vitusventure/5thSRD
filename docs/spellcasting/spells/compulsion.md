@@ -1,6 +1,7 @@
 name: Compulsion
 level: 4
 school: enchantment
+classes: bard
 
 # Compulsion 
 _4th-level enchantment_ 

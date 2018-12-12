@@ -1,6 +1,11 @@
 name: True Seeing
 level: 6
 school: divination
+classes: bard
+         cleric
+         sorcerer
+         warlock
+         wizard
 
 # True Seeing 
 _6th-level divination_ 

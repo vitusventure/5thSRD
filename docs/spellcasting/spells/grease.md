@@ -1,6 +1,7 @@
 name: Grease
 level: 1
 school: conjuration
+classes: wizard
 
 # Grease 
 _1st-level conjuration_ 

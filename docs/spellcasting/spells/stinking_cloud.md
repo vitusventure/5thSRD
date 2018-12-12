@@ -1,6 +1,9 @@
 name: Stinking Cloud
 level: 3
 school: conjuration
+classes: bard
+         sorcerer
+         wizard
 
 # Stinking Cloud 
 _3rd-level conjuration_ 

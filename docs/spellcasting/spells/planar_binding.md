@@ -1,6 +1,10 @@
 name: Planar Binding
 level: 5
 school: abjuration
+classes: bard
+         cleric
+         druid
+         wizard
 
 # Planar Binding 
 _5th-level abjuration_ 

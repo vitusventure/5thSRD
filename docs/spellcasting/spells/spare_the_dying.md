@@ -1,6 +1,7 @@
 name: Spare the Dying
 level: 0
 school: necromancy
+classes: cleric
 
 # Spare the Dying 
 _Necromancy cantrip_ 

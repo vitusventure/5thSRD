@@ -1,6 +1,9 @@
 name: Animal Friendship
 level: 1
 school: enchantment
+classes: bard
+         druid
+         ranger
 
 # Animal Friendship 
 _1st-level enchantment_ 

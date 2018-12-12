@@ -1,6 +1,8 @@
 name: Ray of Enfeeblement
 level: 2
 school: necromancy
+classes: warlock
+         wizard
 
 # Ray of Enfeeblement 
 _2nd-level necromancy_ 

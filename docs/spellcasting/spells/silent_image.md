@@ -1,6 +1,9 @@
 name: Silent Image
 level: 1
 school: illusion
+classes: bard
+         sorcerer
+         wizard
 
 # Silent Image 
 _1st-level illusion_ 

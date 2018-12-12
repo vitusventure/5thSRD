@@ -1,6 +1,8 @@
 name: Prismatic Spray
 level: 7
 school: evocation
+classes: sorcerer
+         wizard
 
 # Prismatic Spray 
 _7th-level evocation_ 

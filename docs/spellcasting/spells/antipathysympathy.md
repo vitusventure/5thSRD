@@ -1,6 +1,8 @@
 name: Antipathy/Sympathy
 level: 8
 school: enchantment
+classes: druid
+         wizard
 
 # Antipathy/Sympathy 
 _8th-level enchantment_ 

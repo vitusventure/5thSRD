@@ -1,6 +1,8 @@
 name: Enlarge/Reduce
 level: 2
 school: transmutation
+classes: sorcerer
+         wizard
 
 # Enlarge/Reduce 
 _2nd-level transmutation_ 

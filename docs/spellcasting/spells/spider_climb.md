@@ -1,6 +1,9 @@
 name: Spider Climb
 level: 2
 school: transmutation
+classes: sorcerer
+         warlock
+         wizard
 
 # Spider Climb 
 _2nd-level transmutation_ 

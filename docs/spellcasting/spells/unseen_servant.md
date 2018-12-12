@@ -1,6 +1,9 @@
 name: Unseen Servant
 level: 1
 school: conjuration
+classes: bard
+         warlock
+         wizard
 
 # Unseen Servant 
 _1st-level conjuration (ritual)_ 

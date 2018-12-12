@@ -1,6 +1,8 @@
 name: Meld into Stone
 level: 3
 school: transmutation
+classes: cleric
+         druid
 
 # Meld into Stone 
 _3rd-level transmutation (ritual)_ 

@@ -1,6 +1,7 @@
 name: Instant Summons
 level: 6
 school: conjuration
+classes: wizard
 
 # Instant Summons 
 _6th-level conjuration (ritual)_ 

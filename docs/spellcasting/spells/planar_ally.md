@@ -1,6 +1,7 @@
 name: Planar Ally
 level: 6
 school: conjuration
+classes: cleric
 
 # Planar Ally 
 _6th-level conjuration_ 

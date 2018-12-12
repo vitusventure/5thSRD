@@ -1,6 +1,8 @@
 name: Cone of Cold
 level: 5
 school: evocation
+classes: sorcerer
+         wizard
 
 _5th-level evocation_ 
 

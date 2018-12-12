@@ -1,6 +1,10 @@
 name: Mass Suggestion
 level: 6
 school: enchantment
+classes: bard
+         sorcerer
+         warlock
+         wizard
 
 # Mass Suggestion 
 _6th-level enchantment_ 

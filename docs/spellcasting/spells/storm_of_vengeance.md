@@ -1,6 +1,7 @@
 name: Storm of Vengeance
 level: 9
 school: conjuration
+classes: druid
 
 # Storm of Vengeance 
 _9th-level conjuration_ 

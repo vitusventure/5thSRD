@@ -1,6 +1,10 @@
 name: Foresight
 level: 9
 school: divination
+classes: bard
+         druid
+         warlock
+         wizard
 
 # Foresight 
 _9th-level divination_ 

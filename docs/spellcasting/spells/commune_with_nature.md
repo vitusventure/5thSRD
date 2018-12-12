@@ -1,6 +1,8 @@
 name: Commune with Nature
 level: 5
 school: divination
+classes: druid
+         ranger
 
 # Commune with Nature 
 _5th-level divination (ritual)_ 

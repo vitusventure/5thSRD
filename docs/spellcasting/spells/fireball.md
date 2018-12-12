@@ -1,6 +1,8 @@
 name: Fireball
 level: 3
 school: evocation
+classes: sorcerer
+         wizard
 
 # Fireball 
 _3rd-level evocation_ 

@@ -1,6 +1,7 @@
 name: Spiritual Weapon
 level: 2
 school: evocation
+classes: cleric
 
 # Spiritual Weapon 
 _2nd-level evocation_ 
