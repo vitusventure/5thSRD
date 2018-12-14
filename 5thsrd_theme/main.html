@@ -59,13 +59,6 @@
 
         <footer class="col-md-12">
             <hr>
-            <p>Questions or comments can be directed to <a href="mailto:john@5thsrd.org">john@5thsrd.org</a>.  Theme provided by <a href="https://github.com/ron-reaser">Reaser</a>.</p>
-            {% if config.copyright %}
-                <p>{{ config.copyright }}</p>
-            {% endif %}
-            <p>{% if config.repo_url %}Check out the <a href="{{ config.repo_url }}">GitHub</a> repo.  {% endif %}Website built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
-            <p>Download the offline version of this site <a href="{{ base_url }}/5thsrd_offline.zip">here</a>.</p>
-
             {% if config.extra.enable_ads %}
             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
             <!-- Footer -->
@@ -79,7 +72,12 @@
                  (adsbygoogle = window.adsbygoogle || []).push({});
              </script>
             {% endif %} 
-
+            <p style="margin-top: 20px">Questions or comments can be directed to <a href="mailto:john@5thsrd.org">john@5thsrd.org</a>.  Theme provided by <a href="https://github.com/ron-reaser">Reaser</a>.</p>
+            {% if config.copyright %}
+                <p>{{ config.copyright }}</p>
+            {% endif %}
+            <p>{% if config.repo_url %}Check out the <a href="{{ config.repo_url }}">GitHub</a> repo.  {% endif %}Website built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+            <p>Download the offline version of this site <a href="{{ base_url }}/5thsrd_offline.zip">here</a>.</p>
        </footer>
 
         <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
