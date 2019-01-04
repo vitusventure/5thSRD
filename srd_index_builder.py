@@ -53,6 +53,9 @@ class SRDIndexBuilder:
 
         # After building the indexes, also build the class spell lists if requested
         if build_config['class_spell_lists']:
+            if not os.path.exists(build_config['class_spell_lists']['index_path']):
+                os.makedirs(build_config['class_spell_lists']['index_path'])
+
             self.build_class_spell_lists(build_config['indexes']['spells'], build_config['class_spell_lists'])
 
     def _clean_index_directory(self, directory):
