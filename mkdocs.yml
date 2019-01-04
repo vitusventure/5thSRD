@@ -5,6 +5,7 @@ site_description: A web-based version of the 5th Edition SRD (System Reference D
 google_analytics: ["UA-72655850-1", '5thsrd.org']
 theme:
   name: null
+  color: "rgb(216, 25, 33)" # Match with @brand-primary in variables.less
   custom_dir: 5thsrd_theme
 plugins: []
 extra:
