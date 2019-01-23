@@ -11,11 +11,22 @@ Your gnome character has certain characteristics in common with all other gnomes
 
 **Size.** Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
 
-**Speed.** Your base walking speed is 25 feet. Darkvision. Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. 
+**Speed.** Your base walking speed is 25 feet. 
+
+**Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. 
 
 **Gnome Cunning.** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic. 
 
 **Languages.** You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world. 
+
+## Forest Gnome
+As a forest gnome, you have a natural knack for illusion and inherent quickness and stealth.
+
+**Ability Score Increase.** Your Dexteriry score increases by 1.
+
+**Natural Illusionist.** You know the _minor illusion_ cantrip. Intelligence is your spell casting ability for it.
+
+**Speak with Small Beasts.** Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Forest gnomes love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.
 
 ## Rock Gnome 
 As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes. 
