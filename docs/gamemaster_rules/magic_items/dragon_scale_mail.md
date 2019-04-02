@@ -11,9 +11,9 @@ Additionally, you can focus your senses as an action to magically discern the di
 | Dragon | Resistance  |
 |--------|-------------|
 | Black  | Acid        |
-| Blue   | Lightening  |
+| Blue   | Lightning  |
 | Brass  | Fire        |
-| Bronze | Lightening  |
+| Bronze | Lightning  |
 | Copper | Acid        |
 | Gold   | Fire        |
 | Green  | Poison      |
