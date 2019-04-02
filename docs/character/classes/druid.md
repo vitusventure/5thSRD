@@ -160,7 +160,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | Druid Level | Circle Spells                      |
 |-------------|------------------------------------|
 | 3rd         | _barkskin, spider climb_           |
-| 5th         | _call lightening, plant growth_    |
+| 5th         | _call lightning, plant growth_    |
 | 7th         | _divination, freedom of movement_  |
 | 9th         | _commune with nature, tree stride_ |
 
