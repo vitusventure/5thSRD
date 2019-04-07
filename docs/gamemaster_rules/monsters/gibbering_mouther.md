@@ -1,5 +1,5 @@
 name: Gibbering Mouther
-type: abberation
+type: aberration
 cr: 2
 
 # Gibbering Mouther 

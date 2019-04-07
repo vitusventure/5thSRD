@@ -1,5 +1,5 @@
 name: Otyugh
-type: abberation
+type: aberration
 cr: 5
 
 # Otyugh 

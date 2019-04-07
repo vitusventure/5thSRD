@@ -1,5 +1,5 @@
 name: Cloaker
-type: abberation
+type: aberration
 cr: 8
 
 # Cloaker 

@@ -25,5 +25,6 @@ At will: *_disguise self_** (any humanoid form), **_major image_**
 
 ### Actions 
 **Multiattack.** The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.   
-**Claws.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 14 (2d10 + 3) slashing damage. Dagger. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage.    
+**Claws.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 14 (2d10 + 3) slashing damage.   
+**Dagger.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage.    
 **Intoxicating Touch.** Melee Spell Attack: +5 to hit, reach 5 ft., one creature. _Hit:_ The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
