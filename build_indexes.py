@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from srd_index_builder import SRDIndexBuilder
 import logging
 import argparse
