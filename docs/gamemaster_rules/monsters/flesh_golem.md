@@ -1,5 +1,5 @@
-name: Flesh Golem
-type: construct
+name: Flesh Golem    
+type: construct    
 cr: 5
 
 # Flesh Golem 
@@ -7,7 +7,7 @@ _Medium construct, neutral_
 
 **Armor Class** 9    
 **Hit Points** 93 (11d8 + 44)    
-**Speed** 30 ft. 
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -17,7 +17,7 @@ _Medium construct, neutral_
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned    
 **Senses** darkvision 60 ft., passive Perception 10    
 **Languages** understands the languages of its creator but can't speak    
-**Challenge** 5 (1,800 XP) 
+**Challenge** 5 (1,800 XP)
 
 **Berserk.** Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.    
 The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again.    
@@ -29,4 +29,4 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ### Actions 
 **Multiattack.** The golem makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.
+**Slam.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.    

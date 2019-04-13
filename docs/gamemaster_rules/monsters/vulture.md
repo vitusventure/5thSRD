@@ -1,5 +1,5 @@
-name: Vulture
-type: beast
+name: Vulture    
+type: beast    
 cr: 0
 
 # Vulture 
@@ -16,10 +16,10 @@ _Medium beast, unaligned_
 **Skills** Perception +3    
 **Senses** passive Perception 13    
 **Languages** --    
-**Challenge** 0 (10 XP) 
+**Challenge** 0 (10 XP)
 
 **Keen Sight and Smell.** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.    
-**Pack Tactics.** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated. 
+**Pack Tactics.** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ### Actions 
 **Beak.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) piercing damage. 

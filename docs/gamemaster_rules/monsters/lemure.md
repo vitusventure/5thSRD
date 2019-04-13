@@ -1,5 +1,5 @@
-name: Lemure
-type: fiend (devil)
+name: Lemure    
+type: fiend (devil)    
 cr: 0
 
 # Lemure 
@@ -7,7 +7,7 @@ _Medium fiend (devil), lawful evil_
 
 **Armor Class** 7    
 **Hit Points** 13 (3d8)    
-**Speed** 15 ft. 
+**Speed** 15 ft.
 
 | STR      | DEX     | CON      | INT     | WIS     | CHA     |
 |----------|---------|----------|---------|---------|---------|
@@ -18,10 +18,10 @@ _Medium fiend (devil), lawful evil_
 **Condition Immunities** charmed, frightened, poisoned    
 **Senses** darkvision 120 ft., passive Perception 10    
 **Languages** understands Infernal but can't speak    
-**Challenge** 0 (10 XP) 
+**Challenge** 0 (10 XP)
 
 **Devil's Sight.** Magical darkness doesn't impede the lemure's darkvision.    
-**Hellish Rejuvenation.** A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good‐aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.  
+**Hellish Rejuvenation.** A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good‐aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water. 
 
 ### Actions 
-**Fist.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
+**Fist.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.    

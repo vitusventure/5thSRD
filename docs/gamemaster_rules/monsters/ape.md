@@ -1,5 +1,5 @@
-name: Ape
-type: beast
+name: Ape    
+type: beast    
 cr: .5
 
 # Ape 
@@ -7,7 +7,7 @@ _Medium beast, unaligned_
 
 **Armor Class** 12    
 **Hit Points** 19 (3d8 + 6)    
-**Speed** 30 ft., climb 30 ft. 
+**Speed** 30 ft., climb 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -16,7 +16,7 @@ _Medium beast, unaligned_
 **Skills** Athletics +5, Perception +3    
 **Senses** passive Perception 13    
 **Languages** --    
-**Challenge** 1/2 (100 XP) 
+**Challenge** 1/2 (100 XP)
 
 ### Actions 
 **Multiattack.** The ape makes two fist attacks.   

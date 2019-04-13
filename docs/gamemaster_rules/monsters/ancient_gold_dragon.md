@@ -1,5 +1,5 @@
-name: Ancient Gold Dragon
-type: dragon
+name: Ancient Gold Dragon    
+type: dragon    
 cr: 24
 
 # Ancient Gold Dragon 
@@ -7,7 +7,7 @@ _Gargantuan dragon, lawful good_
 
 **Armor Class** 22 (natural armor)    
 **Hit Points** 546 (28d20 + 252)    
-**Speed** 40 ft., fly 80 ft., swim 40 ft. 
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -18,10 +18,10 @@ _Gargantuan dragon, lawful good_
 **Damage Immunities** fire    
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27    
 **Languages** Common, Draconic    
-**Challenge** 24 (62,000 XP) 
+**Challenge** 24 (62,000 XP)
 
 **Amphibious.** The dragon can breathe air and water.    
-**Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead. 
+**Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead.
 
 ### Actions 
 **Multiattack.** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.    
@@ -33,10 +33,10 @@ _Gargantuan dragon, lawful good_
 **Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.    
 **Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.    
 **Change Shape.** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).    
-In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form. 
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
 ### Legendary Actions 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.    
 **Detect.** The dragon makes a Wisdom (Perception) check.    
 **Tail Attack.** The dragon makes a tail attack.    
-**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.    

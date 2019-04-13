@@ -1,5 +1,5 @@
-name: Invisible Stalker
-type: elemental
+name: Invisible Stalker    
+type: elemental    
 cr: 6
 
 # Invisible Stalker 
@@ -7,7 +7,7 @@ _Medium elemental, neutral_
 
 **Armor Class** 14    
 **Hit Points** 104 (16d8 + 32)    
-**Speed** 50 ft., fly 50 ft. (hover) 
+**Speed** 50 ft., fly 50 ft. (hover)
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -19,11 +19,11 @@ _Medium elemental, neutral_
 **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious    
 **Senses** darkvision 60 ft., passive Perception 18    
 **Languages** Auran, understands Common but doesn't speak it    
-**Challenge** 6 (2,300 XP) 
+**Challenge** 6 (2,300 XP)
 
 **Invisibility.** The stalker is invisible.    
-**Faultless Tracker.** The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner. 
+**Faultless Tracker.** The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
 
 ### Actions 
 **Multiattack.** The stalker makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage.
+**Slam.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage.    

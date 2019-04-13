@@ -1,5 +1,5 @@
-name: Octopus
-type: beast
+name: Octopus    
+type: beast    
 cr: 0
 
 # Octopus 
@@ -7,20 +7,20 @@ _Small beast, unaligned_
 
 **Armor Class** 12    
 **Hit Points** 3 (1d6)    
-**Speed** 5 ft., swim 30 ft. 
+**Speed** 5 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 4 (−3)  | 15 (+2) | 11 (+0) | 3 (−4)  | 10 (+0) | 4 (−3)  |  
+| 4 (−3)  | 15 (+2) | 11 (+0) | 3 (−4)  | 10 (+0) | 4 (−3)  | 
 
 **Skills** Perception +2, Stealth +4    
 **Senses** darkvision 30 ft., passive Perception 12    
 **Languages** --    
-**Challenge** 0 (10 XP) 
+**Challenge** 0 (10 XP)
 
 **Hold Breath.** While out of water, the octopus can hold its breath for 30 minutes.    
 **Underwater Camouflage.** The octopus has advantage on Dexterity (Stealth) checks made while underwater.    
-**Water Breathing.** The octopus can breathe only underwater. 
+**Water Breathing.** The octopus can breathe only underwater.
 
 ### Actions 
 **Tentacles.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.    

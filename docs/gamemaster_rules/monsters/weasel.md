@@ -1,5 +1,5 @@
-name: Weasel
-type: beast
+name: Weasel    
+type: beast    
 cr: 0
 
 # Weasel 
@@ -7,7 +7,7 @@ _Tiny beast, unaligned_
 
 **Armor Class** 13    
 **Hit Points** 1 (1d4 − 1)    
-**Speed** 30 ft. 
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -16,9 +16,9 @@ _Tiny beast, unaligned_
 **Skills** Perception +3, Stealth +5    
 **Senses** passive Perception 13    
 **Languages** --    
-**Challenge** 0 (10 XP) 
+**Challenge** 0 (10 XP)
 
 **Keen Hearing and Smell.** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-### Actions    
+### Actions
 **Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage. 

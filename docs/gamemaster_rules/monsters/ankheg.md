@@ -1,5 +1,5 @@
-name: Ankheg
-type: monstrosity
+name: Ankheg    
+type: monstrosity    
 cr: 2
 
 # Ankheg 
@@ -7,7 +7,7 @@ _Large monstrosity, unaligned_
 
 **Armor Class** 14 (natural armor), 11 while prone    
 **Hit Points** 39 (6d10 + 6)    
-**Speed** 30 ft., burrow 10 ft. 
+**Speed** 30 ft., burrow 10 ft.
 
 | STR      | DEX     | CON      | INT     | WIS     | CHA     |
 |----------|---------|----------|---------|---------|---------|
@@ -15,7 +15,7 @@ _Large monstrosity, unaligned_
 
 **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 11    
 **Languages** --    
-**Challenge** 2 (450 XP) 
+**Challenge** 2 (450 XP)
 
 ### Actions 
 **Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so.    

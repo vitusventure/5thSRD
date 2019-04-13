@@ -1,5 +1,5 @@
-name: Giant Eagle
-type: beast
+name: Giant Eagle    
+type: beast    
 cr: 1
 
 # Giant Eagle 
@@ -11,18 +11,18 @@ _Large beast, neutral good_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 17 (+3) | 13 (+1) | 8 (−1)  | 14 (+2) | 10 (+0) |   
+| 16 (+3) | 17 (+3) | 13 (+1) | 8 (−1)  | 14 (+2) | 10 (+0) |  
 
 **Skills** Perception +4    
 **Senses** passive Perception 14    
 **Languages** Giant Eagle, understands Common and Auran but can't speak them    
-**Challenge** 1 (200 XP) 
+**Challenge** 1 (200 XP)
 
-**Keen Sight.** The eagle has advantage on Wisdom (Perception) checks that rely on sight. 
+**Keen Sight.** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
 ### Actions 
 **Multiattack.** The eagle makes two attacks: one with its beak and one with its talons.    
-**Beak.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage. Talons. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage. 
+**Beak.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage. Talons. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
 
 ### Description
 A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles). 
