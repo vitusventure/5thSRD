@@ -39,7 +39,7 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 **Rope.** Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.   
 **Scale, Merchant's.** A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.   
 **Spellbook.** Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.   
-**Spyglass.** Objects viewed through a spyglass are magnified to twice their size.
+**Spyglass.** Objects viewed through a spyglass are magnified to twice their size.   
 **Tent.** A simple and portable canvas shelter, a tent sleeps two.   
 **Tinderbox.** This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch--or anything else with abundant, exposed fuel--takes an action. Lighting any other fire takes 1 minute.   
 **Torch.** A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
