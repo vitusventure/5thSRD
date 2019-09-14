@@ -17,6 +17,7 @@ _Tiny beast, unaligned_
 **Senses** blindsight 30 ft., passive Perception 9    
 **Languages** --    
 **Challenge** 0 (10 XP)    
+
 **Amphibious.** The crab can breathe air and water.
 
 ### Actions 

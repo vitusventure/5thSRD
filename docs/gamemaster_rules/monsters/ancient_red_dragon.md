@@ -20,7 +20,7 @@ _Gargantuan dragon, chaotic evil_
 **Languages** Common, Draconic    
 **Challenge** 24 (62,000 XP)
 
-***Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead.
 
 ### Actions 
 **Multiattack.** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.    

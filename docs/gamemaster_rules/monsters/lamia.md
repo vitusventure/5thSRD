@@ -19,7 +19,7 @@ _Large monstrosity, chaotic evil_
 **Challenge** 4 (1,100 XP)
 
 **Innate Spellcasting.** The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.    
-At will: *_disguise self_** (any humanoid form), **_major image_**    
+At will: **_disguise self_** (any humanoid form), **_major image_**    
 3/day each: **_charm person_**, **_mirror image_**, **_scrying_**, **_suggestion_**    
 1/day: **_geas_** 
 
