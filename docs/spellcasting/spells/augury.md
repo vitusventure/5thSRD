@@ -14,7 +14,7 @@ By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or 
 
 * **Weal**, for good results
 * **Woe**, for bad results
-* **Weal** and woe, for both good and bad results
+* **Weal and woe**, for both good and bad results
 * **Nothing**, for results that aren't especially good or bad 
 
 The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.    

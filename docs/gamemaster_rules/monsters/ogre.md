@@ -1,5 +1,5 @@
-name: Ogre    
-type: giant    
+name: Ogre
+type: giant
 cr: 2
 
 # Ogre 
