@@ -19,7 +19,7 @@ _Large fiend (demon), chaotic evil_
 **Condition Immunities** poisoned    
 **Senses** truesight 120 ft., passive Perception 11    
 **Languages** Abyssal, telepathy 120 ft.    
-**Challenge** 13 (10,000 XP)  
+**Challenge** 13 (10,000 XP)
 
 **Magic Resistance.** The nalfeshnee has advantage on saving throws against spells and other magical effects.
 

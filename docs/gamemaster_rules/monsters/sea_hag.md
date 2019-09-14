@@ -15,7 +15,7 @@ _Medium fey, chaotic evil_
 
 **Senses** darkvision 60 ft., passive Perception 11    
 **Languages** Aquan, Common, Giant    
-**Challenge** 2 (450 XP) 
+**Challenge** 2 (450 XP)
 
 **Amphibious.** The hag can breathe air and water.    
 **Horrific Appearance.** Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.    

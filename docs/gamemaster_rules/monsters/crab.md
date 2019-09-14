@@ -16,7 +16,7 @@ _Tiny beast, unaligned_
 **Skills** Stealth +2    
 **Senses** blindsight 30 ft., passive Perception 9    
 **Languages** --    
-**Challenge** 0 (10 XP)    
+**Challenge** 0 (10 XP)
 
 **Amphibious.** The crab can breathe air and water.
 

@@ -18,7 +18,7 @@ _Gargantuan dragon, lawful good_
 **Damage Immunities** lightning    
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27    
 **Languages** Common, Draconic    
-**Challenge** 22 (41,000 XP) 
+**Challenge** 22 (41,000 XP)
 
 **Amphibious.** The dragon can breathe air and water.    
 **Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead.

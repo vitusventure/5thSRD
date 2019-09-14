@@ -16,7 +16,7 @@ _Medium beast, unaligned_
 **Skills** Stealth +4    
 **Senses** blindsight 30 ft., passive Perception 9    
 **Languages** --    
-**Challenge** 1/8 (25 XP)  
+**Challenge** 1/8 (25 XP)
 
 **Amphibious.** The crab can breathe air and water.
 

@@ -16,7 +16,7 @@ _Large giant, lawful evil_
 **Skills** Arcana +5, Deception +8, Perception +4    
 **Senses** darkvision 60 ft., passive Perception 14    
 **Languages** Common, Giant    
-**Challenge** 7 (2,900 XP) 
+**Challenge** 7 (2,900 XP)
 
 **Innate Spellcasting.** The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:    
 At will: **_darkness, invisibility_**    

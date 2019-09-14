@@ -19,7 +19,7 @@ _Large dragon, lawful evil_
 **Condition Immunities** poisoned    
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17    
 **Languages** Common, Draconic    
-**Challenge** 8 (3,900 XP)  
+**Challenge** 8 (3,900 XP)
 
 **Amphibious.** The dragon can breathe air and water.
 

@@ -18,7 +18,7 @@ _Large dragon, chaotic evil_
 **Damage Immunities** acid    
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16    
 **Languages** Common, Draconic    
-**Challenge** 7 (2,900 XP) 
+**Challenge** 7 (2,900 XP)
 
 **Amphibious.** The dragon can breathe air and water.
 

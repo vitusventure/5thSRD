@@ -16,7 +16,7 @@ _Tiny beast, unaligned_
 **Skills** Perception +1, Stealth +3    
 **Senses** darkvision 30 ft., passive Perception 11    
 **Languages** --    
-**Challenge** 0 (0 XP)  
+**Challenge** 0 (0 XP)
 
 **Amphibious.** The frog can breathe air and water.    
 **Standing Leap.** The frog's long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start.

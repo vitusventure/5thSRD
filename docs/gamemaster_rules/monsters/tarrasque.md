@@ -18,7 +18,7 @@ _Gargantuan monstrosity (titan), unaligned_
 **Condition Immunities** charmed, frightened, paralyzed, poisoned   
 **Senses** blindsight 120ft., passive Perception 10   
 **Languages** -   
-**Challenge** 30 (155,000 XP)  
+**Challenge** 30 (155,000 XP)
 
 **Legendary Resistance (3/Day).** If the tarrasque fails a saving throw, it can choose to succeed instead.   
 **Magic Resistance.** The tarrasque has advantage on saving throws against spells and other magical effects.   

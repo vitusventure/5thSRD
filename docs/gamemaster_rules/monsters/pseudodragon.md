@@ -16,8 +16,9 @@ _Tiny dragon, neutral good_
 **Skills** Perception +3, Stealth +4    
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13    
 **Languages** understands Common and Draconic but can't speak    
-**Challenge** 1/4 (50 XP) Keen    
-**Senses** The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.    
+**Challenge** 1/4 (50 XP)
+
+**Keen Senses** The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.    
 **Magic Resistance.** The pseudodragon has advantage on saving throws against spells and other magical effects.    
 **Limited Telepathy.** The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
 

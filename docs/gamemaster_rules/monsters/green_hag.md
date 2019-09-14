@@ -16,7 +16,7 @@ _Medium fey, neutral evil_
 **Skills** Arcana +3, Deception +4, Perception +4, Stealth +3    
 **Senses** darkvision 60 ft., passive Perception 14    
 **Languages** Common, Draconic, Sylvan    
-**Challenge** 3 (700 XP) 
+**Challenge** 3 (700 XP)
 
 **Amphibious.** The hag can breathe air and water.    
 **Innate Spellcasting.** The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:    

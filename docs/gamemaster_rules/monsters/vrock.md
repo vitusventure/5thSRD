@@ -19,7 +19,7 @@ _Large fiend (demon), chaotic evil_
 **Condition Immunities** poisoned    
 **Senses** darkvision 120 ft., passive Perception 11    
 **Languages** Abyssal, telepathy 120 ft.    
-**Challenge** 6 (2,300 XP) 
+**Challenge** 6 (2,300 XP)
 
 **Magic Resistance.** The vrock has advantage on saving throws against spells and other magical effects.
 

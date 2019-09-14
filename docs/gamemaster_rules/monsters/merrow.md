@@ -15,7 +15,8 @@ _Large monstrosity, chaotic evil_
 
 **Senses** darkvision 60 ft., passive Perception 10    
 **Languages** Abyssal, Aquan    
-**Challenge** 2 (450 XP)    
+**Challenge** 2 (450 XP)
+
 **Amphibious.** The merrow can breathe air and water.
 
 ### Actions 
