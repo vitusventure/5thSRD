@@ -1,5 +1,5 @@
-name: Ettin
-type: giant
+name: Ettin    
+type: giant    
 cr: 4
 
 # Ettin 
@@ -7,7 +7,7 @@ _Large giant, chaotic evil_
 
 **Armor Class** 12 (natural armor)    
 **Hit Points** 85 (10d10 + 30)    
-**Speed** 40 ft. 
+**Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -16,12 +16,12 @@ _Large giant, chaotic evil_
 **Skills** Perception +4    
 **Senses** darkvision 60 ft., passive Perception 14    
 **Languages** Giant, Orc    
-**Challenge** 4 (1,100 XP) 
+**Challenge** 4 (1,100 XP)
 
 **Two Heads.** The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.    
-**Wakeful.** When one of the ettin's heads is asleep, its other head is awake. 
+**Wakeful.** When one of the ettin's heads is asleep, its other head is awake.
 
 ### Actions 
 **Multiattack.** The ettin makes two attacks: one with its battleaxe and one with its morningstar.    
 **Battleaxe.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) slashing damage.    
-**Morningstar.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) piercing damage.
+**Morningstar.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) piercing damage.    

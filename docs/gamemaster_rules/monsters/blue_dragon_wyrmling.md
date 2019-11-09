@@ -1,5 +1,5 @@
-name: Blue Dragon Wyrmling
-type: dragon
+name: Blue Dragon Wyrmling    
+type: dragon    
 cr: 3
 
 # Blue Dragon Wyrmling 
@@ -7,7 +7,7 @@ _Medium dragon, lawful evil_
 
 **Armor Class** 17 (natural armor)    
 **Hit Points** 52 (8d8 + 16)    
-**Speed** 30 ft., burrow 15 ft., fly 60 ft. 
+**Speed** 30 ft., burrow 15 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -18,8 +18,8 @@ _Medium dragon, lawful evil_
 **Damage Immunities** lightning    
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
 **Languages** Draconic    
-**Challenge** 3 (700 XP) 
+**Challenge** 3 (700 XP)
 
 ### Actions 
 **Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.    
-**Lightning Breath (Recharge 5–6).** The dragon exhales lightning in a 30-­foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+**Lightning Breath (Recharge 5–6).** The dragon exhales lightning in a 30-­foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.    

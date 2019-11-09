@@ -1,5 +1,5 @@
-name: Gold Dragon Wyrmling
-type: dragon
+name: Gold Dragon Wyrmling    
+type: dragon    
 cr: 3
 
 # Gold Dragon Wyrmling 
@@ -18,7 +18,7 @@ _Medium dragon, lawful evil_
 **Damage Immunities** fire    
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
 **Languages** Draconic    
-**Challenge** 3 (700 XP) 
+**Challenge** 3 (700 XP)
 
 ### Actions 
 **Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage.    

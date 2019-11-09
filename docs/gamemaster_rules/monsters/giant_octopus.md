@@ -1,5 +1,5 @@
-name: Giant Octopus
-type: beast
+name: Giant Octopus    
+type: beast    
 cr: 1
 
 # Giant Octopus 
@@ -7,19 +7,19 @@ _Large beast, unaligned_
 
 **Armor Class** 11    
 **Hit Points** 52 (8d10 + 8)    
-**Speed** 10 ft., swim 60 ft. 
+**Speed** 10 ft., swim 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 13 (+1) | 13 (+1) | 4 (−3)  | 10 (+0) | 4 (−3)  |  
+| 17 (+3) | 13 (+1) | 13 (+1) | 4 (−3)  | 10 (+0) | 4 (−3)  | 
 
 **Skills** Perception +4, Stealth +5    
 **Senses** darkvision 60 ft., passive Perception 14    
 **Languages** --    
-**Challenge** 1 (200 XP) 
+**Challenge** 1 (200 XP)
 
 **Hold Breath.** While out of water, the octopus can hold its breath for 1 hour.    
-**Underwater Camouflage.** The octopus has advantage on Dexterity (Stealth) checks made while underwater. Water Breathing. The octopus can breathe only underwater. 
+**Underwater Camouflage.** The octopus has advantage on Dexterity (Stealth) checks made while underwater. Water Breathing. The octopus can breathe only underwater.
 
 ### Actions 
 **Tentacles.** _Melee Weapon Attack:_ +5 to hit, reach 15 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can't use its tentacles on another target.    

@@ -1,5 +1,5 @@
-name: Frost Giant
-type: giant
+name: Frost Giant    
+type: giant    
 cr: 8
 
 # Frost Giant 
@@ -7,7 +7,7 @@ _Huge giant, neutral evil_
 
 **Armor Class** 15 (patchwork armor)    
 **Hit Points** 138 (12d12 + 60)    
-**Speed** 40 ft. 
+**Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -18,9 +18,9 @@ _Huge giant, neutral evil_
 **Damage Immunities** cold    
 **Senses** passive Perception 13    
 **Languages** Giant    
-**Challenge** 8 (3,900 XP) 
+**Challenge** 8 (3,900 XP)
 
 ### Actions 
 **Multiattack.** The giant makes two greataxe attacks.    
 **Greataxe.** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 25 (3d12 + 6) slashing damage.    
-**Rock.** _Ranged Weapon Attack:_ +9 to hit, range 60/240 ft., one target. _Hit:_ 28 (4d10 + 6) bludgeoning damage.
+**Rock.** _Ranged Weapon Attack:_ +9 to hit, range 60/240 ft., one target. _Hit:_ 28 (4d10 + 6) bludgeoning damage.    

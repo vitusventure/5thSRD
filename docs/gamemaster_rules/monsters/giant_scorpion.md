@@ -1,5 +1,5 @@
-name: Giant Scorpion
-type: beast
+name: Giant Scorpion    
+type: beast    
 cr: 3
 
 # Giant Scorpion 
@@ -11,11 +11,11 @@ _Large beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 13 (+1) | 15 (+2) | 1 (−5)  | 9 (−1)  | 3 (−4)  |  
+| 15 (+2) | 13 (+1) | 15 (+2) | 1 (−5)  | 9 (−1)  | 3 (−4)  | 
 
 **Senses** blindsight 60 ft., passive Perception 9    
 **Languages** --    
-**Challenge** 3 (700 XP) 
+**Challenge** 3 (700 XP)
 
 ### Actions 
 **Multiattack.** The scorpion makes three attacks: two with its claws and one with its sting.    

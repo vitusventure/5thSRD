@@ -1,5 +1,5 @@
-name: Giant Badger
-type: beast
+name: Giant Badger    
+type: beast    
 cr: .25
 
 # Giant Badger 
@@ -11,13 +11,13 @@ _Medium beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 10 (+0) | 15 (+2) | 2 (−4)  | 12 (+1) | 5 (−3)  |  
+| 13 (+1) | 10 (+0) | 15 (+2) | 2 (−4)  | 12 (+1) | 5 (−3)  | 
 
 **Senses** darkvision 30 ft., passive Perception 11    
 **Languages** --    
-**Challenge** 1/4 (50 XP) 
+**Challenge** 1/4 (50 XP)
 
-**Keen Smell.** The badger has advantage on Wisdom (Perception) checks that rely on smell. 
+**Keen Smell.** The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
 ### Actions 
 **Multiattack.** The badger makes two attacks: one with its bite and one with its claws.    

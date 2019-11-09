@@ -1,5 +1,5 @@
-name: Hawk
-type: beast
+name: Hawk    
+type: beast    
 cr: 0
 
 # Hawk 
@@ -11,14 +11,14 @@ _Tiny beast, unaligned_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 5 (−3)  | 16 (+3) | 8 (−1)  | 2 (−4)  | 14 (+2) | 6 (−2)  |  
+| 5 (−3)  | 16 (+3) | 8 (−1)  | 2 (−4)  | 14 (+2) | 6 (−2)  | 
 
 **Skills** Perception +4    
 **Senses** passive Perception 14    
 **Languages** --    
-**Challenge** 0 (10 XP) 
+**Challenge** 0 (10 XP)
 
-**Keen Sight.** The hawk has advantage on Wisdom (Perception) checks that rely on sight. 
+**Keen Sight.** The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 
 ### Actions 
 **Talons.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage. 

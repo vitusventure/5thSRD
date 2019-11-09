@@ -1,13 +1,13 @@
-name: Grimlock
-type: humanoid (grimlock)
+name: Grimlock    
+type: humanoid (grimlock)    
 cr: .25
 
-# Grimlock 
+# Grimlock
 _Medium humanoid (grimlock), neutral evil_
 
 **Armor Class** 11    
 **Hit Points** 11 (2d8 + 2)    
-**Speed** 30 ft. 
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -17,11 +17,11 @@ _Medium humanoid (grimlock), neutral evil_
 **Condition Immunities** blinded    
 **Senses** blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius), passive Perception 13    
 **Languages** Undercommon    
-**Challenge** 1/4 (50 XP)    
+**Challenge** 1/4 (50 XP)
 
-**Blind Senses**. The grimlock can't use its blindsight while deafened and unable to smell.    
+**Blind Senses.** The grimlock can't use its blindsight while deafened and unable to smell.    
 **Keen Hearing and Smell.** The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.    
-**Stone Camouflage.** The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain. 
+**Stone Camouflage.** The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-### Actions 
-**Spiked Bone Club.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
+### Actions
+**Spiked Bone Club.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.    

@@ -1,5 +1,5 @@
-name: Tribal Warrior
-type: humanoid (any race)
+name: Tribal Warrior    
+type: humanoid (any race)    
 cr: .125
 
 # Tribal Warrior 
@@ -11,17 +11,16 @@ _Medium humanoid (any race), any alignment_
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 11 (+0) | 12 (+1) | 8 (−1)  | 11 (+0) | 8 (−1)  |  
+| 13 (+1) | 11 (+0) | 12 (+1) | 8 (−1)  | 11 (+0) | 8 (−1)  | 
 
 **Senses** passive Perception 10    
 **Languages** any one language    
-**Challenge** 1/8 (25 XP) 
+**Challenge** 1/8 (25 XP)
 
-**Pack Tactics.** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated. 
+**Pack Tactics.** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ### Actions 
-**Spear.** _Melee or _Ranged Weapon Attack:__ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack. 
-
+**Spear.** _Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 ### Description
 Tribal warriors live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods. 

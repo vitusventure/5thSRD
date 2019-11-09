@@ -1,5 +1,5 @@
-name: Awakened Tree
-type: plant
+name: Awakened Tree    
+type: plant    
 cr: 2
 
 # Awakened Tree 
@@ -17,11 +17,11 @@ _Huge plant, unaligned_
 **Damage Resistances** bludgeoning, piercing    
 **Senses** passive Perception 10    
 **Languages** one language known by its creator    
-**Challenge** 2 (450 XP) 
+**Challenge** 2 (450 XP)
 
-**False Appearance.** While the tree remains motionless, it is indistinguishable from a normal tree. 
+**False Appearance.** While the tree remains motionless, it is indistinguishable from a normal tree.
 
-### Actions    
-**Slam.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 14 (3d6 + 4) bludgeoning damage. 
+### Actions
+**Slam.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 14 (3d6 + 4) bludgeoning damage.
 
 An awakened tree is an ordinary tree given sentience and mobility by the awaken spell or similar magic. 

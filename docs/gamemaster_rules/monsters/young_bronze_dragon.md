@@ -1,5 +1,5 @@
-name: Young Bronze Dragon
-type: dragon
+name: Young Bronze Dragon    
+type: dragon    
 cr: 8
 
 # Young Bronze Dragon 
@@ -7,7 +7,7 @@ _Large dragon, lawful good_
 
 **Armor Class** 18 (natural armor)    
 **Hit Points** 142 (15d10 + 60)    
-**Speed** 40 ft., fly 80 ft., swim 40 ft. 
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -18,9 +18,9 @@ _Large dragon, lawful good_
 **Damage Immunities** lightning    
 **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17    
 **Languages** Common, Draconic    
-**Challenge** 8 (3,900 XP) 
+**Challenge** 8 (3,900 XP)
 
-**Amphibious.** The dragon can breathe air and water. 
+**Amphibious.** The dragon can breathe air and water.
 
 ### Actions 
 **Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
@@ -28,4 +28,4 @@ _Large dragon, lawful good_
 **Claw.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage.    
 **Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
 **Lightning Breath.** The dragon exhales lightning in a 60- foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.    
-**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.    

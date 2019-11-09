@@ -1,5 +1,5 @@
-name: Animated Armor
-type: construct
+name: Animated Armor    
+type: construct    
 cr: 1
 
 # Animated Armor 
@@ -7,7 +7,7 @@ _Medium construct, unaligned_
 
 **Armor Class** 18 (natural armor)    
 **Hit Points** 33 (6d8 + 6)    
-**Speed** 25 ft. 
+**Speed** 25 ft.
 
 | STR      | DEX     | CON      | INT     | WIS     | CHA     |
 |----------|---------|----------|---------|---------|---------|
@@ -17,11 +17,11 @@ _Medium construct, unaligned_
 **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned    
 **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6    
 **Languages** --    
-**Challenge** 1 (200 XP) 
+**Challenge** 1 (200 XP)
 
 **Antimagic Susceptibility.** The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.    
-**False Appearance.** While the armor remains motionless, it is indistinguishable from a normal suit of armor. 
+**False Appearance.** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
 ### Actions 
 **Multiattack.** The armor makes two melee attacks.    
-**Slam.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage.
+**Slam.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage.    

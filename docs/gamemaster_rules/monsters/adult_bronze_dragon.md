@@ -1,5 +1,5 @@
-name: Adult Bronze Dragon
-type: dragon
+name: Adult Bronze Dragon    
+type: dragon    
 cr: 15
 
 # Adult Bronze Dragon 
@@ -7,7 +7,7 @@ _Huge dragon, lawful good_
 
 **Armor Class** 19 (natural armor)    
 **Hit Points** 212 (17d12 + 102)    
-**Speed** 40 ft., fly 80 ft., swim 40 ft. 
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -18,10 +18,10 @@ _Huge dragon, lawful good_
 **Damage Immunities** lightning    
 **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22    
 **Languages** Common, Draconic    
-**Challenge** 15 (13,000 XP) 
+**Challenge** 15 (13,000 XP)
 
 **Amphibious.** The dragon can breathe air and water.    
-**Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead. 
+**Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead.
 
 ### Actions 
 **Multiattack.** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.    
@@ -33,10 +33,10 @@ _Huge dragon, lawful good_
 **Lightning Breath.** The dragon exhales lightning in a 90- foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.    
 **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.    
 **Change Shape.** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).    
-In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form. 
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
 ### Legendary Actions 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.    
 **Detect.** The dragon makes a Wisdom (Perception) check.    
 **Tail Attack.** The dragon makes a tail attack.    
-**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.    
