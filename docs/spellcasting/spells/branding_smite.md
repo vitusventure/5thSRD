@@ -7,7 +7,7 @@ classes: paladin
 
 _2nd-level evocation_
 
-**Casting Time: 1 bonus action
+**Casting Time:** 1 bonus action
 **Range:** Self
 **Components:** V
 **Duration:** Concentration, up to 1 minute
