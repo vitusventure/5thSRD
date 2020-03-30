@@ -22,4 +22,5 @@ _Medium fey, chaotic neutral_
 
 ### Actions 
 **Ram.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) bludgeoning damage.    
-**Shortsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage. Shortbow. _Ranged Weapon Attack:_ +5 to hit, range 80/320 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
+**Shortsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.    
+**Shortbow.** _Ranged Weapon Attack:_ +5 to hit, range 80/320 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
