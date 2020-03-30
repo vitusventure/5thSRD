@@ -24,5 +24,6 @@ _Medium elemental, neutral_
 **Treasure Sense.** The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of it. 
 
 ### Actions 
-**Multiattack.** The xorn makes three claw attacks and one bite attack. Claw. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.    
+**Multiattack.** The xorn makes three claw attacks and one bite attack.    
+**Claw.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.    
 **Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (3d6 + 3) piercing damage.
