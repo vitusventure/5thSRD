@@ -14,7 +14,7 @@ _Gargantuan monstrosity (titan), unaligned_
 | 30 (+10) | 11 (+0) | 30 (+10) | 3 (-4)  | 11 (+0) | 11 (+0) |
 
 **Saving Throws** Int +5, Wis +9, Cha +9   
-**Damage Immunities** fire, poison; bludegoning, piercing, and slashing from nonmagical attacks   
+**Damage Immunities** fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks   
 **Condition Immunities** charmed, frightened, paralyzed, poisoned   
 **Senses** blindsight 120ft., passive Perception 10   
 **Languages** -   
