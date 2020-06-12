@@ -4,6 +4,7 @@ school: evocation
 classes: sorcerer
          wizard
 
+# Cone of Cold
 _5th-level evocation_ 
 
 **Casting Time:** 1 action    
