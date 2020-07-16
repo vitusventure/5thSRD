@@ -3,7 +3,7 @@ type: humanoid (elf)
 cr: .25
 
 # Elf, Drow 
-_Medium humanoid (elf), neutral evil_
+_Medium humanoid (elf), neutral evil_   
 **Armor Class** 15 (chain shirt)    
 **Hit Points** 13 (3d8)    
 **Speed** 30 ft. 
