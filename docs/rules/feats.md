@@ -97,8 +97,8 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
 <p>You sprout draconic wings. With your wings, you have a flying speed of 20 feet if you aren’t wearing heavy armor and aren’t exceeding your carrying capacity.</p>
 
 ## Drow Hide Magic (XGE)
-**Prerequisite:** Elf (drow)<br>
-You learn more of the magic typical of dark elves. You learn the detect magic spell and can cast it at will, without expending a spell slot. You also learn levitate and dispel magic, each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest.  
+**Prerequisite:** Elf (drow)
+<p>You learn more of the magic typical of dark elves. You learn the detect magic spell and can cast it at will, without expending a spell slot. You also learn levitate and dispel magic, each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest.</p>
 Charisma is your spellcasting ability for all three spells.
 
 ## Drow High Magic (UA: Feats for Races)
@@ -142,9 +142,9 @@ Hardy and resilient, you gain the following benefits:
 * Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
 
 ## Elemental Adept
-**Prerequisite:** The ability to cast at least one spell<br>
-When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder.
-Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
+**Prerequisite:** The ability to cast at least one spell  
+When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder.  
+Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.  
 You can select this feat multiple times. Each time you do so, you must choose a different damage type.
 
 ## Elven Accuracy (UA: Feats for Races)
@@ -175,7 +175,7 @@ You can select this feat multiple times. Each time you do so, you must choose a 
 * Increase your Intelligence score by 1, up to a maximum of 20.
 * When you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can’t do so again until you finish a short or long rest.
 
-Fade Away (XGE)
+## Fade Away (XGE)
 **Prerequisite:** Gnome
 <p>Your people are Clever, with a knack for illusion magic. You have learned a magical trick for fading away when you suffer harm. You gain the following benefits:</p>
 
@@ -280,8 +280,8 @@ You are an able physician, allowing you to mend wounds quickly and get your alli
 * You have advantage on saving throws against being poisoned.
 
 ## Inspiring Leader
-**Prerequisite:** Charisma 13 or higher<br>
-You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier.  
+**Prerequisite:** Charisma 13 or higher
+<p>You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier.</p>
 A creature can’t gain temporary hit points from this feat again until it has finished a short or long rest.
 
 ## Keen Mind
@@ -306,10 +306,10 @@ You have studied languages and codes, gaining the following benefits:
 * You can ably create written ciphers. Others can’t decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.
 
 ## Lucky
-You have inexplicable luck that seems to kick in at just the right moment.
-You have 3 luck points. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw.
-You can also spend one luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker’s roll or yours.
-If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.
+You have inexplicable luck that seems to kick in at just the right moment.  
+You have 3 luck points. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw.  
+You can also spend one luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker’s roll or yours.  
+If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.  
 You regain your expended luck points when you finish a long rest.
 
 ## Mage Slayer
@@ -320,9 +320,9 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
 * You have advantage on saving throws against spells cast by creatures within 5 feet of you.
 
 ## Magic Initiate
-Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard.
-You learn two cantrips of your choice from that class’s spell list.
-In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.  
+Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard.  
+You learn two cantrips of your choice from that class’s spell list.  
+In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.   
 Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid: or Intelligence for wizard.
 
 ## Martial Adept
@@ -332,8 +332,8 @@ You have martial training that allows you to perform special combat maneuvers. Y
 * If you already have superiority dice, you gain one more; otherwise, you have one superiority die, which is a d6. This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 ## Medium Armor Master
-**Prerequisite:** Proficiency with medium armor<br>
-You have practiced moving in medium armor to gain the following benefits:
+**Prerequisite:** Proficiency with medium armor
+<p>You have practiced moving in medium armor to gain the following benefits:</p>
 
 * Wearing medium armor doesn’t impose disadvantage on your Dexterity (Stealth) checks.
 * When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
@@ -346,8 +346,8 @@ You are exceptionally speedy and agile. You gain the following benefits:
 * When you make a melee attack against a creature, you don’t provoke opportunity attacks from that creature for the rest o f the turn, whether you hit or not.
 
 ## Moderately Armored
-**Prerequisite:** Proficiency with light armor<br>
-You have trained to master the use of medium armor and shields, gaining the following benefits:
+**Prerequisite:** Proficiency with light armor
+<p>You have trained to master the use of medium armor and shields, gaining the following benefits:</p>
 
 * Increase your Strength or Dexterity score by 1, to a maximum of 20.
 * You gain proficiency with medium armor and shields.
@@ -367,20 +367,20 @@ Quick to notice details of your environment, you gain the following benefits:
 * You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.
 
 ## Orchish Fury (XGE)
-**Prerequisite:** Half-orc<br>
-Your inner fury burns tirelessly. You gain the following benefits:
+**Prerequisite:** Half-orc
+<p>Your inner fury burns tirelessly. You gain the following benefits:</p>
 
 * Increase your Strength or Constitution score by 1, to a maximum of 20.
 * When you hit with an attack using a simple or martial weapon, you can roll one of the weapon’s damage dice an additional time and add it as extra damage of the weapon’s damage type. Once you use this ability, you can’t use it again until you finish a short or long rest.
 * Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.
 
 ## Orcish Aggression (UA: Feats for Races)
-**Prerequisite:** Half-orc<br>
-As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.
+**Prerequisite:** Half-orc
+<p>As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.</p>
 
 ## Orcish Fury (UA: Feats for Races)
-**Prerequisite:** Half-orc<br>
-Your fury burns tirelessly. You gain the following benefits:
+**Prerequisite:** Half-orc
+<p>Your fury burns tirelessly. You gain the following benefits:</p>
 
 * Increase your Strength or Constitution score by 1, up to a maximum of 20.
 * When you hit with an attack made with a simple or martial weapon, you can roll one of the weapon’s damage dice an additional time and add it as extra damage of the weapon’s damage type. Once you use this ability, you can’t use it again until you finish a short or long rest.
@@ -393,15 +393,15 @@ You can keep your enemies at bay with reach weapons. You gain the following bene
 * While you are wielding a glaive, halberd, pike, or quarterstaff, other creatures provoke an opportunity attack from you when they enter your reach.
 
 ## Prodigy (UA: Feats for Races)
-**Prerequisite:** Half-elf or human<br>
-You have a knack for learning new things. You gain the following benefits:
+**Prerequisite:** Half-elf or human
+<p>You have a knack for learning new things. You gain the following benefits:</p>
 
 * Increase one ability score of your choice by 1, to a maximum of 20.
 * You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
 
 ## Prodigy (XGE)
-**Prerequisite:** Half-elf, half-orc, or human<br>
-You have a knack for learning new things. You gain the following benefits:
+**Prerequisite:** Half-elf, half-orc, or human
+<p>You have a knack for learning new things. You gain the following benefits:</p>
 
 * You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
 * Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn’t already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.
@@ -413,8 +413,8 @@ Choose one ability score. You gain the following benefits:
 * You gain proficiency in saving throws using the chosen ability.
 
 ## Ritual Caster
-**Prerequisite:** Intelligence or Wisdom 13 or higher<br>
-You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
+**Prerequisite:** Intelligence or Wisdom 13 or higher
+<p>You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.</p>
 When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class’s spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.  
 If you come across a spell in written form, such as a magical spell scroll or a wizard’s spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
 
@@ -422,15 +422,15 @@ If you come across a spell in written form, such as a magical spell scroll or a 
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
 
 ## Second Chance (UA: Feats for Races)
-**Prerequisite:** Halfling<br>
-Fortune favors you. You gain the following benefits:
+**Prerequisite:** Halfling
+<p>Fortune favors you. You gain the following benefits:</p>
 
 * Increase your Dexterity, Constitution, or Charisma score by 1, to a maximum of 20.
 * When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can’t do so again until you finish a short or long rest.
 
 ## Second Chance (XGE)
-**Prerequisite:** Halfling<br>
-Fortune favors you when someone tries to strike you. You gain the following benefits:
+**Prerequisite:** Halfling
+<p>Fortune favors you when someone tries to strike you. You gain the following benefits:</p>
 
 * Increase your Dexterity, Constitution or Charisma score by 1, to a maximum of 20.
 * When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can’t use it again until you roll initiative at the start of combat or until you finish a short or long rest.
@@ -460,16 +460,16 @@ You use shields not just for protection but also for offense. You gain the follo
 You gain proficiency in any combination of three skills or tools of your choice.
 
 ## Skulker
-**Prerequisite:** Dexterity 13 or higher<br>
-You are expert at slinking through shadows. You gain the following benefits:
+**Prerequisite:** Dexterity 13 or higher
+<p>You are expert at slinking through shadows. You gain the following benefits:</p>
 
 * You can try to hide when you are lightly obscured from the creature from which you are hiding.
 * When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
 * Dim light doesn’t impose disadvantage on your Wisdom (Perception) checks relying on sight.
 
 ## Spell Sniper
-**Prerequisite:** The ability to cast at least one spell<br>
-You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
+**Prerequisite:** The ability to cast at least one spell
+<p>You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:</p>
 
 * When you cast a spell that requires you to make an attack roll, the spell’s range is doubled.
 * Your ranged spell attacks ignore half cover and three-quarters cover.
@@ -477,16 +477,16 @@ You have learned techniques to enhance your attacks with certain kinds of spells
 Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
 ## Squat Nimbleness (UA: Feats for Races)
-**Prerequisite:** Dwarf, gnome, or halfling<br>
-You are uncommonly nimble for your race. You gain the following benefits:
+**Prerequisite:** Dwarf, gnome, or halfling
+<p>You are uncommonly nimble for your race. You gain the following benefits:</p>
 
 * Increase your Strength or Dexterity score by 1, to a maximum of 20.
 * Increase your walking speed by 5 feet.
 * You gain proficiency in the Acrobatics or Athletics skill. If you’re already proficient in the skill, your proficiency bonus is doubled for any check you make with it.
 
 ## Squat Nimbleness (XGE)
-**Prerequisite:** Dwarf or a Small race<br>
-You are uncommonly nimble for your race. You gain the following benefits:
+**Prerequisite:** Dwarf or a Small race
+<p>You are uncommonly nimble for your race. You gain the following benefits:</p>
 
 * Increase your Strength or Dexterity score by 1, to a maximum of 20.
 * Increase your walking speed by 5 feet.
@@ -505,8 +505,8 @@ Accustomed to rough-and-tumble fighting using whatever weapons happen to be at h
 Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
 
 ## War Caster
-**Prerequisite:** The ability to cast at least one spell<br>
-You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
+**Prerequisite:** The ability to cast at least one spell
+<p>You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:</p>
 
 * You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
 * You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
@@ -519,8 +519,8 @@ You have practiced extensively with a variety of weapons, gaining the following 
 * You gain proficiency with four weapons of your choice.
 
 ## Wonder Maker (UA: Feats for Races)
-**Prerequisite:** Gnome (rock)<br>
-You master the tinker techniques of your people. You gain the following benefits:
+**Prerequisite:** Gnome (rock)
+<p>You master the tinker techniques of your people. You gain the following benefits:</p>
 
 * Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
 * When you make a check using your proficiency with tinker’s tools, you add double your proficiency bonus to the check.
@@ -537,9 +537,9 @@ You master the tinker techniques of your people. You gain the following benefits
 	**Weather Sensor.** When used as an action, this device predicts weather conditions in a 1-mile radius over the next 4 hours, showing one symbol (clouds, sun/moon, rain, or snow) for each hour.
 
 ## Wood Elf Magic (UA: Feats for Races)
-**Prerequisite:** Elf (wood)<br>
-You learn the magic of the primeval woods. You learn one druid cantrip of your choice. You also learn longstrider and pass without trace, each of which you can cast once without expending a spell slot. You regain the ability to cast the spell in this way when you finish a long rest. Wisdom is your spellcasting ability for these spells.
+**Prerequisite:** Elf (wood)
+<p>You learn the magic of the primeval woods. You learn one druid cantrip of your choice. You also learn longstrider and pass without trace, each of which you can cast once without expending a spell slot. You regain the ability to cast the spell in this way when you finish a long rest. Wisdom is your spellcasting ability for these spells.</p>
 
 ## Wood Elf Magic (XGE)
-**Prerequisite:** Elf (wood)<br>
-You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the long strider and pass without trace spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.
+**Prerequisite:** Elf (wood)
+<p>You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the long strider and pass without trace spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.</p>
