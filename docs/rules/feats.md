@@ -26,8 +26,8 @@ You have undergone extensive physical training to gain the following benefits:
 * You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
 ## Barbed Hide (UA: Feats for Races)
-<p>**Prerequisite:** Tiefling</p>
-One of your ancestors was a barbed devil or other spiky fiend. Barbs protrude from your head. You gain the following benefits:
+**Prerequisite:** Tiefling
+<p>One of your ancestors was a barbed devil or other spiky fiend. Barbs protrude from your head. You gain the following benefits:</p>
 
 * Increase your Constitution or Charisma score by 1, up to a maximum of 20.
 * As a bonus action, you can cause small barbs to protrude all over your body or cause them to retract. At the start of each of your turns while the barbs are out, you deal 1d6 piercing damage to any creature grappling you or any creature grappled by you.
