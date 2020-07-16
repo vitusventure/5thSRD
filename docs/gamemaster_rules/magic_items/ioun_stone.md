@@ -10,7 +10,8 @@ A stone has AC 24, 10 hit points, and resistance to all damage. It is considered
 **Absorption (Very Rare).** While this pale lavender ellipsoid orbits your head, you can use your reaction to cancel a spell of 4th level or lower cast by a creature you can see and targeting only you.    
 Once the stone has canceled 20 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.    
 **Agility (Very Rare).** Your Dexterity score increases by 2, to a maximum of 20, while this deep red sphere orbits your head.    
-**Awareness (Rare).** You can't be surprised while this dark blue rhomboid orbits your head. Fortitude (Very Rare). Your Constitution score increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.    
+**Awareness (Rare).** You can't be surprised while this dark blue rhomboid orbits your head.    
+**Fortitude (Very Rare).** Your Constitution score increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.    
 **Greater Absorption (Legendary).** While this marbled lavender and green ellipsoid orbits your head, you can use your reaction to cancel a spell of 8th level or lower cast by a creature you can see and targeting only you.    
 Once the stone has canceled 50 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.    
 **Insight (Very Rare).** Your Wisdom score increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head.    
