@@ -1,5 +1,5 @@
 name: Phase Spider
-type: beast
+type: monstrosity
 cr: 3
 
 # Phase Spider 
