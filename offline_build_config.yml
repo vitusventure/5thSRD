@@ -7,10 +7,9 @@ theme:
   custom_dir: purecss_theme
 site_dir: 5thsrd_offline
 use_directory_urls: false
-plugins:plugins:
+plugins:
   - mkdocs-simple-hooks:
       hooks:
         {on_post_page: "plugins.table-styler:style_tables"}
-
 extra:
    enable_ads: no
