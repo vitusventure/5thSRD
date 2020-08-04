@@ -78,7 +78,9 @@ a {
 #home-link {
     padding-top: 8px;
 }
-
+.responsive-table {
+    overflow-x: auto;
+}
 @media screen and (min-width: 64em) {
     #top-nav {
         max-width: 200px;
