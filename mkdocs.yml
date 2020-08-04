@@ -6,7 +6,10 @@ google_analytics: ["UA-72655850-1", '5thsrd.org']
 theme:
   name: null
   color: "rgb(216, 25, 33)" # Match with @brand-primary in variables.less
-  custom_dir: 5thsrd_theme
-plugins: []
+  custom_dir: purecss_theme
+plugins:
+  - mkdocs-simple-hooks:
+      hooks:
+        {on_post_page: "plugins.table-styler:style_tables"}
 extra:
   enable_ads: yes

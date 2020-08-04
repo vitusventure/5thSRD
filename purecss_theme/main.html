@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        {% if config.theme.color %}<meta name="theme-color" content="{{ config.theme.color }}">{% endif %}
+        {% if config.site_description %}<meta name="description" content="{{ config.site_description }}">{% endif %}
+        {% if config.site_author %}<meta name="author" content="{{ config.site_author }}">{% endif %}
+        {% if page.canonical_url %}<link rel="canonical" href="{{ page.canonical_url }}">{% endif %}
+        <link rel="shortcut icon" href="{{ base_url }}/img/favicon.ico">
+
+        <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
+
+        <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css">
+
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+        {% if config.google_analytics %}
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', '{{ config.google_analytics[0] }}', '{{ config.google_analytics[1] }}');
+            ga('send', 'pageview');
+        </script>
+        {% endif %}
+
+        <style>
+            .l-box {
+                padding: 1em;
+            }
+            #content {
+                background-image: url("/img/hex.png");
+                background-repeat: repeat-x;
+            }
+            #toc {
+                background-color: white;
+                border: 1px solid;
+                max-width: 400px;
+            }
+            #toc a {
+                color: #d81921;
+            }
+            #toc .pure-menu-heading {
+                color: #d81921;
+                text-transform: none;
+                white-space: normal;
+                font-weight: bold;
+            }
+            .pure-table {
+                background-color: white;
+            }
+            a {
+                color: #d81921;
+                text-decoration: none;
+            }
+            #toc.pure-menu-link {
+                color: black;
+            }
+            #top-nav ul li {
+                background-color: #d81921;
+            }
+            #top-nav {
+                background-color: #d81921;
+                display: block;
+            }
+            #top-nav a {
+                color: white;
+            }
+            #top-nav .pure-menu-heading {
+                font-size: larger;
+                font-weight: bold;
+            }
+            #top-nav a:hover{
+                background-color: #aa141c;
+            }
+            #top-nav .pure-menu-active>.pure-menu-link{
+                background-color: #aa141c;
+            }
+            .pure-menu-selected>.pure-menu-link, .pure-menu-selected>.pure-menu-link:visited {
+                background-color: #aa141c;
+            }
+            .pure-menu-heading {
+                text-transform: none;
+            }
+            #top-nav .pure-menu-children {
+                left: 0;
+                top: 100%;
+                margin-left: 15px;
+                border: 1px solid black;
+            }
+            #main-nav-body {
+                display: none;
+            }
+            #menu-toggle {
+                width: 25;
+                height: 25;
+                text-align: right;
+            }
+            #menu-toggle .button-small {
+                background-color: #d81921;
+            }
+            #home-link {
+                padding-top: 8px;
+            }
+
+            @media screen and (min-width: 64em) {
+                #top-nav {
+                    max-width: 200px;
+                }
+                #main-nav-body {
+                    display: block;
+                }
+                #menu-toggle {
+                    display: none;
+                }
+            }
+        </style>
+
+       {% if config.extra.enable_ads %}
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({
+                    google_ad_client: "ca-pub-7526144995854530",
+                    enable_page_level_ads: true
+                });
+            </script>
+       {% endif %}
+    </head>
+
+    <body>
+        <div id="content" class="pure-g">
+                {% include "nav.html" %}
+                <div class="pure-u-1 pure-u-lg-5-6">
+                    <div class="l-box">
+                        {% include "toc.html" %}
+
+                        {{ page.content }}
+                    </div>
+                </div>
+        </div>
+
+        <footer>
+            <hr>
+            <div style="text-align: center; padding-left: 1em; padding-right: 1em;">
+                <p>Questions or comments can be directed to <a href="mailto:john@5thsrd.org">john@5thsrd.org</a>.  Theme provided by <a href="https://github.com/ron-reaser">Reaser</a>.</p>
+                {% if config.copyright %}
+                    <p>{{ config.copyright }}</p>
+                {% endif %}
+                <p>{% if config.repo_url %}Check out the <a href="{{ config.repo_url }}">GitHub</a> repo.  {% endif %}Website built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+                <p>Download the offline version of this site <a href="{{ base_url }}/5thsrd_offline.zip">here</a>.</p>
+            </div>
+       </footer>
+        <script>
+            /* Mobile menu toggle */
+            function toggleMainNav() {
+                var nav = document.getElementById("main-nav-body");
+                if (nav.style.display == "block") {
+                    nav.style.display = "none";
+                } else {
+                    nav.style.display = "block";
+                }
+            }
+
+            /* eslint no-unused-vars:0 no-prototype-builtins:0 */
+            (function (window, document) {
+                'use strict';
+
+                // Enable drop-down menus in Pure
+                // Inspired by YUI3 gallery-simple-menu by Julien LeComte
+                // [https://github.com/yui/yui3-gallery/blob/master/src/gallery-simple-menu/js/simple-menu.js]
+
+                function PureDropdown(dropdownParent) {
+
+                    var PREFIX = 'pure-',
+                        ACTIVE_CLASS_NAME = PREFIX + 'menu-active',
+                        ARIA_ROLE = 'role',
+                        ARIA_HIDDEN = 'aria-hidden',
+                        MENU_OPEN = 0,
+                        MENU_CLOSED = 1,
+                        MENU_ACTIVE_SELECTOR = '.pure-menu-active',
+                        MENU_LINK_SELECTOR = '.pure-menu-link',
+                        MENU_SELECTOR = '.pure-menu-children',
+                        DISMISS_EVENT = (window.hasOwnProperty &&
+                            window.hasOwnProperty('ontouchstart')) ?
+                            'touchstart' : 'mousedown',
+
+                        ARROW_KEYS_ENABLED = true,
+
+                        ddm = this; // drop down menu
+
+                    this._state = MENU_CLOSED;
+
+                    this.show = function () {
+                        if (this._state !== MENU_OPEN) {
+                            this._dropdownParent.classList.add(ACTIVE_CLASS_NAME);
+                            this._menu.setAttribute(ARIA_HIDDEN, false);
+                            this._state = MENU_OPEN;
+                        }
+                    };
+
+                    this.hide = function () {
+                        if (this._state !== MENU_CLOSED) {
+                            this._dropdownParent.classList.remove(ACTIVE_CLASS_NAME);
+                            this._menu.setAttribute(ARIA_HIDDEN, true);
+                            this._link.focus();
+                            this._state = MENU_CLOSED;
+                        }
+                    };
+
+                    this.toggle = function () {
+                        this[this._state === MENU_CLOSED ? 'show' : 'hide']();
+                    };
+
+                    this.halt = function (e) {
+                        e.stopPropagation();
+                        e.preventDefault();
+                    };
+
+                    this._dropdownParent = dropdownParent;
+                    this._link = this._dropdownParent.querySelector(MENU_LINK_SELECTOR);
+                    this._menu = this._dropdownParent.querySelector(MENU_SELECTOR);
+                    this._firstMenuLink = this._menu.querySelector(MENU_LINK_SELECTOR);
+
+                    // Set ARIA attributes
+                    this._link.setAttribute('aria-haspopup', 'true');
+                    this._menu.setAttribute(ARIA_ROLE, 'menu');
+                    this._menu.setAttribute('aria-labelledby', this._link.getAttribute('id'));
+                    this._menu.setAttribute('aria-hidden', 'true');
+                    [].forEach.call(
+                        this._menu.querySelectorAll('li'),
+                        function(el){
+                            el.setAttribute(ARIA_ROLE, 'presentation');
+                        }
+                    );
+                    [].forEach.call(
+                        this._menu.querySelectorAll('a'),
+                        function(el){
+                            el.setAttribute(ARIA_ROLE, 'menuitem');
+                        }
+                    );
+
+                    // Toggle on click
+                    this._link.addEventListener('click', function (e) {
+                        e.stopPropagation();
+                        e.preventDefault();
+                        ddm.toggle();
+                    });
+
+                    // Keyboard navigation
+                    document.addEventListener('keydown', function (e) {
+                        var currentLink,
+                            previousSibling,
+                            nextSibling,
+                            previousLink,
+                            nextLink;
+
+                        // if the menu isn't active, ignore
+                        if (ddm._state !== MENU_OPEN) {
+                            return;
+                        }
+
+                        // if the menu is the parent of an open, active submenu, ignore
+                        if (ddm._menu.querySelector(MENU_ACTIVE_SELECTOR)) {
+                            return;
+                        }
+
+                        currentLink = ddm._menu.querySelector(':focus');
+
+                        // Dismiss an open menu on ESC
+                        if (e.keyCode === 27) {
+                            /* Esc */
+                            ddm.halt(e);
+                            ddm.hide();
+                        }
+                        // Go to the next link on down arrow
+                        else if (ARROW_KEYS_ENABLED && e.keyCode === 40) {
+                            /* Down arrow */
+                            ddm.halt(e);
+                            // get the nextSibling (an LI) of the current link's LI
+                            nextSibling = (currentLink) ? currentLink.parentNode.nextSibling : null;
+                            // if the nextSibling is a text node (not an element), go to the next one
+                            while (nextSibling && nextSibling.nodeType !== 1) {
+                                nextSibling = nextSibling.nextSibling;
+                            }
+                            nextLink = (nextSibling) ? nextSibling.querySelector('.pure-menu-link') : null;
+                            // if there is no currently focused link, focus the first one
+                            if (!currentLink) {
+                                ddm._menu.querySelector('.pure-menu-link').focus();
+                            }
+                            else if (nextLink) {
+                                nextLink.focus();
+                            }
+                        }
+                        // Go to the previous link on up arrow
+                        else if (ARROW_KEYS_ENABLED && e.keyCode === 38) {
+                            /* Up arrow */
+                            ddm.halt(e);
+                            // get the currently focused link
+                            previousSibling = (currentLink) ? currentLink.parentNode.previousSibling : null;
+                            while (previousSibling && previousSibling.nodeType !== 1) {
+                                previousSibling = previousSibling.previousSibling;
+                            }
+                            previousLink = (previousSibling) ? previousSibling.querySelector('.pure-menu-link') : null;
+                            // if there is no currently focused link, focus the last link
+                            if (!currentLink) {
+                                ddm._menu.querySelector('.pure-menu-item:last-child .pure-menu-link').focus();
+                            }
+                            // else if there is a previous item, go to the previous item
+                            else if (previousLink) {
+                                previousLink.focus();
+                            }
+                        }
+                    });
+
+                    // Dismiss an open menu on outside event
+                    document.addEventListener(DISMISS_EVENT, function (e) {
+                        var target = e.target;
+                        if (target !== ddm._link && !ddm._menu.contains(target)) {
+                            ddm.hide();
+                            ddm._link.blur();
+                        }
+                    });
+
+                }
+
+                function initDropdowns() {
+                    var dropdownParents = document.querySelectorAll('.pure-menu-has-children');
+                    for (var i = 0; i < dropdownParents.length; i++) {
+                        var ddm = new PureDropdown(dropdownParents[i]);
+                    }
+                }
+
+                initDropdowns();
+
+            }(this, this.document));
+
+
+            (function (window, document) {
+
+                var layout   = document.getElementById('layout'),
+                    menu     = document.getElementById('menu'),
+                    menuLink = document.getElementById('menuLink');
+
+                function toggleClass(element, className) {
+                    var classes = element.className.split(/\s+/),
+                        length = classes.length,
+                        i = 0;
+
+                    for (; i < length; i++) {
+                        if (classes[i] === className) {
+                            classes.splice(i, 1);
+                            break;
+                        }
+                    }
+                    // The className is not found
+                    if (length === classes.length) {
+                        classes.push(className);
+                    }
+
+                    element.className = classes.join(' ');
+                }
+
+                function toggleAll(e) {
+                    var active = 'active';
+
+                    e.preventDefault();
+                    toggleClass(layout, active);
+                    toggleClass(menu, active);
+                    toggleClass(menuLink, active);
+                }
+                
+                function handleEvent(e) {
+                    if (e.target.id === menuLink.id) {
+                        return toggleAll(e);
+                    }
+                    
+                    if (menu.className.indexOf('active') !== -1) {
+                        return toggleAll(e);
+                    }
+                }
+                
+                document.addEventListener('click', handleEvent);
+
+            }(this, this.document));
+        </script>
+    </body>
+</html>
+{% if page and page.is_homepage %}
+<!--
+MkDocs version : {{ mkdocs_version }}
+Build Date UTC : {{ build_date_utc }}
+-->
+{% endif %}

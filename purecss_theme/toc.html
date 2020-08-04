@@ -1,0 +1,12 @@
+<div id="toc" class="pure-menu">
+    <ul class="pure-menu-list">
+    {% for toc_item in page.toc %}
+        <span class="pure-menu-heading">{{ toc_item.title }}</span>
+        {% for toc_item in toc_item.children %}
+        <li class="pure-menu-item {% if toc_item.active %}pure-menu-selected{% endif %}">
+            <a href="{{ toc_item.url }}" class="pure-menu-link">{{ toc_item.title }}</a>
+        </li>
+        {% endfor %}
+    {% endfor %}
+    </ul>
+</div>

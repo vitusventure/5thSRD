@@ -1,0 +1,35 @@
+<div id="top-nav" class="pure-menu pure-u-1 pure-u-lg-1-6">
+    <span class="pure-menu-heading pure-g ">
+        <a href="/" class="pure-u-1-3" class="pure-menu-link" id="home-link">5thSRD</a>
+        <div class="pure-u-2-3" id="menu-toggle">
+            <a class="pure-button button-small" href="javascript:void(0);" onclick="toggleMainNav()">
+                <svg viewBox="0 0 100 80" width="15" height="15">
+                    <rect width="100" height="20" fill="white"></rect>
+                    <rect y="30" width="100" height="20" fill="white"></rect>
+                    <rect y="60" width="100" height="20" fill="white"></rect>
+                </svg>
+            </a>
+        </div>
+    </span>
+    <ul class="pure-menu-list" id="main-nav-body">
+        {% for nav_item in nav if nav_item.title not in ("Home", "Search", "Search the SRD", "Legal Information", "License") %}
+            {% if nav_item.children %}
+                <li class="pure-menu-item {{ 'pure-menu-selected' if nav_item.active }} pure-menu-has-children pure-menu-allow-hover">
+                    <a href="#" class="pure-menu-link">{{ nav_item.title }}</a>
+                    <ul class="pure-menu-children">
+                        {% for nav_item in nav_item.children %}
+                            {% include "nav-sub.html" %}
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% else %}
+                <li class="pure-menu-item {{ 'pure-menu-selected' if nav_item.active }}">
+                    <a href="{{ nav_item.url|url }}" class="pure-menu-link">{{ nav_item.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+        <li class="pure-menu-item">
+            <a href="{{ nav.homepage.url }}/search/" class="pure-menu-link"> Search </a>
+        </li>
+    </ul>
+</div>
