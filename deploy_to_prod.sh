@@ -26,3 +26,4 @@ aws s3 sync ./site/ s3://5thsrd.org/ --region="us-east-1" --delete
 # Set Cache-Control on static resources
 s3cmd modify --recursive s3://5thsrd.org/css/ --add-header=Cache-Control:max-age=604800 -v
 s3cmd modify --recursive s3://5thsrd.org/js/ --add-header=Cache-Control:max-age=604800 -v
+s3cmd modify --recursive s3://5thsrd.org/img/ --add-header=Cache-Control:max-age=604800 -v
