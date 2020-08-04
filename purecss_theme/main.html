@@ -14,6 +14,7 @@
 
         <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
         <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css">
+        <link rel="stylesheet" href="/css/site.min.css">
 
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
@@ -32,103 +33,7 @@
             ga('send', 'pageview');
         </script>
         {% endif %}
-
-        <style>
-            .l-box {
-                padding: 1em;
-            }
-            #content {
-                background-image: url("/img/hex.png");
-                background-repeat: repeat-x;
-            }
-            #toc {
-                background-color: white;
-                border: 1px solid;
-                max-width: 400px;
-            }
-            #toc a {
-                color: #d81921;
-            }
-            #toc .pure-menu-heading {
-                color: #d81921;
-                text-transform: none;
-                white-space: normal;
-                font-weight: bold;
-            }
-            .pure-table {
-                background-color: white;
-            }
-            a {
-                color: #d81921;
-                text-decoration: none;
-            }
-            #toc.pure-menu-link {
-                color: black;
-            }
-            #top-nav ul li {
-                background-color: #d81921;
-            }
-            #top-nav {
-                background-color: #d81921;
-                display: block;
-            }
-            #top-nav a {
-                color: white;
-            }
-            #top-nav .pure-menu-heading {
-                font-size: larger;
-                font-weight: bold;
-            }
-            #main-nav-body a:hover{
-                background-color: #aa141c;
-            }
-            #main-nav-body .pure-menu-active>.pure-menu-link{
-                background-color: #aa141c;
-            }
-            .pure-menu-selected>.pure-menu-link, .pure-menu-selected>.pure-menu-link:visited {
-                background-color: #aa141c;
-            }
-            .pure-menu-heading {
-                text-transform: none;
-            }
-            #top-nav .pure-menu-children {
-                left: 0;
-                top: 100%;
-                margin-left: 15px;
-                border: 1px solid black;
-            }
-            #main-nav-body {
-                display: none;
-            }
-            #menu-toggle {
-                width: 25;
-                height: 25;
-                text-align: right;
-            }
-            #menu-toggle .button-small {
-                background-color: #d81921;
-            }
-            .pure-button-hover, .pure-button:focus, .pure-button:hover {
-                background-image: none;
-            }
-            #home-link {
-                padding-top: 8px;
-            }
-
-            @media screen and (min-width: 64em) {
-                #top-nav {
-                    max-width: 200px;
-                }
-                #main-nav-body {
-                    display: block;
-                }
-                #menu-toggle {
-                    display: none;
-                }
-            }
-        </style>
-
-       {% if config.extra.enable_ads %}
+        {% if config.extra.enable_ads %}
             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
             <script>
                 (adsbygoogle = window.adsbygoogle || []).push({
@@ -136,7 +41,7 @@
                     enable_page_level_ads: true
                 });
             </script>
-       {% endif %}
+        {% endif %}
     </head>
 
     <body>
@@ -161,7 +66,7 @@
                 <p>{% if config.repo_url %}Check out the <a href="{{ config.repo_url }}">GitHub</a> repo.  {% endif %}Website built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
                 <p>Download the offline version of this site <a href="{{ base_url }}/5thsrd_offline.zip">here</a>.</p>
             </div>
-       </footer>
+        </footer>
         <script src="/js/site.min.js"></script>
     </body>
 </html>
