@@ -1,5 +1,6 @@
 .l-box {
     padding: 1em;
+    max-width: 850px;
 }
 #content {
     background-image: url("/img/hex.png");
