@@ -19,20 +19,12 @@ Some of these languages are actually families of languages with many dialects. F
 
 ### Exotic Languages
 | Language    | Typical Speakers    | Script    |
-
 |-------------|---------------------|-----------|
-
 | Abyssal     | Demons              | Infernal  |
-
 | Celestial   | Celestials          | Celestial |
-
 | Draconic    | Dragons, dragonborn | Draconic  |
-
 | Deep Speech | Aboleths, cloakers  | -         |
 | Infernal    | Devils              | Infernal  |
-
 | Primordial  | Elementals          | Dwarvish  |
-
 | Sylvan      | Fey creatures       | Elvish    |
-
 | Undercommon | Underworld traders  | Elvish    |
