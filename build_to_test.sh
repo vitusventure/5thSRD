@@ -2,7 +2,7 @@
 
 git pull
 
-python3 build_indexes.py
+poetry run python ./build_indexes.py
 
 mkdocs build --clean
 
