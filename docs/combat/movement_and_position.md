@@ -1,6 +1,8 @@
 # Movement and Position 
-In combat, characters and monsters are in constant motion, often using movement and position to gain the upper hand.    
-On your turn, you can move a distance up to your speed. You can use as much or as little of your speed as you like on your turn, following the rules here.    
+In combat, characters and monsters are in constant motion, often using movement and position to gain the upper hand.
+
+On your turn, you can move a distance up to your speed. You can use as much or as little of your speed as you like on your turn, following the rules here.
+
 Your movement can include jumping, climbing, and swimming. These different modes of movement can be combined with walking, or they can constitute your entire move. However you're moving, you deduct the distance of each part of your move from your speed until it is used up or until you are done moving. 
 
 ## Breaking Up Your Move 
@@ -10,16 +12,20 @@ You can break up your movement on your turn, using some of your speed before and
 If you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks. For example, a fighter who can make two attacks with the Extra Attack feature and who has a speed of 25 feet could move 10 feet, make an attack, move 15 feet, and then attack again. 
 
 ### Using Different Speeds 
-If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move.    
+If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move.
+
 For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the fly spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more. 
 
 ## Difficult Terrain 
-Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briar-choked forests, treacherous staircases--the setting of a typical fight contains difficult terrain.    
-Every foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain.    
+Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briar-choked forests, treacherous staircases--the setting of a typical fight contains difficult terrain.
+
+Every foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain.
+
 Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are examples of difficult terrain. The space of another creature, whether hostile or not, also counts as difficult terrain. 
 
 ## Being Prone 
-Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are prone, a condition described in appendix A. You can drop prone without using any of your speed. Standing up takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.    
+Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are prone, a condition described in appendix A. You can drop prone without using any of your speed. Standing up takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.
+
 To move while prone, you must **crawl** or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of
 movement.
 
@@ -49,8 +55,10 @@ movement.
 >* hand an item to another character 
 
 ## Moving Around Other Creatures 
-You can move through a nonhostile creature's space. In contrast, you can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than you. Remember that another creature's space is difficult terrain for you.   
-Whether a creature is a friend or an enemy, you can't willingly end your move in its space.    
+You can move through a nonhostile creature's space. In contrast, you can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than you. Remember that another creature's space is difficult terrain for you.
+
+Whether a creature is a friend or an enemy, you can't willingly end your move in its space.
+
 If you leave a hostile creature's reach during your move, you provoke an opportunity attack, as explained later in the chapter. 
 
 ## Flying Movement 
@@ -69,10 +77,13 @@ Each creature takes up a different amount of space. The Size Categories table sh
 | Large      | 10 by 10 ft.           |
 | Huge       | 15 by 15 ft.           |
 | Gargantuan | 20 by 20 ft. or larger |
-                    
+
+
 ### Space 
-A creature's space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn't 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5‐foot-wide doorway, other creatures can't get through unless the hobgoblin lets them.    
-A creature's space also reflects the area it needs to fight effectively. For that reason, there's a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 5-foot radius around another one.    
+A creature's space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn't 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5‐foot-wide doorway, other creatures can't get through unless the hobgoblin lets them.
+
+A creature's space also reflects the area it needs to fight effectively. For that reason, there's a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 5-foot radius around another one.
+
 Because larger creatures take up more space, fewer of them can surround a creature. If five Large creatures crowd around a Medium or smaller one, there's little room for anyone else. In contrast, as many as twenty Medium creatures can surround a Gargantuan one. 
 
 ### Squeezing into a Smaller Space 

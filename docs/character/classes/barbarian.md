@@ -47,15 +47,18 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Rage 
 - - -
-In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.   
+In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
+
 While raging, you gain the following benefits if you aren't wearing heavy armor:
 
 * You have advantage on Strength checks and Strength saving throws.
 * When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
 * You have resistance to bludgeoning, piercing, and slashing damage. 
 
-If you are able to cast spells, you can't cast them or concentrate on them while raging.   
-Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.   
+If you are able to cast spells, you can't cast them or concentrate on them while raging.
+
+Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+
 Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again. 
 
 ### Unarmored Defense
@@ -89,7 +92,8 @@ Starting at 5th level, your speed increases by 10 feet while you aren’t wearin
 
 ### Feral Instinct 
 - - -
-By 7th level, your instincts are so honed that you have advantage on initiative rolls.   
+By 7th level, your instincts are so honed that you have advantage on initiative rolls.
+
 Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn. 
 
 ### Brutal Critical 
@@ -99,7 +103,8 @@ This increases to two additional dice at 13th level and three additional dice at
 
 ### Relentless Rage 
 - - -
-Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.   
+Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
+
 Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10. 
 
 ### Persistent Rage 
@@ -125,7 +130,8 @@ Starting when you choose this path at 3rd level, you can go into a frenzy when y
 Beginning at 6th level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage. 
 
 #### Intimidating Presence 
-Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (**DC equal to 8 + your proficiency bonus + your Charisma modifier**) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.     
+Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (**DC equal to 8 + your proficiency bonus + your Charisma modifier**) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.
+
 If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours. 
 
 #### Retaliation 
