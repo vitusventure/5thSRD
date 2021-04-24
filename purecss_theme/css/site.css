@@ -96,3 +96,6 @@ a {
 .pure-g [class*=pure-u], footer {
     font-family: "Baskerville Old Face",Baskerville,"Hoefler Text",Garamond,"Times New Roman",serif;
 }
+#page-content ul {
+    line-height: 2;
+}

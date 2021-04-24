@@ -307,7 +307,7 @@ class SRDIndexBuilder:
 
             # Next, all the items
             for item in sorted(categorized_metadata_keys[metadata_category]):
-                output.append("[{item}]({rel_link})   ".format(
+                output.append("* [{item}]({rel_link})".format(
                     item=item,
                     rel_link=metadata[item]['relative_link']
                 ))
