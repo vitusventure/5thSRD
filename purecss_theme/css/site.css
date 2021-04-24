@@ -1,6 +1,6 @@
 .l-box {
     padding: 1em;
-    max-width: 850px;
+    max-width: 50em;
 }
 #content {
     background-image: url("/img/hex.png");
@@ -93,6 +93,6 @@ a {
         display: none;
     }
 }
-.pure-g [class*=pure-u] {
+.pure-g [class*=pure-u], footer {
     font-family: "Baskerville Old Face",Baskerville,"Hoefler Text",Garamond,"Times New Roman",serif;
 }
