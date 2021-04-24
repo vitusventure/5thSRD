@@ -16,6 +16,18 @@
         <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css">
         <link rel="stylesheet" href="/css/site.min.css">
 
+        {% if config.extra.enable_ads %}
+            <style>
+                .ad_below_toc {width: 300px; height: 50px; margin-top: 10px; margin-bottom: 10px; padding: 5px; border: 1px solid;}
+                @media screen and (min-width: 64em) {
+                    .ad_below_toc {
+                        width: 728px;
+                        height: 90px;
+                    }
+                }
+            </style>
+        {% endif %}
+
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -46,15 +58,28 @@
 
     <body>
         <div id="content" class="pure-g">
-                {% include "nav.html" %}
-                <div class="pure-u-1 pure-u-lg-5-6">
-                    <div class="l-box">
-                        {% include "toc.html" %}
-		        <div id="page-content">
-                           {{ page.content }}
-			</div>
+            {% include "nav.html" %}
+            <div class="pure-u-1 pure-u-lg-5-6">
+                <div class="l-box">
+                    {% include "toc.html" %}
+
+                    {% if config.extra.enable_ads %}
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7526144995854530" crossorigin="anonymous"></script>
+                        <!-- Below TOC -->
+                        <ins class="adsbygoogle ad_below_toc"
+                            style="display:block"
+                            data-ad-client="ca-pub-7526144995854530"
+                            data-ad-slot="6705184930"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                    {% endif %}
+
+                    <div id="page-content">
+                        {{ page.content }}
                     </div>
                 </div>
+            </div>
         </div>
 
         <footer>
