@@ -18,9 +18,10 @@
 
         {% if config.extra.enable_ads %}
             <style>
-                .ad_below_toc {width: 300px; height: 50px; margin-top: 10px; margin-bottom: 10px; padding: 5px; border: 1px solid;}
+                .ad_responsive_banner {width: 300px; height: 50px; margin-top: 10px; margin-bottom: 10px; padding: 5px; border: 1px solid;}
+                .ad_responsive_square {width: 300px; height: 250px; margin-top: 10px; margin-bottom: 10px; padding: 5px; border: 1px solid;}
                 @media screen and (min-width: 64em) {
-                    .ad_below_toc {
+                    .ad_responsive_banner, .ad_responsive_square {
                         width: 728px;
                         height: 90px;
                     }
@@ -45,15 +46,6 @@
             ga('send', 'pageview');
         </script>
         {% endif %}
-        {% if config.extra.enable_ads %}
-            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-            <script>
-                (adsbygoogle = window.adsbygoogle || []).push({
-                    google_ad_client: "ca-pub-7526144995854530",
-                    enable_page_level_ads: true
-                });
-            </script>
-        {% endif %}
     </head>
 
     <body>
@@ -66,7 +58,7 @@
                     {% if config.extra.enable_ads %}
                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7526144995854530" crossorigin="anonymous"></script>
                         <!-- Below TOC -->
-                        <ins class="adsbygoogle ad_below_toc"
+                        <ins class="adsbygoogle ad_responsive_banner"
                             style="display:block"
                             data-ad-client="ca-pub-7526144995854530"
                             data-ad-slot="6705184930"></ins>
@@ -78,6 +70,18 @@
                     <div id="page-content">
                         {{ page.content }}
                     </div>
+
+                    {% if config.extra.enable_ads %}
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7526144995854530" crossorigin="anonymous"></script>
+                        <!-- After Page Content -->
+                        <ins class="adsbygoogle ad_responsive_square"
+                                style="display:block"
+                                data-ad-client="ca-pub-7526144995854530"
+                                data-ad-slot="3781306995"></ins>
+                        <script>
+                                (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                    {% endif %}
                 </div>
             </div>
         </div>
