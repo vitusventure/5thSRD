@@ -1,5 +1,9 @@
 # 5thSRD
-5th Edition SRD in the style of d20srd.org
+This is a markdown version of the 5th Edition System Reference Document.
+
+Documents are in the docs/ directory.
+
+Published as a website built via mkdocs on https://5thsrd.org
 
 # How to Build
 Various indexes are built using build_indexes.py.
