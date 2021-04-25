@@ -8,24 +8,16 @@
         {% if config.site_description %}<meta name="description" content="{{ config.site_description }}">{% endif %}
         {% if config.site_author %}<meta name="author" content="{{ config.site_author }}">{% endif %}
         {% if page.canonical_url %}<link rel="canonical" href="{{ page.canonical_url }}">{% endif %}
-        <link rel="shortcut icon" href="{{ base_url }}/img/favicon.ico">
 
         <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
 
-        <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css">
-        <link rel="stylesheet" href="/css/site.min.css">
+        {% include "inline_styles.html" %}
 
         {% if config.extra.enable_ads %}
             <style>
                 .ad_responsive_banner {width: 300px; height: 50px; margin-top: 10px; margin-bottom: 10px; padding: 5px; border: 1px solid;}
                 .ad_responsive_square {width: 300px; height: 250px; margin-top: 10px; margin-bottom: 10px; padding: 5px; border: 1px solid;}
-                @media screen and (min-width: 64em) {
-                    .ad_responsive_banner, .ad_responsive_square {
-                        width: 728px;
-                        height: 90px;
-                    }
-                }
+                @media screen and (min-width: 64em) {.ad_responsive_banner, .ad_responsive_square {width: 728px; height: 90px;}}
             </style>
         {% endif %}
 
@@ -93,11 +85,11 @@
                 {% if config.copyright %}
                     <p>{{ config.copyright }}</p>
                 {% endif %}
-                <p>{% if config.repo_url %}Check out the <a href="{{ config.repo_url }}">GitHub</a> repo.  {% endif %}Website built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
-                <p>Download the offline version of this site <a href="{{ base_url }}/5thsrd_offline.zip">here</a>.</p>
+                <p>{% if config.repo_url %}Check out the <a href="{{ config.repo_url }}">GitHub repo</a>.  {% endif %}Website built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+                <p>Download the <a href="{{ base_url }}/5thsrd_offline.zip">offline version of this site</a>.</p>
             </div>
         </footer>
-        <script src="/js/site.min.js"></script>
+        <script async src="/js/site.min.js"></script>
     </body>
 </html>
 {% if page and page.is_homepage %}
