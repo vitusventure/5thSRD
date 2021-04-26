@@ -1,4 +1,5 @@
 import os
+import glob
 import markdown
 import codecs
 import logging
@@ -67,15 +68,11 @@ class SRDIndexBuilder:
         :return: None
         """
         self.logger.info('Cleaning directory: {0}'.format(directory))
-        # First, delete the directory
-        try:
-            shutil.rmtree(directory)
-        except FileNotFoundError:
-            pass
+        # Delete everything other than the static index.md in each directory
 
-        # Next, recreate it
-        os.makedirs(directory)
-
+        for item in glob.glob(f"{directory}/*.md"):
+            if not item.endswith('index.md'):
+                print(item)
 
 
     def build_class_spell_lists(self, spells_config, class_spell_lists_config):
@@ -214,7 +211,11 @@ class SRDIndexBuilder:
 
                 metadata_map[name] = {'name_category': name_category, 'relative_link': rel_link}
             except KeyError:
-                raise RuntimeError('File {0} missing name metadata attribute!'.format(filename))
+                if filename == 'index.md':
+                    self.logger.info('Skipping index file')
+                    continue
+                else:
+                    raise RuntimeError('File {0} missing name metadata attribute!'.format(filename))
 
             # After getting the default field, get any additional fields
             for field_name in additional_fields:
