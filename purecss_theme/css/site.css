@@ -2,10 +2,6 @@
     padding: 1em;
     max-width: 50em;
 }
-#content {
-    background-image: url("/img/hex.png");
-    background-repeat: repeat-x;
-}
 #toc {
     background-color: white;
     border: 1px solid;
@@ -91,6 +87,10 @@ a {
     }
     #menu-toggle {
         display: none;
+    }
+    #content {
+        background-image: url("/img/hex.png");
+        background-repeat: repeat-x;
     }
 }
 .pure-g [class*=pure-u], footer {
