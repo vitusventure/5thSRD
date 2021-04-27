@@ -12,28 +12,6 @@
         <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
 
         {% include "inline_styles.html" %}
-        <style>
-            /* Style the list */
-            ul.breadcrumbs {
-                padding-left: 0px;
-                margin-top: 5px;
-                margin-bottom: 10px;
-                list-style: none;
-            }
-
-            /* Display list items side by side */
-            ul.breadcrumbs li {
-                display: inline;
-                line-height: 1.5;
-            }
-
-            /* Add a slash symbol (/) before/behind each list item */
-            ul.breadcrumbs li+li:before {
-            padding: 4px;
-            color: black;
-            content: "/\00a0";
-            }
-        </style>
 
         {% if config.extra.enable_ads %}
             <style>
@@ -60,6 +38,10 @@
             ga('send', 'pageview');
         </script>
         {% endif %}
+
+        {% if config.extra.enable_ads %}
+            <script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7526144995854530" crossorigin="anonymous"></script>
+        {% endif %}
     </head>
 
     <body>
@@ -72,7 +54,6 @@
                     {% include "toc.html" %}
 
                     {% if config.extra.enable_ads %}
-                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7526144995854530" crossorigin="anonymous"></script>
                         <!-- Below TOC -->
                         <ins class="adsbygoogle ad_responsive_banner"
                             style="display:block"
@@ -88,7 +69,6 @@
                     </div>
 
                     {% if config.extra.enable_ads %}
-                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7526144995854530" crossorigin="anonymous"></script>
                         <!-- After Page Content -->
                         <ins class="adsbygoogle ad_responsive_square"
                                 style="display:block"

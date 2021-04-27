@@ -330,7 +330,7 @@ ul.breadcrumbs li {
 }
 
 ul.breadcrumbs li+li:before {
-padding: 4px;
-color: black;
-content: "/\00a0";
+    padding: 4px;
+    color: black;
+    content: "/\00a0";
 }
