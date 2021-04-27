@@ -11,6 +11,8 @@ docs/gamemaster_rules/monster_indexes/*
 !docs/gamemaster_rules/magic_item_indexes/index.md
 !docs/gamemaster_rules/monster_indexes/index.md
 
+purecss_theme/inline_styles.html
+
 __pycache__
 *.pyc
 .venv

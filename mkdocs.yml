@@ -11,7 +11,8 @@ theme:
 plugins:
   - mkdocs-simple-hooks:
       hooks:
-        {on_post_page: "plugins.table-styler:style_tables"}
+        on_post_page: "plugins.table-styler:style_tables"
+        on_pre_build: "plugins.css_minifier:generate_inline_css"
   - section-index
 extra:
   enable_ads: yes
