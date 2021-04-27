@@ -1,0 +1,11 @@
+<ul class="breadcrumbs">
+    <li><a href="/">5thSRD</a></li>
+    {% if page %}
+        {% for doc in page.ancestors|reverse %}
+            {% if doc.url %}
+                <li><a href="{{ doc.url|url }}">{{ doc.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+    {% if page %}<li>{{ page.title }}</li>{% endif %}
+</ul>

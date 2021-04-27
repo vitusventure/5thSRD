@@ -12,5 +12,6 @@ plugins:
   - mkdocs-simple-hooks:
       hooks:
         {on_post_page: "plugins.table-styler:style_tables"}
+  - section-index
 extra:
   enable_ads: yes

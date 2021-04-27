@@ -12,6 +12,28 @@
         <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
 
         {% include "inline_styles.html" %}
+        <style>
+            /* Style the list */
+            ul.breadcrumbs {
+                padding-left: 0px;
+                margin-top: 5px;
+                margin-bottom: 10px;
+                list-style: none;
+            }
+
+            /* Display list items side by side */
+            ul.breadcrumbs li {
+                display: inline;
+                line-height: 1.5;
+            }
+
+            /* Add a slash symbol (/) before/behind each list item */
+            ul.breadcrumbs li+li:before {
+            padding: 4px;
+            color: black;
+            content: "/\00a0";
+            }
+        </style>
 
         {% if config.extra.enable_ads %}
             <style>
@@ -45,6 +67,8 @@
             {% include "nav.html" %}
             <div class="pure-u-1 pure-u-lg-5-6">
                 <div class="l-box">
+                    {% include "breadcrumbs.html" %}
+
                     {% include "toc.html" %}
 
                     {% if config.extra.enable_ads %}
