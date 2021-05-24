@@ -23,16 +23,18 @@
         {% endif %}
 
         {% if config.extra.enable_snigel_ads %}
-            <style>
-                #adngin-top_leaderboard-0 {width: 300px; height: 50px; margin-top: 45px; margin-bottom: 45px; padding: 5px; background-color: white;}
-                #adngin-bottom_leaderboard-0 {width: 300px; height: 250px; margin-top: 45px; margin-bottom: 45px; padding: 5px; background-color: white;}
-                @media screen and (min-width: 64em) {.adngin-top_leaderboard-0, .adngin-bottom_leaderboard-0 {width: 728px; height: 90px;}}
-            </style>
+            {% raw %}
+                <style>
+                    #adngin-top_leaderboard-0 {width: 300px; height: 50px; margin-top: 45px; margin-bottom: 45px; padding: 5px; background-color: white;}
+                    #adngin-bottom_leaderboard-0 {width: 300px; height: 250px; margin-top: 45px; margin-bottom: 45px; padding: 5px; background-color: white;}
+                    @media screen and (min-width: 64em) {#adngin-top_leaderboard-0, #adngin-bottom_leaderboard-0 {width: 728px; height: 90px;}}
+                </style>
 
-            <script data-cfasync="false" type="text/javascript">
-                window.snigelPubConf = {"adengine": {"activeAdUnits": ["top_leaderboard", "bottom_leaderboard"]}}
-            </script>
-            <script async data-cfasync="false" src="https://staging-cdn.snigelweb.com/adengine/5thsrd.org/loader.js" type="text/javascript"></script>
+                <script data-cfasync="false" type="text/javascript">
+                    window.snigelPubConf = {"adengine": {"activeAdUnits": ["top_leaderboard", "bottom_leaderboard"]}}
+                </script>
+                <script async data-cfasync="false" src="https://staging-cdn.snigelweb.com/adengine/5thsrd.org/loader.js" type="text/javascript"></script>
+            {% endraw %}
         {% endif %}
 
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
