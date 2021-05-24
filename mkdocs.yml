@@ -16,3 +16,4 @@ plugins:
   - section-index
 extra:
   enable_snigel_ads: yes
+  enable_ga: yes
