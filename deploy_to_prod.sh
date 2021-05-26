@@ -7,13 +7,13 @@ git pull
 poetry run python ./build_indexes.py --offline
 
 # Build the offline site
-mkdocs build --clean --config-file offline_build_config.yml
+poetry run mkdocs build --clean --config-file offline_build_config.yml
 
 # Generate regular indexes
 poetry run python ./build_indexes.py
 
 # Build the site
-mkdocs build --clean
+poetry run mkdocs build --clean
 
 # Zip the offline version
 rm /tmp/5thsrd_offline.zip
