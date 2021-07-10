@@ -1,11 +1,24 @@
-<ul class="breadcrumbs">
-    <li><a href="/">5thSRD</a></li>
+<ol class="breadcrumbs" vocab="https://schema.org/" typeof="BreadcrumbList">
+    <li property="itemListElement" typeof="ListItem">
+        <a href="https://5thsrd.org" property="item" typeof="WebPage">
+            <span property="name">5thSRD</span>
+        </a>
+        <meta property="position" content="1">
+        {% set positionCount = [1] %}
+    </li>
     {% if page %}
-        {% for doc in page.ancestors|reverse %}
-            {% if doc.url %}
-                <li><a href="{{ doc.url|url }}">{{ doc.title }}</a></li>
-            {% endif %}
+        {% for doc in page.ancestors|selectattr("url")|reverse %}
+            {% set __ = positionCount.append(1) %}
+            <li property="itemListElement" typeof="ListItem">
+                <a href="{{ doc.canonical_url|url }}" property="item" typeof="WebPage">
+                    <span property="name">{{ doc.title }}</span>
+                </a>
+                <meta property="position" content="{{ positionCount|length }}">
+            </li>
         {% endfor %}
+        <li property="itemListElement" typeof="ListItem">
+            <span property="name">{{ page.title }}</span>
+            <meta property="position" content="{{ positionCount|length + 1 }}">
+        </li>
     {% endif %}
-    {% if page %}<li>{{ page.title }}</li>{% endif %}
-</ul>
+</ol>

@@ -317,19 +317,19 @@ a {
     line-height: 2;
 }
 
-ul.breadcrumbs {
+ol.breadcrumbs {
     padding-left: 0px;
     margin-top: 5px;
     margin-bottom: 10px;
     list-style: none;
 }
 
-ul.breadcrumbs li {
+ol.breadcrumbs li {
     display: inline;
     line-height: 1.5;
 }
 
-ul.breadcrumbs li+li:before {
+ol.breadcrumbs li+li:before {
     padding: 4px;
     color: black;
     content: "/\00a0";
