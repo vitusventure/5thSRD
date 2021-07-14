@@ -30,9 +30,6 @@
                     @media screen and (min-width: 64em) {#adngin-top_leaderboard-0, #adngin-bottom_leaderboard-0 {width: 728px; height: 90px;}}
                 </style>
 
-                <script data-cfasync="false" type="text/javascript">
-                    window.snigelPubConf = {"adengine": {"activeAdUnits": ["top_leaderboard", "bottom_leaderboard"]}}
-                </script>
                 <script async data-cfasync="false" src="https://cdn.snigelweb.com/adengine/5thsrd.org/loader.js" type="text/javascript"></script>
             {% endraw %}
         {% endif %}
@@ -97,6 +94,7 @@
 
                     {% if config.extra.enable_snigel_ads %}
                         <div id="adngin-bottom_leaderboard-0"></div>
+                        <div id="adngin-bottom_adhesive_desktop-0"></div>
                     {% endif %}
                 </div>
             </div>
