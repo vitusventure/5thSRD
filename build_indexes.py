@@ -17,15 +17,18 @@ build_config = {
             'indexes_to_generate': {
                 'school': {
                     'page_title': 'Spells by School',
-                    'output_file_name': 'spells_by_school.md'
+                    'output_file_name': 'spells_by_school.md',
+                    'description': 'All 5e SRD (System Reference Document) spells, organized by magic school.'
                 },
                 'name_category': {
                     'page_title': 'Spells by Name',
-                    'output_file_name': 'spells_by_name.md'
+                    'output_file_name': 'spells_by_name.md',
+                    'description': 'All 5e SRD (System Reference Document) spells, organized by spell name.'
                 },
                 'level': {
                     'page_title': 'Spells by Level',
-                    'output_file_name': 'spells_by_level.md'
+                    'output_file_name': 'spells_by_level.md',
+                    'description': 'All 5e SRD (System Reference Document) spells, organized by spell level.'
                 }
             }
         },
@@ -36,11 +39,13 @@ build_config = {
             'indexes_to_generate': {
                 'name_category': {
                     'page_title': 'Magic Items by Name',
-                    'output_file_name': 'items_by_name.md'
+                    'output_file_name': 'items_by_name.md',
+                    'description': 'All 5e SRD (System Reference Document) magic items, organized by name'
                 },
                 'type': {
                     'page_title': 'Magic Items by Type',
-                    'output_file_name': 'items_by_type.md'
+                    'output_file_name': 'items_by_type.md',
+                    'description': 'All 5e SRD (System Reference Document) magic items, organized by type'
                 }
             }
 
@@ -52,15 +57,18 @@ build_config = {
             'indexes_to_generate': {
                 'name_category': {
                     'page_title': 'Monsters by Name',
-                    'output_file_name': 'monsters_by_name.md'
+                    'output_file_name': 'monsters_by_name.md',
+                    'description': 'All 5e SRD (System Reference Document) monsters, organized by name'
                 },
                 'cr': {
                     'page_title': 'Monsters by CR',
-                    'output_file_name': 'monsters_by_cr.md'
+                    'output_file_name': 'monsters_by_cr.md',
+                    'description': 'All 5e SRD (System Reference Document) monsters, organized by challenge rating (CR)'
                 },
                 'type': {
                     'page_title': 'Monsters by Type',
-                    'output_file_name': 'monsters_by_type.md'
+                    'output_file_name': 'monsters_by_type.md',
+                    'description': 'All 5e SRD (System Reference Document) monsters, organized by monster type'
                 }
             }
         }

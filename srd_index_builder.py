@@ -48,7 +48,12 @@ class SRDIndexBuilder:
                 category_config = index_type_config['indexes_to_generate'][index_category]
 
                 categorized_keys = self.categorize_metadata_keys(metadata, index_category)
-                index_page = self.create_index_page(metadata, categorized_keys, category_config['page_title'])
+                index_page = self.create_index_page(
+                    metadata, 
+                    categorized_keys, 
+                    category_config['page_title'],
+                    description=category_config.get('description')
+                    )
 
                 self.write_page_to_file(index_page, index_type_config['index_path'] + category_config['output_file_name'])
 
