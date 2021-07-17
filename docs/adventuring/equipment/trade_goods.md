@@ -1,3 +1,5 @@
+description: Information about different trade goods from the 5e SRD (System Reference Document).
+
 # Trade Goods
 Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).
 

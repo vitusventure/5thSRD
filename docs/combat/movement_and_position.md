@@ -1,3 +1,5 @@
+description: Rules for managing movement and position in combat from the 5e SRD (System Reference Document).
+
 # Movement and Position 
 In combat, characters and monsters are in constant motion, often using movement and position to gain the upper hand.
 

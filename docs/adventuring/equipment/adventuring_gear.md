@@ -1,3 +1,5 @@
+description: A list of gear for adventuring from the 5e SRD (System Reference Document).
+
 # Adventuring Gear 
 This section describes items that have special rules or require further explanation.
 

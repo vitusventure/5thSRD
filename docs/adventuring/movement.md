@@ -1,3 +1,5 @@
+description: Rules for managing movement and travel from the 5e SRD (System Reference Document).
+
 # Movement 
 Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope--all sorts of movement play a key role in fantasy gaming adventures.
 

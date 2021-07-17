@@ -1,3 +1,5 @@
+description: How to cast a spell from the 5e SRD (System Reference Document).
+
 # Casting a Spell 
 When a character casts any spell, the same basic rules are followed, regardless of the character's class or the spell's effects.
 

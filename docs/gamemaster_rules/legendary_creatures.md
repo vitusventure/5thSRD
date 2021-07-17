@@ -1,3 +1,5 @@
+description: Rules, including lairs and actions, for legendary creatures from the 5e SRD (System Reference Document).
+
 # Legendary Creatures 
 A legendary creature can do things that ordinary creatures can't. It can take special actions outside its turn, and it might exert magical influence for miles around.
 

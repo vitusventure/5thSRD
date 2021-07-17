@@ -1,3 +1,5 @@
+description: Rules for leveling up a character from the 5e SRD (System Reference Document).
+
 # Leveling Up
 As your character goes on adventures and overcomes challenges, he or she gains experience, represented by experience points. A character who reaches a specified experience point total advances in capability. This advancement is called **gaining a level**.
 

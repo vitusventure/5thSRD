@@ -1,3 +1,5 @@
+description: General rules and descriptions for monsters from the 5e SRD (System Reference Document).
+
 # Monsters 
 A monster's statistics, sometimes referred to as its **stat block**, provide the essential information that you need to run the monster. 
 

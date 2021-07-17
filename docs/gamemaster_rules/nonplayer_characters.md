@@ -1,3 +1,5 @@
+description: Rules about nonplayer characters from the 5e SRD (System Reference Document).
+
 # Nonplayer Characters 
 ## Customizing NPCs 
 There are many easy ways to customize the NPCs for your home campaign.
