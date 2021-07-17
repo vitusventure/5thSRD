@@ -1,3 +1,5 @@
+description: Rules and information for the Rogue class from the 5e SRD (System Reference Document).
+
 # Rogue
 ## The Rogue
 | Level | Proficiency Bonus | Sneak Attack  | Features                               |

@@ -1,3 +1,5 @@
+description: Rules and information for the Elf race from the 5e SRD (System Reference Document).
+
 # Elf 
 ## Elf Traits 
 - - -

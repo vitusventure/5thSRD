@@ -1,3 +1,5 @@
+description: Rules and information for the Tiefling race from the 5e SRD (System Reference Document).
+
 # Tiefling 
 ## Tiefling Traits 
 - - -

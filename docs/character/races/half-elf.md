@@ -1,4 +1,6 @@
-#Half-Elf 
+description: Rules and information for the Half-Elf race from the 5e SRD (System Reference Document).
+
+# Half-Elf 
 ## Half-Elf Traits 
 - - -
 Your half-elf character has some qualities in common with elves and some that are unique to half-elves. 

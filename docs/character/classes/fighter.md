@@ -1,3 +1,5 @@
+description: Rules and information for the Fighter class from the 5e SRD (System Reference Document).
+
 # Fighter
 
 ## Class Table

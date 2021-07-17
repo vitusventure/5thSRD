@@ -1,3 +1,5 @@
+description: Rules and information for the Warlock class from the 5e SRD (System Reference Document).
+
 # Warlock
 ## The Warlock
 | Level | Proficiency Bonus | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known | Features                           |

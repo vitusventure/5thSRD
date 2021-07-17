@@ -1,3 +1,5 @@
+description: Rules and information for the Bard class from the 5e SRD (System Reference Document).
+
 # Bard
 ## The Bard
 | Level | Proficiency Bonus | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | Features                                               |

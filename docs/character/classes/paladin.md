@@ -1,3 +1,5 @@
+description: Rules and information for the Paladin class from the 5e SRD (System Reference Document).
+
 # Paladin
 ## The Paladin
 | Level | Proficiency Bonus | 1st | 2nd | 3rd | 4th | 5th | Features                                   |

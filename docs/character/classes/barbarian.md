@@ -1,3 +1,5 @@
+description: Rules and information for the Barbarian class from the 5e SRD (System Reference Document).
+
 # Barbarian
 ## The Barbarian
 | Level | Proficiency Bonus | Rages     | Rage Damage | Features                                      |

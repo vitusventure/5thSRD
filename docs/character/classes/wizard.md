@@ -1,3 +1,5 @@
+description: Rules and information for the Wizard class from the 5e SRD (System Reference Document).
+
 # Wizard
 ## The Wizard
 | Level | Proficiency Bonus | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | Features                         |
