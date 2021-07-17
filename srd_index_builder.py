@@ -118,7 +118,8 @@ class SRDIndexBuilder:
             index_page = self.create_index_page(class_spells_metadata,
                                                 categorized_keys,
                                                 '{0} Spells'.format(class_name.capitalize()),
-                                                use_spell_titles=True)
+                                                use_spell_titles=True,
+                                                description=f'A list of 5e {class_name.capitalize()} spells, organized by level.')
             self.write_page_to_file(index_page, '{base}{class_name}_spells.md'.format(
                 base=class_spell_lists_config['index_path'],
                 class_name=class_name
@@ -263,11 +264,13 @@ class SRDIndexBuilder:
 
         return categorized_metadata_keys_dict
 
-    def create_index_page(self, metadata, categorized_metadata_keys, page_title, use_spell_titles=False):
+    def create_index_page(self, metadata, categorized_metadata_keys, page_title, use_spell_titles=False, description=None):
         """
         Create a markdown index page, using metadata and categorized metadata keys
 
         The page follows a basic format:
+
+        description: <description>
 
         # <page_title>
         ## <category1>
@@ -287,7 +290,10 @@ class SRDIndexBuilder:
         :return: List of lines representing a page of markdown
         """
         # First, the page title
-        output = ['# {0}'.format(page_title)]
+        if description:
+             output = [f'description: {description}', '',  f'# {page_title}']
+        else:
+             output = ['# {0}'.format(page_title)]
 
         # Generate sorted metadata category lists
         try:
