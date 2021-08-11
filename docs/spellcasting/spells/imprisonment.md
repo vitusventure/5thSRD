@@ -5,7 +5,7 @@ classes: warlock
          wizard
 
 # Imprisonment 
-_9th-level abjuration+ 
+_9th-level abjuration_
 
 **Casting Time:** 1 minute    
 **Range:** 30 feet    
