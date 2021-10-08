@@ -17,7 +17,13 @@
            <meta name="description" content="{{ page.meta.description }}">
         {% endif %}
 
-        <meta name="keywords" content="{{ page.meta.name }},5th edition {{ page.meta.name }},5e {{ page.meta.name }},{{ page.meta.name }} 5th edition, {{ page.meta.name }} 5e"
+        {% if page.meta.name %}
+            {% set page_subject = page.meta.name %}
+        {% else %}
+            {% set page_subject = page.title %}
+        {% endif %}
+
+        <meta name="keywords" content="{{ page_subject }},5th edition {{ page_subject }},5e {{ page_subject }},{{ page_subject }} 5th edition, {{ page_subject }} 5e">
 
         {% if config.site_author %}<meta name="author" content="{{ config.site_author }}">{% endif %}
         {% if page.canonical_url %}<link rel="canonical" href="{{ page.canonical_url }}">{% endif %}
