@@ -8,14 +8,16 @@
         {% if page.title == 'Home' and config.site_description %}
            <meta name="description" content="{{ config.site_description }}">
         {% elif 'name' in page.meta and '/magic_items/' in page.canonical_url %}
-            <meta name="description" content="The magic item {{ page.meta.name }}, from the 5e SRD (System Reference Document).">
+            <meta name="description" content="The magic item {{ page.meta.name }}, from the 5th edition SRD (System Reference Document).">
         {% elif 'name' in page.meta and '/monsters/' in page.canonical_url %}
-            <meta name="description" content="The monster {{ page.meta.name }}, from the 5e SRD (System Reference Document).">
+            <meta name="description" content="The monster {{ page.meta.name }}, from the 5th edition SRD (System Reference Document).">
         {% elif 'name' in page.meta and '/spells/' in page.canonical_url %}
-            <meta name="description" content="The spell {{ page.meta.name }}, from the 5e SRD (System Reference Document).">
+            <meta name="description" content="The spell {{ page.meta.name }}, from the 5th edition SRD (System Reference Document).">
         {% elif page.meta.description %}
            <meta name="description" content="{{ page.meta.description }}">
         {% endif %}
+
+        <meta name="keywords" content="{{ page.meta.name }},5th edition {{ page.meta.name }},5e {{ page.meta.name }},{{ page.meta.name }} 5th edition, {{ page.meta.name }} 5e"
 
         {% if config.site_author %}<meta name="author" content="{{ config.site_author }}">{% endif %}
         {% if page.canonical_url %}<link rel="canonical" href="{{ page.canonical_url }}">{% endif %}
