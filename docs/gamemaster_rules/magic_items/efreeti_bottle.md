@@ -4,7 +4,8 @@ type: item
 # Efreeti Bottle 
 _Wondrous item, very rare_ 
 
-This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an efreeti appears in an unoccupied space within 30 feet of you.    
+This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an efreeti appears in an unoccupied space within 30 feet of you.
+
 The first time the bottle is opened, the GM rolls to determine what happens. 
 
 | d100  | Effect                                                                                                        |

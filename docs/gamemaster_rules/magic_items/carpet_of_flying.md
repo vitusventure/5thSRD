@@ -4,7 +4,8 @@ type: item
 # Carpet of Flying 
 _Wondrous item, very rare_ 
 
-You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.    
+You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.
+
 Four sizes of **carpet of flying** exist. The GM chooses the size of a given carpet or determines it randomly. 
 
 | d100   | Size          | Capacity | Flying Speed |
