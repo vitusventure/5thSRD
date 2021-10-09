@@ -1,4 +1,4 @@
-description: Rules and descriptions for diseases from the 5e SRD (System Reference Document).
+description: Rules and descriptions for diseases from the 5th Edition (5e) SRD (System Reference Document).
 
 # Diseases 
 A plague ravages the kingdom, setting the adventurers on a quest to find a cure. An adventurer emerges from an ancient tomb, unopened for centuries, and soon finds herself suffering from a wasting illness. A warlock offends some dark power and contracts a strange affliction that spreads whenever he casts spells.

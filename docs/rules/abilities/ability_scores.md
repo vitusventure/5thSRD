@@ -1,3 +1,5 @@
+description: Ability descriptions and modifier rules from the 5th Edition (5e) System Reference Document (SRD)
+
 # Ability Scores 
 Six abilities provide a quick description of every creature's physical and mental characteristics: 
 

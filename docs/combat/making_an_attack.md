@@ -1,4 +1,4 @@
-description: Rules for making an attack from the 5e SRD (System Reference Document).
+description: Rules for making an attack from the 5th Edition (5e) SRD (System Reference Document).
 
 # Making an Attack 
 Whether you're striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a spell, an attack has a simple structure. 

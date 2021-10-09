@@ -1,3 +1,5 @@
+description: Information on the Dexterity ability from the 5th Edition (5e) System Reference Document (SRD)
+
 # Dexterity 
 Dexterity measures agility, reflexes, and balance. 
 

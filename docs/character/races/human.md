@@ -1,4 +1,4 @@
-description: Rules and information for the Human race from the 5e SRD (System Reference Document).
+description: Rules and information for the Human race from the 5th Edition (5e) SRD (System Reference Document).
 
 # Human 
 ## Human Traits 

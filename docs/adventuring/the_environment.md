@@ -1,4 +1,4 @@
-description: Rules for managing environmental hazards from the 5e SRD (System Reference Document).
+description: Rules for managing environmental hazards from the 5th Edition (5e) SRD (System Reference Document).
 
 # The Environment 
 By its nature, adventuring involves delving into places that are dark, dangerous, and full of mysteries to be explored. The rules in this section cover some of the most important ways in which adventurers interact with the environment in such places. 

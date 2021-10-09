@@ -1,3 +1,5 @@
+description: Information on the Wisdom ability from the 5th Edition (5e) System Reference Document (SRD)
+
 # Wisdom 
 Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition. 
 

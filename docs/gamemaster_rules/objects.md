@@ -1,4 +1,4 @@
-description: Rules for interacting with objects from the 5e SRD (System Reference Document).
+description: Rules for interacting with objects from the 5th Edition (5e) SRD (System Reference Document).
 
 # Objects 
 When characters need to saw through ropes, shatter a window, or smash a vampire's coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character's success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.

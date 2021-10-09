@@ -1,4 +1,4 @@
-description: Rules and information for the Half-Elf race from the 5e SRD (System Reference Document).
+description: Rules and information for the Half-Elf race from the 5th Edition (5e) SRD (System Reference Document).
 
 # Half-Elf 
 ## Half-Elf Traits 

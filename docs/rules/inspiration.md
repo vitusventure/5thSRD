@@ -1,4 +1,4 @@
-description: Rules governing inspiration from the 5e SRD (System Reference Document).
+description: Rules governing inspiration from the 5th Edition (5e) SRD (System Reference Document).
 
 # Inspiration 
 Inspiration is a rule the game master can use to reward you for playing your character in a way that’s true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a spell that has been laid on you. 

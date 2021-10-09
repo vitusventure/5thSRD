@@ -1,4 +1,4 @@
-description: Rules and information for the Cleric class from the 5e SRD (System Reference Document).
+description: Rules and information for the Cleric class from the 5th Edition (5e) SRD (System Reference Document).
 
 # Cleric
 ## The Cleric

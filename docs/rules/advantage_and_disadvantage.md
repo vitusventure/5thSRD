@@ -1,4 +1,4 @@
-description: Rules describing the advantage and disadvantage system from the 5e SRD (System Reference Document).
+description: Rules describing the advantage and disadvantage system from the 5th Edition (5e) SRD (System Reference Document).
 
 # Advantage and Disadvantage 
 Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.

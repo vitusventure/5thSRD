@@ -1,4 +1,4 @@
-description: Rules for different coin types from the 5e SRD (System Reference Document).
+description: Rules for different coin types from the 5th Edition (5e) SRD (System Reference Document).
 
 # Coins 
 Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).

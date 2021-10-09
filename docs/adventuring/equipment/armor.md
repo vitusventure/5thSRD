@@ -1,4 +1,4 @@
-description: Rules and information about different armor types from the 5e SRD (System Reference Document).
+description: Rules and information about different armor types from the 5th Edition (5e) SRD (System Reference Document).
 
 # Armor 
 Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with a shield.

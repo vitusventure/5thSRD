@@ -1,4 +1,4 @@
-description: Rules and information governing player time between adventures (downtime) from the 5e SRD (System Reference Document).
+description: Rules and information governing player time between adventures (downtime) from the 5th Edition (5e) SRD (System Reference Document).
 
 # Between Adventures 
 Between trips to dungeons and battles against ancient evils, adventurers need time to rest, recuperate, and prepare for their next adventure. Many adventurers also use this time to perform other tasks, such as crafting arms and armor, performing research, or spending their hard-earned gold.

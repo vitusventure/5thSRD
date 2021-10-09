@@ -1,3 +1,5 @@
+description: Information on the Intelligence ability from the 5th Edition (5e) System Reference Document (SRD)
+
 # Intelligence 
 Intelligence measures mental acuity, accuracy of recall, and the ability to reason. 
 

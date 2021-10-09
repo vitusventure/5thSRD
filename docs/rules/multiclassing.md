@@ -1,4 +1,4 @@
-description: Rules for creating a multiclass character from the 5e SRD (System Reference Document).
+description: Rules for creating a multiclass character from the 5th Edition (5e) SRD (System Reference Document).
 
 # Multiclassing 
 Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.

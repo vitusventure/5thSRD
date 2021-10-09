@@ -1,4 +1,4 @@
-description: Rules and descriptions of traps from the 5e SRD (System Reference Document).
+description: Rules and descriptions of traps from the 5th Edition (5e) SRD (System Reference Document).
 
 # Traps 
 Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.

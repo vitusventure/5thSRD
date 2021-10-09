@@ -1,4 +1,4 @@
-description: Rules and information for the Halfling race from the 5e SRD (System Reference Document).
+description: Rules and information for the Halfling race from the 5th Edition (5e) SRD (System Reference Document).
 
 # Halfling 
 ## Halfling Traits 

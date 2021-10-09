@@ -1,4 +1,4 @@
-description: Rules for tracking time from the 5e SRD (System Reference Document).
+description: Rules for tracking time from the 5th Edition (5e) SRD (System Reference Document).
 
 # Time 
 In situations where keeping track of the passage of time is important, the GM determines the time a task requires. The GM might use a different time scale depending on the context of the situation at hand. In a dungeon environment, the adventurers' movement happens on a scale of **minutes**. It takes them about a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good ten minutes to search the chamber beyond for anything interesting or valuable.

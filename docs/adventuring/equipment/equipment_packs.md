@@ -1,4 +1,4 @@
-description: A list of prebuilt equipment packs for characters from the 5e SRD (System Reference Document).
+description: A list of prebuilt equipment packs for characters from the 5th Edition (5e) SRD (System Reference Document).
 
 # Equipment packs
 The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.

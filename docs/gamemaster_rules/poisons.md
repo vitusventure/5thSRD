@@ -1,4 +1,4 @@
-description: Rules and descriptions governing poisons from the 5e SRD (System Reference Document).
+description: Rules and descriptions governing poisons from the 5th Edition (5e) SRD (System Reference Document).
 
 # Poisons 
 Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures.

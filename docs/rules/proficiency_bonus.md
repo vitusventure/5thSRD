@@ -1,4 +1,4 @@
-description: How to use a proficiency bonus from the 5e SRD (System Reference Document).
+description: How to use a proficiency bonus from the 5th Edition (5e) SRD (System Reference Document).
 
 # Proficiency Bonus 
 Characters have a proficiency bonus determined by level. Monsters also have this bonus, which is incorporated in their stat blocks. The bonus is used in the rules on ability checks, saving throws, and attack rolls.

@@ -1,6 +1,6 @@
-## Welcome to the 5e System Reference Document (SRD)!
+# Welcome to the 5e System Reference Document (SRD)!
 
-### Adventuring
+## Adventuring
 
 | General Adventuring                                        | Adventuring - Equipment                                              |
 |------------------------------------------------------------|----------------------------------------------------------------------|
@@ -14,7 +14,7 @@
 |                                                            | [Weapons](./adventuring/equipment/weapons.md)                         |
 
 
-### Character
+## Character
 | Basic Character Rules                                                      | Character - Classes                          | Character - Races                            |
 |----------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|
 | [Alignment](./character/alignment.md)                                       | [Barbarian](./character/classes/barbarian.md) | [Dragonborn](./character/races/dragonborn.md) |
@@ -30,7 +30,7 @@
 |                                                                            | [Warlock](./character/classes/warlock.md)     |                                              |
 |                                                                            | [Wizard](./character/classes/wizard.md)       |                                              |
 
-### Combat
+## Combat
 | Combat                                              |                                                           |
 |-----------------------------------------------------|-----------------------------------------------------------|
 | [Actions in Combat](./combat/actions_in_combat.md)   | [Mounted Combat](./combat/mounted_combat.md)               |
@@ -38,7 +38,7 @@
 | [Damage and Healing](./combat/damage_and_healing.md) | [Order of Combat](./combat/order_of_combat.md)             |
 | [Making an Attack](./combat/making_an_attack.md)     | [Underwater Combat](./combat/underwater_combat.md)         |
 
-### Rules
+## Rules
 | Rules                                                              | Rules - Abilities                                    |
 |--------------------------------------------------------------------|------------------------------------------------------|
 | [Advantage and Disadvantage](./rules/advantage_and_disadvantage.md) | [Ability Checks](./rules/abilities/ability_checks.md) |
@@ -52,7 +52,7 @@
 |                                                                    | [Wisdom](./rules/abilities/wisdom.md)                 |
 
 
-### GM Rules
+## GM Rules
 | GM Rules                                                             | GM Rules - Magic Item Indexes                                          | GM Rules - Monster Indexes                                                |
 |----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | [Diseases](./gamemaster_rules/diseases.md)                            | [Items by Name](./gamemaster_rules/magic_item_indexes/items_by_name.md) | [Monsters by Name](./gamemaster_rules/monster_indexes/monsters_by_name.md) |
@@ -66,7 +66,7 @@
 | [Sentient Magical Items](./gamemaster_rules/sentient_magical_items.md)|                                                                        |                                                                           |
 | [Traps](./gamemaster_rules/traps.md)                                  |                                                                        |                                                                           |
 
-### Spellcasting
+## Spellcasting
 | Spellcasting                                         | Spellcasting - Spell Indexes                                        | Spellcasting - Spell Lists                               |
 |------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------|
 | [Casting a Spell](./spellcasting/casting_a_spell.md)  | [Spells by Level](./spellcasting/spell_indexes/spells_by_level.md)   | [Bard](./spellcasting/spell_lists/bard_spells.md)         |
