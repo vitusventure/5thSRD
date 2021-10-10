@@ -1,7 +1,6 @@
 description: Rules and information for the Ranger class from the 5th Edition (5e) SRD (System Reference Document).
 
-# Ranger
-## The Ranger
+# The Ranger
 | Level | Proficiency Bonus | Spells Known | 1st | 2nd | 3rd | 4th | 5th | Features                                   |
 |-------|-------------------|--------------|-----|-----|-----|-----|-----|--------------------------------------------|
 | 1st   | +2                | -            | -   | -   | -   | -   | -   | Favored Enemy, Natural Explorer            |

@@ -124,7 +124,7 @@ class SRDIndexBuilder:
                                                 categorized_keys,
                                                 '{0} Spells'.format(class_name.capitalize()),
                                                 use_spell_titles=True,
-                                                description=f'A list of 5e {class_name.capitalize()} spells, organized by level.')
+                                                description=f'5th Edition (5e) {class_name.capitalize()} spell list, organized by level.')
             self.write_page_to_file(index_page, '{base}{class_name}_spells.md'.format(
                 base=class_spell_lists_config['index_path'],
                 class_name=class_name

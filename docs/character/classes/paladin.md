@@ -1,7 +1,6 @@
 description: Rules and information for the Paladin class from the 5th Edition (5e) SRD (System Reference Document).
 
-# Paladin
-## The Paladin
+# The Paladin
 | Level | Proficiency Bonus | 1st | 2nd | 3rd | 4th | 5th | Features                                   |
 |-------|-------------------|-----|-----|-----|-----|-----|--------------------------------------------|
 | 1st   | +2                | -   | -   | -   | -   | -   | Divine Sense, Lay on Hands                 |

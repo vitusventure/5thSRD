@@ -18,17 +18,17 @@ build_config = {
                 'school': {
                     'page_title': 'Spells by School',
                     'output_file_name': 'spells_by_school.md',
-                    'description': 'All spells from the 5e SRD (System Reference Document), organized by magic school.'
+                    'description': 'All spells from the 5th Edition (5e) SRD (System Reference Document), organized by magic school.'
                 },
                 'name_category': {
                     'page_title': 'Spells by Name',
                     'output_file_name': 'spells_by_name.md',
-                    'description': 'All spells from the 5e SRD (System Reference Document), organized by spell name.'
+                    'description': 'All spells from the 5th Edition (5e) SRD (System Reference Document), organized by spell name.'
                 },
                 'level': {
                     'page_title': 'Spells by Level',
                     'output_file_name': 'spells_by_level.md',
-                    'description': 'All spells from the 5e SRD (System Reference Document), organized by spell level.'
+                    'description': 'All spells from the 5th Edition (5e) SRD (System Reference Document), organized by spell level.'
                 }
             }
         },
@@ -40,12 +40,12 @@ build_config = {
                 'name_category': {
                     'page_title': 'Magic Items by Name',
                     'output_file_name': 'items_by_name.md',
-                    'description': 'All magic items from the 5e SRD (System Reference Document), organized by name'
+                    'description': 'All magic items from the 5th Edition (5e) SRD (System Reference Document), organized by name'
                 },
                 'type': {
                     'page_title': 'Magic Items by Type',
                     'output_file_name': 'items_by_type.md',
-                    'description': 'All magic items from the 5e SRD (System Reference Document), organized by type'
+                    'description': 'All magic items from the 5th Edition (5e) SRD (System Reference Document), organized by type'
                 }
             }
 
@@ -58,17 +58,17 @@ build_config = {
                 'name_category': {
                     'page_title': 'Monsters by Name',
                     'output_file_name': 'monsters_by_name.md',
-                    'description': 'All monsters from the 5e SRD (System Reference Document), organized by name'
+                    'description': 'All monsters from the 5th Edition (5e) SRD (System Reference Document), organized by name'
                 },
                 'cr': {
                     'page_title': 'Monsters by CR',
                     'output_file_name': 'monsters_by_cr.md',
-                    'description': 'All monsters from the 5e SRD (System Reference Document), organized by challenge rating (CR)'
+                    'description': 'All monsters from the 5th Edition (5e) SRD (System Reference Document), organized by challenge rating (CR)'
                 },
                 'type': {
                     'page_title': 'Monsters by Type',
                     'output_file_name': 'monsters_by_type.md',
-                    'description': 'All monsters from the 5e SRD (System Reference Document), organized by monster type'
+                    'description': 'All monsters from the 5th Edition (5e) SRD (System Reference Document), organized by monster type'
                 }
             }
         }

@@ -1,3 +1,5 @@
+description: In 5th Edition (5e), classes define what a character is good at and what skills they have.
+
 # Classes
 
 * [Barbarian](/character/classes/barbarian/)

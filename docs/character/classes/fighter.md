@@ -1,8 +1,6 @@
 description: Rules and information for the Fighter class from the 5th Edition (5e) SRD (System Reference Document).
 
-# Fighter
-
-## Class Table
+# The Fighter
 | Level | Proficiency Bonus | Features                    |
 |-------|-------------------|-----------------------------|
 | 1st   | +2                | Fighting Style, Second Wind |

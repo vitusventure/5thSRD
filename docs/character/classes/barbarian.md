@@ -1,7 +1,6 @@
 description: Rules and information for the Barbarian class from the 5th Edition (5e) SRD (System Reference Document).
 
-# Barbarian
-## The Barbarian
+# The Barbarian
 | Level | Proficiency Bonus | Rages     | Rage Damage | Features                                      |
 |-------|-------------------|-----------|-------------|-----------------------------------------------|
 | 1st   | +2                | 2         | +2          | Rage, Unarmored Defense                       |

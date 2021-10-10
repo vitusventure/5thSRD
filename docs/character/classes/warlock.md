@@ -1,7 +1,6 @@
 description: Rules and information for the Warlock class from the 5th Edition (5e) SRD (System Reference Document).
 
-# Warlock
-## The Warlock
+# The Warlock
 | Level | Proficiency Bonus | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known | Features                           |
 |-------|-------------------|----------------|--------------|-------------|------------|-------------------|------------------------------------|
 | 1st   | +2                | 2              | 2            | 1           | 1st        | -                 | Otherworldly Patron, Pact Magic    |
