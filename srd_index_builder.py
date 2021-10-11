@@ -95,7 +95,7 @@ class SRDIndexBuilder:
         :return: None
         """
         metadata = self.get_metadata(spells_config['source_directory'],
-                                     ['level', 'classes'],
+                                     ['level', 'classes', 'school'],
                                      spells_config['link_prefix'])
 
         # Generate a list of all the classes we have spells for
@@ -120,9 +120,9 @@ class SRDIndexBuilder:
 
             # After making our list of spells, we can build the index
             categorized_keys = self.categorize_metadata_keys(class_spells_metadata, 'level')
-            index_page = self.create_index_page(class_spells_metadata,
+            index_page = self.create_spell_list_table_page(class_spells_metadata,
                                                 categorized_keys,
-                                                '{0} Spells'.format(class_name.capitalize()),
+                                                '{0} Spell List'.format(class_name.capitalize()),
                                                 use_spell_titles=True,
                                                 description=f'5th Edition (5e) {class_name.capitalize()} spell list, organized by level.')
             self.write_page_to_file(index_page, '{base}{class_name}_spells.md'.format(
@@ -326,6 +326,58 @@ class SRDIndexBuilder:
 
             # Finally, a blank line after all the items
             output.append('')
+
+        return output
+
+    def create_spell_list_table_page(self, metadata, categorized_metadata_keys, page_title, use_spell_titles=False, description=None):
+        """
+        Create a markdown index page, using metadata and categorized metadata keys
+
+        The page follows a basic format:
+
+        description: <description>
+
+        # <page_title>
+        ## <category1>
+        [item1](/link/prefix/item1)
+        [item2](/link/prefix/item2)
+
+        ## <category2>
+        [item3](/link/prefix/item3)
+        [item4](/link/prefix/item4)
+
+        :param metadata: Metadata for a directory of files
+        :type metadata: dict
+        :param categorized_metadata_keys: Keys to metadata items sorted into categories (see self.categorize_metadata_keys)
+        :type categorized_metadata_keys: dict
+        :param page_title: Title of page to generate
+        :type page_title: str
+        :return: List of lines representing a page of markdown
+        """
+        # First, the page title
+        if description:
+            output = [f'description: {description}', '',  f'# {page_title}']
+        else:
+            output = ['# {0}'.format(page_title)]
+
+        # Generate sorted metadata category lists
+        try:
+            # Try to cast as float first, for things like CR (with values like .125
+            sorted_categories = sorted(categorized_metadata_keys, key=float)
+        except ValueError:
+            # Otherwise, just treat as strings
+            sorted_categories = sorted(categorized_metadata_keys)
+
+        # Assemble the page
+        output.append('|Spell Level|Name|School|')
+        output.append('|-|-|-|')
+        for metadata_category in sorted_categories:
+            # Next, all the items
+            for item in sorted(categorized_metadata_keys[metadata_category]):
+                spell_metadata = metadata[item]
+                if spell_metadata["level"] == '0':
+                    spell_metadata["level"] = '0 (Cantrip)'
+                output.append(f'|{spell_metadata["level"]}|[{item}]({spell_metadata["relative_link"]})|{spell_metadata["school"].capitalize()}')
 
         return output
 
