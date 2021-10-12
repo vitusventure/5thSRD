@@ -5,25 +5,22 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         {% if config.theme.color %}<meta name="theme-color" content="{{ config.theme.color }}">{% endif %}
-        {% if page.title == 'Home' and config.site_description %}
-           <meta name="description" content="{{ config.site_description }}">
+        {% if page.title == '5th Edition (5e) System Reference Document (SRD) Home' and config.site_description %}
+            {% set description = config.site_description %}
         {% elif 'name' in page.meta and '/magic_items/' in page.canonical_url %}
-            <meta name="description" content="The magic item {{ page.meta.name }}, from the 5th edition (5e) SRD (System Reference Document).">
+            {% set description = "The magic item {{ page.meta.name }}, from the 5th edition (5e) SRD (System Reference Document)." %}
         {% elif 'name' in page.meta and '/monsters/' in page.canonical_url %}
-            <meta name="description" content="The monster {{ page.meta.name }}, from the 5th edition (5e) SRD (System Reference Document).">
+            {% set description = "The monster {{ page.meta.name }}, from the 5th edition (5e) SRD (System Reference Document)." %}
         {% elif 'name' in page.meta and '/spells/' in page.canonical_url %}
-            <meta name="description" content="The spell {{ page.meta.name }}, from the 5th edition (5e) SRD (System Reference Document).">
+            {% set description ="The spell {{ page.meta.name }}, from the 5th edition (5e) SRD (System Reference Document)." %}
         {% elif page.meta.description %}
-           <meta name="description" content="{{ page.meta.description }}">
+            {% set description = page.meta.description %}
         {% endif %}
 
-        {% if page.meta.name %}
-            {% set page_subject = page.meta.name %}
-        {% else %}
-            {% set page_subject = page.title %}
-        {% endif %}
-
-        <meta name="keywords" content="{{ page_subject }},5th edition {{ page_subject }},5e {{ page_subject }},{{ page_subject }} 5th edition, {{ page_subject }} 5e">
+        <meta name="description" content="{{ description }}">
+        <meta name="og:image" content="/img/5thsrd.png">
+        <meta name="og:description" content="{{ description }}">
+        
 
         {% if config.site_author %}<meta name="author" content="{{ config.site_author }}">{% endif %}
         {% if page.canonical_url %}<link rel="canonical" href="{{ page.canonical_url }}">{% endif %}
