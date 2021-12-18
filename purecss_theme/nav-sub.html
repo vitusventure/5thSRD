@@ -1,6 +1,17 @@
-{% if nav_item.title == "Spells" or nav_item.title == "Monsters" or nav_item.title == "Magic items" %}
+{% if not nav_item.children %}
+<li class="pure-menu-item {{ 'pure-menu-selected' if nav_item.active }}">
+  <a href="{{ nav_item.url|url }}" class="pure-menu-link">{{ nav_item.title }}</a>
+</li>
+{% else %}
+  {% if nav_item.title == "Spells" or nav_item.title == "Monsters" or nav_item.title == "Magic items" %}
   {% else %}
-  <li class="pure-menu-item {{ 'pure-menu-selected' if nav_item.active }}">
-    <a href="{{ nav_item.url|url }}" class="pure-menu-link">{{ nav_item.title }}</a>
+  <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover {{ 'pure-menu-selected' if nav_item.active }}">
+    <a href="#" class="pure-menu-link {{ 'pure-menu-selected' if nav_item.active }}">{{ nav_item.title }}</a>
+    <ul class="pure-menu-children">
+      {% for nav_item in nav_item.children %}
+        {% include "nav-sub.html" %}
+      {% endfor %}
+    </ul>
   </li>
+  {% endif %}
 {% endif %}
