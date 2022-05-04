@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         {% if config.theme.color %}<meta name="theme-color" content="{{ config.theme.color }}">{% endif %}
-        {% if page.title == '5th Edition (5e) System Reference Document (SRD) Home' and config.site_description %}
+        {% if page.title == '5th Edition System Reference Document' and config.site_description %}
             {% set description = config.site_description %}
         {% elif 'name' in page.meta and '/magic_items/' in page.canonical_url %}
             {% set description = "The magic item {{ page.meta.name }}, from the 5th edition (5e) SRD (System Reference Document)." %}
@@ -76,7 +76,7 @@
             {% include "nav.html" %}
             <div class="pure-u-1 pure-u-lg-5-6">
                 <div class="l-box">
-                    {% if page.title not in ("5th Edition (5e) System Reference Document (SRD) Home") %}
+                    {% if page.title not in ("5th Edition System Reference Document") %}
                        {% include "breadcrumbs.html" %}
                     {% endif %}
 

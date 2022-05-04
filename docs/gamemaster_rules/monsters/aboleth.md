@@ -1,6 +1,6 @@
 name: Aboleth
 cr: 10
-type: abberation
+type: aberration
 
 
 # Aboleth 

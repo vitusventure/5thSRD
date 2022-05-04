@@ -1,4 +1,4 @@
-# 5th Edition (5e) System Reference Document (SRD) Home
+# 5th Edition System Reference Document
 
 ## Adventuring
 

@@ -1,5 +1,5 @@
 name: Chuul
-type: abberation
+type: aberration
 cr: 4
 
 # Chuul 

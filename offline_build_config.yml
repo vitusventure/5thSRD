@@ -1,15 +1,21 @@
 site_name: 5th Edition SRD
-copyright: Provided by Wizards of the Coast under the OGL 1.0a.
-site_description: A web-based version of the 5th Edition Dungeons and Dragons SRD (System Reference Document)
+site_url: https://5thsrd.org
+repo_url: https://github.com/vitusventure/5thSRD
+copyright: Rules provided by Wizards of the Coast under the <a href="/license/">OGL 1.0a</a>.
+site_description: A web-based version of the 5th Edition SRD (System Reference Document)
+google_analytics: ["UA-72655850-1", '5thsrd.org']
+site_dir: 5thsrd_offline
+use_directory_urls: false
 theme:
   name: null
   color: "rgb(216, 25, 33)" # Match with @brand-primary in variables.less
   custom_dir: purecss_theme
-site_dir: 5thsrd_offline
-use_directory_urls: false
 plugins:
   - mkdocs-simple-hooks:
       hooks:
         on_post_page: "plugins.table-styler:style_tables"
         on_pre_build: "plugins.css_minifier:generate_inline_css"
   - section-index
+extra:
+  enable_snigel_ads: no
+  enable_ga: no

@@ -12,7 +12,7 @@
         </div>
     </span>
     <ul class="pure-menu-list" id="main-nav-body">
-        {% for nav_item in nav if nav_item.title not in ("5th Edition (5e) System Reference Document (SRD) Home", "Search", "Search the SRD", "Legal Information", "License", "Privacy Policy") %}
+        {% for nav_item in nav if nav_item.title not in ("5th Edition System Reference Document", "Search", "Search the SRD", "Legal Information", "License", "Privacy Policy") %}
             {% if nav_item.children %}
                 <li class="pure-menu-item {{ 'pure-menu-selected' if nav_item.active }} pure-menu-has-children pure-menu-allow-hover">
                     <a href="#" class="pure-menu-link">{{ nav_item.title }}</a>
