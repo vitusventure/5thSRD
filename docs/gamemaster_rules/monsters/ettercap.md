@@ -18,7 +18,8 @@ _Medium monstrosity, neutral evil_
 **Languages** --    
 **Challenge** 2 (450 XP) 
 
-**Spider Climb.** The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Web Sense. While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.    
+**Spider Climb.** The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. 
+**Web Sense.** While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.    
 **Web Walker.** The ettercap ignores movement restrictions caused by webbing. 
 
 ### Actions 
