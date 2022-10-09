@@ -14,6 +14,7 @@ plugins:
         on_post_page: "plugins.table-styler:style_tables"
         on_pre_build: "plugins.css_minifier:generate_inline_css"
   - section-index
+  - with-pdf
 extra:
   enable_snigel_ads: yes
   enable_ga: no
