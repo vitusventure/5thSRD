@@ -13,11 +13,14 @@ plugins:
   #     hooks:
   #       on_post_page: "plugins.table-styler:style_tables"
   #       on_pre_build: "plugins.css_minifier:generate_inline_css"
-  - section-index
+  # - section-index
   - with-pdf:
       author: Wizards of the Coast
       copyright: Open Game License v1.0a
       cover_subtitle: Systems Reference Document
+      exclude_pages:
+        - privacy_policy
+        - search
 extra:
   enable_snigel_ads: yes
   enable_ga: no
