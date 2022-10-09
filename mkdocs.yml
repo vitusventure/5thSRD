@@ -4,10 +4,10 @@ repo_url: https://github.com/vitusventure/5thSRD
 copyright: Rules provided by Wizards of the Coast under the <a href="/license/">OGL 1.0a</a>.
 site_description: A web-based version of the 5th Edition SRD (System Reference Document)
 google_analytics: ["UA-72655850-1", '5thsrd.org']
-theme:
-  name: null
-  color: "rgb(216, 25, 33)" # Match with @brand-primary in variables.less
-  custom_dir: purecss_theme
+# theme:
+#   name: null
+#   color: "rgb(216, 25, 33)" # Match with @brand-primary in variables.less
+#   custom_dir: purecss_theme
 plugins:
   - mkdocs-simple-hooks:
       hooks:
