@@ -9,10 +9,10 @@ google_analytics: ["UA-72655850-1", '5thsrd.org']
 #   color: "rgb(216, 25, 33)" # Match with @brand-primary in variables.less
 #   custom_dir: purecss_theme
 plugins:
-  - mkdocs-simple-hooks:
-      hooks:
-        on_post_page: "plugins.table-styler:style_tables"
-        on_pre_build: "plugins.css_minifier:generate_inline_css"
+  # - mkdocs-simple-hooks:
+  #     hooks:
+  #       on_post_page: "plugins.table-styler:style_tables"
+  #       on_pre_build: "plugins.css_minifier:generate_inline_css"
   - section-index
   - with-pdf:
       author: Wizards of the Coast
